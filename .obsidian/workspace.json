@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "60163fc5eee39903",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f276f93c4a2c44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273b274ac8a9ac1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Box/waf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8816c63a6bf99f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Box/waf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909f0932acd0b7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Box/应急.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0f75ca36b322d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Box/云安全.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f82b7cde64a7ecd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "89613db6074d2eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc6d137d7deb89f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5ac82794c7f9939",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "745cf6e4a93b83f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "24922f586ad3e01f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a21e2a5c3b9379e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "45391e3eca33784d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a101f46785fc5ad5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00.Box/云安全.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4f5689c3ad1bf2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00.Box/云安全.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59968d4187956dba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6829c045508a2dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00.Box/云安全.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "b0f75ca36b322d8a",
+  "lastOpenFiles": [
+    "00.Box/云安全.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240805211047.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240805211047.png",
+    "0001.附件/Pasted image 20240805184604.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240805184604.png",
+    "0001.附件/Pasted image 20240805183159.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240805183159.png",
+    "0001.附件/Pasted image 20240805172344.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240805172344.png",
+    "0001.附件/640 1.webp.baiduyun.uploading.cfg",
+    "0001.附件/640 1.webp",
+    "0001.附件/640.webp",
+    "00.Box/云安全.md",
+    "0001.附件/640.webp.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240805170456.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240805170456.png",
+    "00.Box/应急.md",
+    "00.Box/缓存中毒.md",
+    "00.Box/waf_冲突文件_三哥佬_20240725205139.md",
+    "00.Box/waf.md",
+    "00.Box/waf.md.baiduyun.uploading.cfg",
+    "00.Box/sql注入.md",
+    "00.Box/sql注入.md.baiduyun.uploading.cfg",
+    "00.Box/未命名.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240728092415.png",
+    "0001.附件/Pasted image 20240728092351.png",
+    "0001.附件/缓存中毒3.webp",
+    "01.前端/JavaScript.md",
+    "未命名.canvas",
+    "欢迎.md"
+  ]
+}
