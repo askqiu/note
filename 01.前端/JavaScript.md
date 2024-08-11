@@ -218,3 +218,14 @@ window.location.href="url";可以跳转网址
 5. **`document.querySelectorAll(selector)`**: 根据 CSS 选择器获取所有匹配的元素。
 6. **`document.createElement(tagName)`**: 创建一个新的元素。
 # 补充
+const params = new URLSearchParams(window.location.search);这一句具体是做什么的
+window.location.search:
+
+    这个部分获取的是URL中问号 ? 后面的查询字符串部分，也就是URL中的参数部分。
+    new URLSearchParams():
+
+    这是一个构造函数，用来创建一个URLSearchParams对象。这个对象可以让你很方便地操作查询字符串中的参数，比如获取参数值、设置新参数、删除参数等等。
+
+params:
+
+    这就是你创建的URLSearchParams对象。通过这个对象，你可以使用各种方法来处理查询参数。
