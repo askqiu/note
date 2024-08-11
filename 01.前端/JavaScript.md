@@ -229,3 +229,17 @@ window.location.search:
 params:
 
     这就是你创建的URLSearchParams对象。通过这个对象，你可以使用各种方法来处理查询参数。
+    这段代码 `const params = new URLSearchParams(window.location.search);` 在JavaScript中用于提取和操作当前网页URL中的查询参数。
+
+以下是每个部分的具体作用：
+
+1. **`window.location.search`**:
+   - 这个部分获取的是URL中问号 `?` 后面的查询字符串部分，也就是URL中的参数部分。
+
+2. **`new URLSearchParams()`**:
+   - 这是一个构造函数，用来创建一个`URLSearchParams`对象。这个对象可以让你很方便地操作查询字符串中的参数，比如获取参数值、设置新参数、删除参数等等。
+
+3. **`params`**:
+   - 这就是你创建的`URLSearchParams`对象。通过这个对象，你可以使用各种方法来处理查询参数。
+
+例如，如果你的URL是 `https://example.com/page?name=John&age=30`，那么 `window.location.search` 的值将是 `"?name=John&age=30"`。创建 `URLSearchParams` 对象后，你可以通过 `params.get('name')` 获取 `name` 参数的值，即 "John"。
