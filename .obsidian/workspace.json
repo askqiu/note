@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#可能会导致xss的接收器",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,8 +232,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d5ac82794c7f9939",
+  "active": "ec5cd37186db4e27",
   "lastOpenFiles": [
+    "01.前端/JavaScript.md.baiduyun.uploading.cfg",
+    "00.Box/测试专用.md.baiduyun.uploading.cfg",
+    "00.Box/waf.md.baiduyun.uploading.cfg",
+    "02.靶场/xss.md.baiduyun.uploading.cfg",
+    "00.Box/xss.md.baiduyun.uploading.cfg",
     "01.前端/JavaScript.md",
     "00.Box/xss.md",
     "02.靶场/xss.md",
@@ -251,13 +256,9 @@
     "0001.附件/Pasted image 20240805184604.png",
     "0001.附件/Pasted image 20240805183159.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240805183159.png",
-    "0001.附件/Pasted image 20240805172344.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240805172344.png",
-    "0001.附件/640 1.webp.baiduyun.uploading.cfg",
     "0001.附件/640 1.webp",
     "0001.附件/640.webp",
-    "0001.附件/640.webp.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240805170456.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240805170456.png",
     "00.Box/waf_冲突文件_三哥佬_20240725205139.md",
     "00.Box/sql注入.md",
