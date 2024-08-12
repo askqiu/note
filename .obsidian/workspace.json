@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Box/缓存中毒.md",
+                "file": "00.Box/waf.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Box/缓存中毒.md",
+                "file": "00.Box/waf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Box/缓存中毒.md",
+                "file": "00.Box/waf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Box/缓存中毒.md"
+                "file": "00.Box/waf.md"
               }
             }
           }
@@ -245,6 +245,11 @@
   },
   "active": "0e067eb8696e872e",
   "lastOpenFiles": [
+    "01.前端/JavaScript.md",
+    "02.靶场/xss.md",
+    "00.Box/云安全.md",
+    "00.Box/sql注入.md",
+    "00.Box/缓存中毒.md",
     "00.Box/未命名.md",
     "00.Box/未命名.md.baiduyun.uploading.cfg",
     "00.Box/xss.md",
@@ -253,14 +258,10 @@
     "00.Box/waf.md.baiduyun.uploading.cfg",
     "02.靶场/xss.md.baiduyun.uploading.cfg",
     "00.Box/xss.md.baiduyun.uploading.cfg",
-    "01.前端/JavaScript.md",
-    "02.靶场/xss.md",
     "00.Box/测试专用.md",
     "02.靶场",
     "00.Box/waf.md",
-    "00.Box/缓存中毒.md",
     "00.Box/应急.md",
-    "00.Box/云安全.md",
     "00.Box/云安全.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240805211047.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240805211047.png",
@@ -272,7 +273,6 @@
     "0001.附件/640.webp",
     "0001.附件/Pasted image 20240805170456.png",
     "00.Box/waf_冲突文件_三哥佬_20240725205139.md",
-    "00.Box/sql注入.md",
     "0001.附件/Pasted image 20240728092415.png",
     "0001.附件/Pasted image 20240728092351.png",
     "0001.附件/缓存中毒3.webp",
