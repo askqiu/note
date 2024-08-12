@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Box/未命名.md",
+                "file": "00.Box/缓存中毒.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Box/未命名.md",
+                "file": "00.Box/缓存中毒.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Box/未命名.md",
+                "file": "00.Box/缓存中毒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Box/未命名.md"
+                "file": "00.Box/缓存中毒.md"
               }
             }
           }
@@ -245,9 +245,9 @@
   },
   "active": "0e067eb8696e872e",
   "lastOpenFiles": [
+    "00.Box/未命名.md",
     "00.Box/未命名.md.baiduyun.uploading.cfg",
     "00.Box/xss.md",
-    "00.Box/未命名.md",
     "01.前端/JavaScript.md.baiduyun.uploading.cfg",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
     "00.Box/waf.md.baiduyun.uploading.cfg",
