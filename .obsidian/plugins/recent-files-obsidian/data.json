@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "缓存中毒",
+      "path": "00.Box/缓存中毒.md"
+    },
+    {
+      "basename": "云安全",
+      "path": "00.Box/云安全.md"
+    },
+    {
+      "basename": "缓存中毒1",
+      "path": "0001.附件/缓存中毒1.webp"
+    },
+    {
       "basename": "xss",
       "path": "02.靶场/xss.md"
     },
@@ -13,16 +25,8 @@
       "path": "01.前端/JavaScript.md"
     },
     {
-      "basename": "云安全",
-      "path": "00.Box/云安全.md"
-    },
-    {
       "basename": "sql注入",
       "path": "00.Box/sql注入.md"
-    },
-    {
-      "basename": "缓存中毒",
-      "path": "00.Box/缓存中毒.md"
     },
     {
       "basename": "未命名",
@@ -51,10 +55,6 @@
     {
       "basename": "缓存中毒2",
       "path": "0001.附件/缓存中毒2.webp"
-    },
-    {
-      "basename": "缓存中毒1",
-      "path": "0001.附件/缓存中毒1.webp"
     }
   ],
   "omittedPaths": []
