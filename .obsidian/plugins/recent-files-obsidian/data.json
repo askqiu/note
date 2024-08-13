@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "xss",
+      "path": "02.靶场/xss.md"
+    },
+    {
+      "basename": "测试专用",
+      "path": "00.Box/测试专用.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "00.Box/未命名.md"
+    },
+    {
       "basename": "缓存中毒",
       "path": "00.Box/缓存中毒.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "缓存中毒1",
       "path": "0001.附件/缓存中毒1.webp"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/xss.md"
     },
     {
       "basename": "waf",
@@ -29,16 +37,8 @@
       "path": "00.Box/sql注入.md"
     },
     {
-      "basename": "未命名",
-      "path": "00.Box/未命名.md"
-    },
-    {
       "basename": "xss",
       "path": "00.Box/xss.md"
-    },
-    {
-      "basename": "测试专用",
-      "path": "00.Box/测试专用.md"
     },
     {
       "basename": "应急",

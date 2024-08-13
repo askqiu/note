@@ -7,3 +7,4 @@ https://portswigger.net/web-security/cross-site-scripting#how-does-xss-work
 ```html
 xxx" onload="alert(1)  \\构造前后闭合
 ```
+情景：<a id="backLink" href="/xxx">Back</a>
