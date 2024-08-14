@@ -49,3 +49,6 @@ payload
 " onmouseover="alert(1)
 ```
 该属性会在用户将鼠标移到输入框时触发 alert(1)，从而弹出一个 JavaScript 警告框。
+## Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded
+在这里我犯错了，新手常见的靶场错误，以为反射xss只会存在评论里，于是我找半天没找到答案里的href，后来发现反射点在名字的超链接哈哈哈
+href="javascript:alert(1)"
