@@ -97,8 +97,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Box/云安全.md",
-                "mode": "source",
+                "file": "02.靶场/xss.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Box/云安全.md",
+                "file": "02.靶场/xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Box/云安全.md",
+                "file": "02.靶场/xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Box/云安全.md"
+                "file": "02.靶场/xss.md"
               }
             }
           }
@@ -245,14 +245,14 @@
   },
   "active": "0e067eb8696e872e",
   "lastOpenFiles": [
+    "02.靶场/xss.md.baiduyun.uploading.cfg",
+    "00.Box/云安全.md",
     "01.前端/JavaScript.md",
     "02.靶场/xss.md",
     "00.Box/缓存中毒.md",
-    "02.靶场/xss.md.baiduyun.uploading.cfg",
     "00.Box/测试专用.md",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
     "00.Box/未命名.md",
-    "00.Box/云安全.md",
     "0001.附件/缓存中毒1.webp",
     "00.Box/waf.md",
     "00.Box/sql注入.md",

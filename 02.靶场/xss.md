@@ -52,3 +52,19 @@ payload
 ## Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded
 在这里我犯错了，新手常见的靶场错误，以为反射xss只会存在评论里，于是我找半天没找到答案里的href，后来发现反射点在名字的超链接哈哈哈
 href="javascript:alert(1)"
+## Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded
+payload是
+```html
+'-alert(1)-'
+```
+反射点的代码
+```html
+var searchTerms = 'xxx'-alert(1)-'';
+document.write('<img src="/resources/images/tracker.gif?searchTerms='+encodeURIComponent(searchTerms)+'">');
+```
+'xxx' - alert(1) - '' 这段代码会被 JavaScript 引擎解析并执行。
+在 JavaScript 中，使用 - 运算符时，会尝试将两边的操作数转换为数字进行数学运算。
+由于 alert(1) 是一个有效的 JavaScript 函数，它会弹出一个带有数字 1 的警告框。
+然后 alert(1) 的返回值是 undefined。
+'xxx' - undefined - ''：尝试将字符串和 undefined 进行减法运算，结果会是 NaN (Not a Number)，但是这并不影响弹窗的触发。然后nan-''，这里是什么都没有，转换为数字就是0，所以结果还是nan
+总结：==弹窗的原因并不是因为 encodeURIComponent() 或 document.write()，而是因为 alert(1) 在表达式计算过程中被直接调用并执行。因此，尽管代码的最终输出不会插入恶意代码，但在计算过程中弹窗已经触发。==
