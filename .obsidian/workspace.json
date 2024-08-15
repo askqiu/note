@@ -97,8 +97,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.前端/JavaScript.md",
-                "mode": "preview",
+                "file": "02.靶场/xss.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "tag:#My-Article-Title，代码会在",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.前端/JavaScript.md",
+                "file": "02.靶场/xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.前端/JavaScript.md",
+                "file": "02.靶场/xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.前端/JavaScript.md"
+                "file": "02.靶场/xss.md"
               }
             }
           }
@@ -245,6 +246,8 @@
   },
   "active": "0e067eb8696e872e",
   "lastOpenFiles": [
+    "02.靶场/xss.md.baiduyun.uploading.cfg",
+    "01.前端/JavaScript.md",
     "00.Box/缓存中毒.md",
     "00.Box/未命名.md",
     "00.Box/应急.md",
@@ -252,8 +255,6 @@
     "00.Box/waf.md",
     "00.Box/云安全.md",
     "02.靶场/xss.md",
-    "02.靶场/xss.md.baiduyun.uploading.cfg",
-    "01.前端/JavaScript.md",
     "00.Box/测试专用.md",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
     "0001.附件/缓存中毒1.webp",
