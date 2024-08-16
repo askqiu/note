@@ -102,9 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "281e9f1c51070af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Box/内网.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acf224369b3f95e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Box/权限提升.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "00.Box/权限提升.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "00.Box/权限提升.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/xss.md"
+                "file": "00.Box/权限提升.md"
               }
             }
           }
@@ -244,8 +267,16 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "0e067eb8696e872e",
+  "active": "acf224369b3f95e3",
   "lastOpenFiles": [
+    "00.Box/权限提升.md.baiduyun.uploading.cfg",
+    "00.Box/未命名 1.md.baiduyun.uploading.cfg",
+    "00.Box/内网.md",
+    "00.Box/权限提升.md",
+    "00.Box/内网.md.baiduyun.uploading.cfg",
+    "0001.附件/1E7FE5C7.png.baiduyun.uploading.cfg",
+    "0001.附件/1E7FE5C7.png",
+    "02.靶场/xss.md",
     "02.靶场/xss.md.baiduyun.uploading.cfg",
     "01.前端/JavaScript.md",
     "00.Box/缓存中毒.md",
@@ -254,7 +285,6 @@
     "00.Box/sql注入.md",
     "00.Box/waf.md",
     "00.Box/云安全.md",
-    "02.靶场/xss.md",
     "00.Box/测试专用.md",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
     "0001.附件/缓存中毒1.webp",
@@ -264,10 +294,7 @@
     "00.Box/waf.md.baiduyun.uploading.cfg",
     "00.Box/xss.md.baiduyun.uploading.cfg",
     "02.靶场",
-    "00.Box/云安全.md.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240805211047.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240805211047.png",
-    "0001.附件/Pasted image 20240805184604.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240805184604.png",
     "0001.附件/Pasted image 20240805183159.png",
     "0001.附件/Pasted image 20240805172344.png",
@@ -276,7 +303,6 @@
     "0001.附件/Pasted image 20240805170456.png",
     "00.Box/waf_冲突文件_三哥佬_20240725205139.md",
     "0001.附件/Pasted image 20240728092415.png",
-    "0001.附件/Pasted image 20240728092351.png",
     "未命名.canvas",
     "欢迎.md"
   ]

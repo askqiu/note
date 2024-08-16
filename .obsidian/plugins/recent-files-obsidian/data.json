@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "权限提升",
+      "path": "00.Box/权限提升.md"
+    },
+    {
+      "basename": "内网",
+      "path": "00.Box/内网.md"
+    },
+    {
       "basename": "xss",
       "path": "02.靶场/xss.md"
     },
