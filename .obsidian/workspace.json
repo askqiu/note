@@ -8,138 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "273b274ac8a9ac1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Box/waf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8816c63a6bf99f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Box/waf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "909f0932acd0b7f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.面试/应急.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0f75ca36b322d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Box/云安全.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1d3410786748fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Box/测试专用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7282ecfba67c9a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.前端/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec5cd37186db4e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Box/xss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e067eb8696e872e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.靶场/xss.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "281e9f1c51070af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Box/内网.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acf224369b3f95e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Box/权限提升.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de67b101ab62f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.面试/研判.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa6aa9d359270d0b",
             "type": "leaf",
             "state": {
@@ -164,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -305,11 +173,13 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
-    "03.面试/特征.md.baiduyun.uploading.cfg",
     "03.面试/研判.md",
+    "03.面试/特征.md",
+    "00.Box/权限提升.md",
+    "00.Box/权限提升.md.baiduyun.uploading.cfg",
+    "03.面试/特征.md.baiduyun.uploading.cfg",
     "03.面试/应急.md",
     "03.面试/应急.md.baiduyun.uploading.cfg",
-    "03.面试/特征.md",
     "00.Box/waf.md",
     "03.面试/流量特征.md.baiduyun.uploading.cfg",
     "00.Box/未命名 1.md.baiduyun.uploading.cfg",
@@ -317,8 +187,6 @@
     "00.Box/研判.md.baiduyun.uploading.cfg",
     "00.Box/面试.md",
     "00.Box/面试.md.baiduyun.uploading.cfg",
-    "00.Box/权限提升.md",
-    "00.Box/权限提升.md.baiduyun.uploading.cfg",
     "00.Box/内网.md",
     "00.Box/内网.md.baiduyun.uploading.cfg",
     "0001.附件/1E7FE5C7.png.baiduyun.uploading.cfg",

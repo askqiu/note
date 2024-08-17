@@ -9,6 +9,10 @@
       "path": "03.面试/研判.md"
     },
     {
+      "basename": "权限提升",
+      "path": "00.Box/权限提升.md"
+    },
+    {
       "basename": "应急",
       "path": "03.面试/应急.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "面试",
       "path": "00.Box/面试.md"
-    },
-    {
-      "basename": "权限提升",
-      "path": "00.Box/权限提升.md"
     },
     {
       "basename": "内网",
