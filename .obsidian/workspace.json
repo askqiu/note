@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.面试/特征.md",
+                "file": "02.靶场/xss.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.面试/特征.md",
+                "file": "02.靶场/xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.面试/特征.md",
+                "file": "02.靶场/xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.面试/特征.md"
+                "file": "02.靶场/xss.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
-    "03.面试/研判.md",
+    "02.靶场/xss.md.baiduyun.uploading.cfg",
     "03.面试/特征.md",
+    "03.面试/研判.md",
     "00.Box/权限提升.md",
     "00.Box/权限提升.md.baiduyun.uploading.cfg",
     "03.面试/特征.md.baiduyun.uploading.cfg",

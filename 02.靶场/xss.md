@@ -68,3 +68,5 @@ document.write('<img src="/resources/images/tracker.gif?searchTerms='+encodeURIC
 然后 alert(1) 的返回值是 undefined。
 'xxx' - undefined - ''：尝试将字符串和 undefined 进行减法运算，结果会是 NaN (Not a Number)，但是这并不影响弹窗的触发。然后nan-''，这里是什么都没有，转换为数字就是0，所以结果还是nan
 总结：==弹窗的原因并不是因为 encodeURIComponent() 或 document.write()，而是因为 alert(1) 在表达式计算过程中被直接调用并执行。因此，尽管代码的最终输出不会插入恶意代码，但在计算过程中弹窗已经触发。==
+# Lab: DOM XSS in document.write sink using source location.search inside a select element
+domxss，我们先打开页面代码，找找script代码，看看有没有我们能控制dom的地方。在这个lab里我们发现storeid可以操纵页面的dom，于是用他来构造闭合
