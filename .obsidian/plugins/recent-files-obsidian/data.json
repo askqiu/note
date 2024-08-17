@@ -2,6 +2,10 @@
   "recentFiles": [
     {
       "basename": "xss",
+      "path": "00.Box/xss.md"
+    },
+    {
+      "basename": "xss",
       "path": "02.靶场/xss.md"
     },
     {
@@ -59,10 +63,6 @@
     {
       "basename": "缓存中毒1",
       "path": "0001.附件/缓存中毒1.webp"
-    },
-    {
-      "basename": "xss",
-      "path": "00.Box/xss.md"
     },
     {
       "basename": "640",
