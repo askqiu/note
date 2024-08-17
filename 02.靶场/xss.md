@@ -70,3 +70,5 @@ document.write('<img src="/resources/images/tracker.gif?searchTerms='+encodeURIC
 总结：==弹窗的原因并不是因为 encodeURIComponent() 或 document.write()，而是因为 alert(1) 在表达式计算过程中被直接调用并执行。因此，尽管代码的最终输出不会插入恶意代码，但在计算过程中弹窗已经触发。==
 # Lab: DOM XSS in document.write sink using source location.search inside a select element
 domxss，我们先打开页面代码，找找script代码，看看有没有我们能控制dom的地方。在这个lab里我们发现storeid可以操纵页面的dom，于是用他来构造闭合
+需要注意的是：这里要闭合option之后再闭合select标签
+?productId=1&storeId=ppp</option></select><img%20src=1%20onerror=alert(1)>
