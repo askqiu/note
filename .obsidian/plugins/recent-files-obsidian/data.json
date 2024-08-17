@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "应急",
+      "path": "03.面试/应急.md"
+    },
+    {
       "basename": "特征",
       "path": "03.面试/特征.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "未命名",
       "path": "00.Box/未命名.md"
-    },
-    {
-      "basename": "应急",
-      "path": "03.面试/应急.md"
     },
     {
       "basename": "sql注入",
