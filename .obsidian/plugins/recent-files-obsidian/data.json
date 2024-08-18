@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "xss",
+      "path": "02.靶场/xss.md"
+    },
+    {
+      "basename": "特征",
+      "path": "03.面试/特征.md"
+    },
+    {
       "basename": "JavaScript代码分析案例",
       "path": "00.Box/JavaScript代码分析案例.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "json",
       "path": "00.Box/json.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/xss.md"
-    },
-    {
-      "basename": "特征",
-      "path": "03.面试/特征.md"
     },
     {
       "basename": "xss",
