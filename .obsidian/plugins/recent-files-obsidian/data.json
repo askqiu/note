@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "JavaScript代码分析案例",
+      "path": "00.Box/JavaScript代码分析案例.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.前端/JavaScript.md"
+    },
+    {
+      "basename": "json",
+      "path": "00.Box/json.md"
+    },
+    {
       "basename": "xss",
       "path": "02.靶场/xss.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "内网",
       "path": "00.Box/内网.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.前端/JavaScript.md"
     },
     {
       "basename": "缓存中毒",
