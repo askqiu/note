@@ -72,3 +72,39 @@ document.write('<img src="/resources/images/tracker.gif?searchTerms='+encodeURIC
 domxss，我们先打开页面代码，找找script代码，看看有没有我们能控制dom的地方。在这个lab里我们发现storeid可以操纵页面的dom，于是用他来构造闭合
 需要注意的是：这里要闭合option之后再闭合select标签
 ?productId=1&storeId=ppp</option></select><img%20src=1%20onerror=alert(1)>
+
+# Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
+首先通过f12的网络发现有个叫angular的js 文件，判断他用了该框架
+`{{$on.constructor('alert(1)')()}}` 这个 XSS payload 生效的原因与 JavaScript 处理函数和构造函数的方式有关。具体来说，它利用了 AngularJS 或其他双大括号模板语法中的注入点，并结合了 JavaScript 的 `Function` 构造函数来执行任意代码。
+
+### 解释过程：
+
+1. **双大括号表达式 (`{{}}`)**:
+   - 在许多前端框架（如 AngularJS）中，双大括号语法被用于模板表达式。这种表达式可以直接插入并执行用户输入的内容。
+   - 如果没有正确的安全过滤，这种表达式可以成为 XSS 攻击的入口。
+
+2. **`$on` 对象**:
+   - 在 AngularJS 中，`$on` 是一个标准的事件注册函数。虽然 `{{$on}}` 的具体内容可以视上下文而定，但它通常是存在的。
+
+3. **`constructor`**:
+   - `constructor` 是 JavaScript 中每个对象的属性，指向该对象的构造函数。
+   - 在这个例子中，`$on.constructor` 实际上是对 `Function` 构造函数的引用。
+
+4. **`Function` 构造函数**:
+   - `Function` 构造函数允许动态创建新的函数。`Function('alert(1)')` 相当于定义了一个包含 `alert(1)` 的新函数。Function 是 JavaScript 的内建构造函数，用于创建函数对象，意思是他就是用来创建对象的一个函数。
+   - 在JavaScript中，Function('alert(1)') 能够触发弹窗是因为 Function 构造函数允许你动态创建一个新的函数，并在这个过程中执行其中的代码。
+
+5. **立即调用 `()`**:
+   - 在 `{{$on.constructor('alert(1)')()}}` 中，创建了一个新的函数，并立即调用它。
+   - 因为这个函数中包含了 `alert(1)`，所以会弹出警告框。
+
+### 攻击流程:
+- 用户输入 `{{$on.constructor('alert(1)')()}}`，前端框架将其解析为 JavaScript 表达式并执行。
+- `constructor('alert(1)')` 创建一个新函数，包含 `alert(1)`。
+- 最后，通过 `()` 立即调用这个函数，从而触发 `alert(1)` 弹窗。
+
+### 生效的前提条件：
+- **模板注入**：应用程序必须允许未经过滤的用户输入进入模板并被解析。
+- **对象存在**：`$on` 对象以及其 `constructor` 属性必须存在且可访问。
+
+这种方式的攻击主要是利用了前端框架和 JavaScript 本身的灵活性，如果应用没有进行严格的输入验证和模板转义，类似的 payload 就能生效并执行恶意代码。
