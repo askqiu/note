@@ -108,3 +108,14 @@ domxss，我们先打开页面代码，找找script代码，看看有没有我�
 - **对象存在**：`$on` 对象以及其 `constructor` 属性必须存在且可访问。
 
 这种方式的攻击主要是利用了前端框架和 JavaScript 本身的灵活性，如果应用没有进行严格的输入验证和模板转义，类似的 payload 就能生效并执行恶意代码。
+# Lab: Reflected DOM XSS 实验室：反射式 DOM XSS
+打开站点地图我们发现有一个返回是
+```json
+{"results":[],"searchTerm":"xxxx"}
+```
+然而当我们想逃离时候，输入xxxx",原本xxxx的地方变成了xxxx\"，也就是说这个双引号失去了原有的特殊意义，导致我们逃离失败，所以我们把\也给转义了就行，
+xxxx\"alert()，但是我发现这样的话就会导致{(这里省略前面)"searchTerm":"xxxx\\"-alert"}我们多了一个单引号，导致无法构成有效的js代码，所以最终payload
+```js
+xxxx\"-alert()}\\
+```
+把后面的注释掉，自己重构js
