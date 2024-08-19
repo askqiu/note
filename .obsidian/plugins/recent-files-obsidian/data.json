@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "特征",
-      "path": "03.面试/特征.md"
-    },
-    {
-      "basename": "溯源",
-      "path": "03.面试/溯源.md"
-    },
-    {
       "basename": "研判",
       "path": "03.面试/研判.md"
     },
     {
+      "basename": "特征",
+      "path": "03.面试/特征.md"
+    },
+    {
       "basename": "应急",
       "path": "03.面试/应急.md"
+    },
+    {
+      "basename": "自我介绍",
+      "path": "03.面试/自我介绍.md"
+    },
+    {
+      "basename": "溯源",
+      "path": "03.面试/溯源.md"
     },
     {
       "basename": "xss",
@@ -43,10 +47,6 @@
     {
       "basename": "waf",
       "path": "00.Box/waf.md"
-    },
-    {
-      "basename": "面试",
-      "path": "00.Box/面试.md"
     },
     {
       "basename": "内网",
