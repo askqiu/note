@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Box/权限提升.md",
+                "file": "03.面试/特征.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Box/权限提升.md",
+                "file": "03.面试/特征.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Box/权限提升.md",
+                "file": "03.面试/特征.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Box/权限提升.md"
+                "file": "03.面试/特征.md"
               }
             }
           }
@@ -221,6 +221,7 @@
   },
   "active": "aa7acfd63651434e",
   "lastOpenFiles": [
+    "00.Box/权限提升.md",
     "00.Box/权限提升.md.baiduyun.uploading.cfg",
     "00.Box/深圳省护面经.md",
     "00.Box/深圳省护面经.md.baiduyun.uploading.cfg",
@@ -240,13 +241,11 @@
     "00.Box/溯源.md.baiduyun.uploading.cfg",
     "03.面试/研判.md.baiduyun.uploading.cfg",
     "02.靶场/xss.md",
-    "02.靶场/xss.md.baiduyun.uploading.cfg",
     "00.Box/JavaScript代码分析案例.md",
     "01.前端/JavaScript.md",
     "00.Box/json.md",
     "0001.附件/图片.png",
     "00.Box/xss.md",
-    "00.Box/权限提升.md",
     "00.Box/waf.md",
     "00.Box/内网.md",
     "0001.附件/1E7FE5C7.png",
