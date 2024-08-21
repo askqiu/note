@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "619a62c3a7c7a74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.Box/感谢.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.面试/特征.md",
+                "file": "00.Box/感谢.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.面试/特征.md",
+                "file": "00.Box/感谢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.面试/特征.md"
+                "file": "00.Box/感谢.md"
               }
             }
           }
@@ -219,16 +231,18 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "aa7acfd63651434e",
+  "active": "619a62c3a7c7a74a",
   "lastOpenFiles": [
+    "00.Box/感谢.md.baiduyun.uploading.cfg",
+    "00.Box/未命名 1.md.baiduyun.uploading.cfg",
+    "03.面试/特征.md",
+    "00.Box/感谢.md",
     "00.Box/权限提升.md",
     "00.Box/权限提升.md.baiduyun.uploading.cfg",
     "00.Box/深圳省护面经.md",
     "00.Box/深圳省护面经.md.baiduyun.uploading.cfg",
-    "00.Box/未命名 1.md.baiduyun.uploading.cfg",
     "03.面试/研判.md",
     "03.面试/应急.md",
-    "03.面试/特征.md",
     "03.面试/自我介绍.md",
     "03.面试/自我介绍.md.baiduyun.uploading.cfg",
     "03.面试/溯源.md",
