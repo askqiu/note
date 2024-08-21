@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "权限提升",
+      "path": "00.Box/权限提升.md"
+    },
+    {
       "basename": "深圳省护面经",
       "path": "00.Box/深圳省护面经.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "xss",
       "path": "00.Box/xss.md"
-    },
-    {
-      "basename": "权限提升",
-      "path": "00.Box/权限提升.md"
     },
     {
       "basename": "waf",
