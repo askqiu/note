@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.面试/深圳省护面经.md",
+                "file": "03.面试/溯源.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.面试/深圳省护面经.md",
+                "file": "03.面试/研判.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.面试/深圳省护面经.md",
+                "file": "03.面试/研判.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.面试/深圳省护面经.md"
+                "file": "03.面试/研判.md"
               }
             }
           }
@@ -233,6 +233,9 @@
   },
   "active": "acc6d137d7deb89f",
   "lastOpenFiles": [
+    "03.面试/面经/深圳省护面经.md",
+    "03.面试/面经",
+    "03.面试/深圳省护面经.md.baiduyun.uploading.cfg",
     "05.云安全",
     "04.渗透",
     "00.Box/感想.md",
@@ -241,7 +244,6 @@
     "03.面试/特征.md",
     "04.渗透/权限提升.md",
     "00.Box/权限提升.md.baiduyun.uploading.cfg",
-    "03.面试/深圳省护面经.md",
     "00.Box/深圳省护面经.md.baiduyun.uploading.cfg",
     "03.面试/研判.md",
     "03.面试/应急.md",
@@ -249,11 +251,8 @@
     "03.面试/自我介绍.md.baiduyun.uploading.cfg",
     "03.面试/溯源.md",
     "03.面试/特征.md.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240819103756.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240819103756.png",
-    "0001.附件/Pasted image 20240819103734.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240819103734.png",
-    "03.面试/溯源.md.baiduyun.uploading.cfg",
     "02.靶场/xss.md",
     "00.Box/JavaScript代码分析案例.md",
     "01.前端/JavaScript.md",

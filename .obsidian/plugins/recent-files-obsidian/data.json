@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "研判",
+      "path": "03.面试/研判.md"
+    },
+    {
+      "basename": "溯源",
+      "path": "03.面试/溯源.md"
+    },
+    {
       "basename": "深圳省护面经",
-      "path": "03.面试/深圳省护面经.md"
+      "path": "03.面试/面经/深圳省护面经.md"
     },
     {
       "basename": "感想",
@@ -17,20 +25,12 @@
       "path": "04.渗透/权限提升.md"
     },
     {
-      "basename": "研判",
-      "path": "03.面试/研判.md"
-    },
-    {
       "basename": "应急",
       "path": "03.面试/应急.md"
     },
     {
       "basename": "自我介绍",
       "path": "03.面试/自我介绍.md"
-    },
-    {
-      "basename": "溯源",
-      "path": "03.面试/溯源.md"
     },
     {
       "basename": "xss",
