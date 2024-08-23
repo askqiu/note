@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Box/waf.md",
+                "file": "04.渗透/权限提升.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Box/waf.md",
+                "file": "04.渗透/权限提升.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Box/waf.md",
+                "file": "04.渗透/权限提升.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Box/waf.md"
+                "file": "04.渗透/权限提升.md"
               }
             }
           }
@@ -233,6 +233,8 @@
   },
   "active": "619a62c3a7c7a74a",
   "lastOpenFiles": [
+    "04.渗透/权限提升.md.baiduyun.uploading.cfg",
+    "00.Box/waf.md",
     "03.面试/研判.md",
     "03.面试/特征.md",
     "03.面试/溯源.md",
@@ -259,7 +261,6 @@
     "00.Box/json.md",
     "0001.附件/图片.png",
     "00.Box/xss.md",
-    "00.Box/waf.md",
     "04.渗透/内网.md",
     "0001.附件/1E7FE5C7.png",
     "00.Box/缓存中毒.md",

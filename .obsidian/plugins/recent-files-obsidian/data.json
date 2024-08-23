@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "权限提升",
+      "path": "04.渗透/权限提升.md"
+    },
+    {
       "basename": "waf",
       "path": "00.Box/waf.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "感想",
       "path": "00.Box/感想.md"
-    },
-    {
-      "basename": "权限提升",
-      "path": "04.渗透/权限提升.md"
     },
     {
       "basename": "自我介绍",
