@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "00.Box/未命名 1.md"
+    },
+    {
       "basename": "tools",
       "path": "06.工具/tools.md"
     },
@@ -26,7 +30,7 @@
     },
     {
       "basename": "waf",
-      "path": "00.Box/waf.md"
+      "path": "04.渗透/waf.md"
     },
     {
       "basename": "云安全",
@@ -66,7 +70,7 @@
     },
     {
       "basename": "json",
-      "path": "00.Box/json.md"
+      "path": "01.前端/json.md"
     },
     {
       "basename": "xss",
@@ -82,7 +86,7 @@
     },
     {
       "basename": "sql注入",
-      "path": "00.Box/sql注入.md"
+      "path": "04.渗透/sql注入.md"
     },
     {
       "basename": "测试专用",
