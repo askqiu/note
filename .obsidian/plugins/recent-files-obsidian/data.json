@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "权限提升",
-      "path": "04.渗透/权限提升.md"
+      "basename": "JavaScript代码分析案例",
+      "path": "01.前端/JavaScript代码分析案例.md"
+    },
+    {
+      "basename": "感想",
+      "path": "00.Box/感想.md"
     },
     {
       "basename": "waf",
       "path": "00.Box/waf.md"
+    },
+    {
+      "basename": "权限提升",
+      "path": "04.渗透/权限提升.md"
+    },
+    {
+      "basename": "云安全",
+      "path": "05.云安全/云安全.md"
     },
     {
       "basename": "研判",
@@ -29,20 +41,12 @@
       "path": "03.面试/面经/深圳省护面经.md"
     },
     {
-      "basename": "感想",
-      "path": "00.Box/感想.md"
-    },
-    {
       "basename": "自我介绍",
       "path": "03.面试/自我介绍.md"
     },
     {
       "basename": "xss",
       "path": "02.靶场/xss.md"
-    },
-    {
-      "basename": "JavaScript代码分析案例",
-      "path": "00.Box/JavaScript代码分析案例.md"
     },
     {
       "basename": "JavaScript",
@@ -71,10 +75,6 @@
     {
       "basename": "sql注入",
       "path": "00.Box/sql注入.md"
-    },
-    {
-      "basename": "云安全",
-      "path": "05.云安全/云安全.md"
     },
     {
       "basename": "测试专用",
