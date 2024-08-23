@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.前端/JavaScript代码分析案例.md",
+                "file": "04.渗透/权限提升.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.前端/JavaScript代码分析案例.md",
+                "file": "04.渗透/权限提升.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.前端/JavaScript代码分析案例.md",
+                "file": "04.渗透/权限提升.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.前端/JavaScript代码分析案例.md"
+                "file": "04.渗透/权限提升.md"
               }
             }
           }
@@ -233,10 +233,11 @@
   },
   "active": "619a62c3a7c7a74a",
   "lastOpenFiles": [
+    "04.渗透/权限提升.md.baiduyun.uploading.cfg",
+    "01.前端/JavaScript代码分析案例.md",
     "00.Box/感想.md",
     "00.Box/waf.md",
     "04.渗透/权限提升.md",
-    "04.渗透/权限提升.md.baiduyun.uploading.cfg",
     "05.云安全/云安全.md",
     "03.面试/研判.md",
     "03.面试/特征.md",
@@ -256,7 +257,6 @@
     "0001.附件/Pasted image 20240819103756.png",
     "0001.附件/Pasted image 20240819103734.png",
     "02.靶场/xss.md",
-    "01.前端/JavaScript代码分析案例.md",
     "01.前端/JavaScript.md",
     "00.Box/json.md",
     "0001.附件/图片.png",

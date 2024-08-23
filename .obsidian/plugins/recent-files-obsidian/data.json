@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "权限提升",
+      "path": "04.渗透/权限提升.md"
+    },
+    {
       "basename": "JavaScript代码分析案例",
       "path": "01.前端/JavaScript代码分析案例.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "waf",
       "path": "00.Box/waf.md"
-    },
-    {
-      "basename": "权限提升",
-      "path": "04.渗透/权限提升.md"
     },
     {
       "basename": "云安全",
