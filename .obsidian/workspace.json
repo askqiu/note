@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Box/未命名 1.md",
+                "file": "03.面试/特征.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Box/未命名 1.md",
+                "file": "03.面试/特征.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Box/未命名 1.md",
+                "file": "03.面试/特征.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Box/未命名 1.md"
+                "file": "03.面试/特征.md"
               }
             }
           }
@@ -257,9 +257,9 @@
   },
   "active": "248122608ba6db80",
   "lastOpenFiles": [
+    "00.Box/未命名 1.md",
     "00.Box/未命名 1.md.baiduyun.uploading.cfg",
     "06.工具/tools.md",
-    "00.Box/未命名 1.md",
     "06.工具/tools.md.baiduyun.uploading.cfg",
     "06.工具/未命名.md.baiduyun.uploading.cfg",
     "06.工具/msf.md",
@@ -281,7 +281,6 @@
     "03.面试/面经",
     "03.面试/深圳省护面经.md.baiduyun.uploading.cfg",
     "05.云安全",
-    "04.渗透",
     "03.面试/自我介绍.md",
     "0001.附件/Pasted image 20240819103756.png",
     "0001.附件/Pasted image 20240819103734.png",
