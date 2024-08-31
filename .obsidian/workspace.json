@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.面试/溯源.md",
+                "file": "03.面试/面经/2024深圳粤盾.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.面试/溯源.md",
+                "file": "03.面试/面经/2024深圳粤盾.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.面试/溯源.md",
+                "file": "03.面试/面经/2024深圳粤盾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.面试/溯源.md"
+                "file": "03.面试/面经/2024深圳粤盾.md"
               }
             }
           }
@@ -257,8 +257,12 @@
   },
   "active": "248122608ba6db80",
   "lastOpenFiles": [
-    "05.云安全/云安全.md",
+    "03.面试/面经/2024深圳粤盾.md.baiduyun.uploading.cfg",
+    "03.面试/面经/深圳省护面经.md",
+    "03.面试/面经/2024深圳粤盾.md",
+    "03.面试/面经/未命名.md.baiduyun.uploading.cfg",
     "03.面试/溯源.md",
+    "05.云安全/云安全.md",
     "03.面试/特征.md",
     "00.Box/未命名 1.md",
     "00.Box/未命名 1.md.baiduyun.uploading.cfg",
@@ -277,10 +281,7 @@
     "04.渗透/waf.md",
     "03.面试/研判.md",
     "03.面试/应急.md",
-    "03.面试/面经/深圳省护面经.md",
     "03.面试/面经",
-    "03.面试/深圳省护面经.md.baiduyun.uploading.cfg",
-    "05.云安全",
     "03.面试/自我介绍.md",
     "0001.附件/Pasted image 20240819103756.png",
     "0001.附件/Pasted image 20240819103734.png",
@@ -301,7 +302,6 @@
     "0001.附件/Pasted image 20240805172344.png",
     "0001.附件/640 1.webp",
     "00.Box/waf_冲突文件_三哥佬_20240725205139.md",
-    "未命名.canvas",
-    "欢迎.md"
+    "未命名.canvas"
   ]
 }
