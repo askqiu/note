@@ -9,4 +9,11 @@ http:www.baidu.com:8080与https:www.baidu.com:8080不同源（协议不同）
 cors，csrf，越权
 
 ## 场景1
-在sub.aaa.com发现
+在sub.aaa.com发现一个xss，同时这地方可注册可登陆功能很多，这个xss可以如何来升级危害
+1. 修改邮箱，然后重置密码（用邮箱登陆，或者重置密码和邮箱有关的情况下）
+2. 修改密码
+3. 添加一个sso登陆
+4. 读取sessiontoken在某个页面
+5. 给这个组织添加一个管理员
+6. 读取apikey
+7. 通过oauth账号接管
