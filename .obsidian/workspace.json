@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.云安全/云安全.md",
+                "file": "00.Box/测试专用.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.云安全/云安全.md",
+                "file": "00.Box/测试专用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05.云安全/云安全.md",
+                "file": "00.Box/测试专用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.云安全/云安全.md"
+                "file": "00.Box/测试专用.md"
               }
             }
           }
@@ -279,9 +279,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "45ec24c0870d8b19",
   "lastOpenFiles": [
     "07.src学习/xss挖掘.md",
+    "0001.附件/Pasted image 20240904211738.png",
+    "05.云安全/云安全.md",
     "08.漏洞原理/缓存中毒.md",
     "08.漏洞原理",
     "01.前端/json.md",
@@ -298,7 +300,6 @@
     "00.Box/未命名 1.md",
     "00.Box/未命名 2.md",
     "07.src学习",
-    "05.云安全/云安全.md",
     "02.靶场/靶场链接",
     "04.渗透/waf.md",
     "04.渗透/sql注入.md",
@@ -325,7 +326,6 @@
     "0001.附件/Pasted image 20240805184604.png",
     "0001.附件/Pasted image 20240805183159.png",
     "0001.附件/Pasted image 20240805172344.png",
-    "0001.附件/640 1.webp",
     "未命名.canvas"
   ]
 }
