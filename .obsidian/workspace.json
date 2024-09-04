@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/靶场链接/src.md",
+                "file": "05.云安全/云安全.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/靶场链接/src.md",
+                "file": "05.云安全/云安全.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/靶场链接/src.md",
+                "file": "05.云安全/云安全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/靶场链接/src.md"
+                "file": "05.云安全/云安全.md"
               }
             }
           }
@@ -279,46 +279,45 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "45ec24c0870d8b19",
+  "active": "acc6d137d7deb89f",
   "lastOpenFiles": [
+    "07.src学习/xss挖掘.md",
+    "08.漏洞原理/缓存中毒.md",
+    "08.漏洞原理",
+    "01.前端/json.md",
+    "01.前端/JavaScript代码分析案例.md",
+    "02.靶场/xss.md",
+    "03.面试/溯源.md",
+    "03.面试/特征.md",
+    "03.面试/面经/深圳省护面经.md",
+    "03.面试/面经/2024深圳粤盾.md",
+    "02.靶场/靶场链接/src.md",
     "02.靶场/靶场链接/src.md.baiduyun.uploading.cfg",
-    "07.src/xss挖掘.md",
-    "07.src/缓存中毒.md",
     "00.Box/测试专用.md",
     "00.Box/感想.md",
     "00.Box/未命名 1.md",
     "00.Box/未命名 2.md",
-    "07.src",
-    "02.靶场/靶场链接/src.md",
-    "02.靶场/xss.md",
+    "07.src学习",
     "05.云安全/云安全.md",
     "02.靶场/靶场链接",
     "04.渗透/waf.md",
     "04.渗透/sql注入.md",
     "04.渗透/权限提升.md",
-    "03.面试/溯源.md",
-    "03.面试/面经/深圳省护面经.md",
     "03.面试/应急.md",
     "03.面试/自我介绍.md",
     "03.面试/研判.md",
-    "03.面试/面经/2024深圳粤盾.md",
     "03.面试/面经/2024深圳粤盾.md.baiduyun.uploading.cfg",
     "03.面试/面经/未命名.md.baiduyun.uploading.cfg",
-    "03.面试/特征.md",
     "00.Box/未命名 1.md.baiduyun.uploading.cfg",
     "06.工具/tools.md",
     "06.工具/tools.md.baiduyun.uploading.cfg",
     "06.工具/未命名.md.baiduyun.uploading.cfg",
     "06.工具/msf.md",
     "06.工具/msf.md.baiduyun.uploading.cfg",
-    "06.工具/未命名 1.md.baiduyun.uploading.cfg",
     "04.渗透/内网.md",
-    "06.工具",
-    "01.前端/JavaScript代码分析案例.md",
     "0001.附件/Pasted image 20240819103756.png",
     "0001.附件/Pasted image 20240819103734.png",
     "01.前端/JavaScript.md",
-    "01.前端/json.md",
     "0001.附件/图片.png",
     "0001.附件/1E7FE5C7.png",
     "0001.附件/缓存中毒1.webp",
