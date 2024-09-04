@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src/xss挖掘.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src/xss挖掘.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src/xss挖掘.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src/xss挖掘.md"
+                "file": "02.靶场/靶场链接/src.md"
               }
             }
           }
@@ -281,10 +281,11 @@
   },
   "active": "45ec24c0870d8b19",
   "lastOpenFiles": [
+    "02.靶场/靶场链接/src.md.baiduyun.uploading.cfg",
+    "07.src/xss挖掘.md",
     "07.src/缓存中毒.md",
     "00.Box/测试专用.md",
     "00.Box/感想.md",
-    "07.src/xss挖掘.md",
     "00.Box/未命名 1.md",
     "00.Box/未命名 2.md",
     "07.src",
@@ -319,7 +320,6 @@
     "01.前端/JavaScript.md",
     "01.前端/json.md",
     "0001.附件/图片.png",
-    "00.Box/xss.md",
     "0001.附件/1E7FE5C7.png",
     "0001.附件/缓存中毒1.webp",
     "0001.附件/Pasted image 20240805211047.png",

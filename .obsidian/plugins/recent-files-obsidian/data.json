@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "src",
+      "path": "02.靶场/靶场链接/src.md"
+    },
+    {
       "basename": "xss挖掘",
       "path": "07.src/xss挖掘.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "未命名 2",
       "path": "00.Box/未命名 2.md"
-    },
-    {
-      "basename": "src",
-      "path": "02.靶场/靶场链接/src.md"
     },
     {
       "basename": "xss",
