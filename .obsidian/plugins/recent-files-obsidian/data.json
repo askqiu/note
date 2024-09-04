@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "测试专用",
-      "path": "00.Box/测试专用.md"
-    },
-    {
       "basename": "xss挖掘",
       "path": "07.src学习/xss挖掘.md"
+    },
+    {
+      "basename": "src",
+      "path": "02.靶场/靶场链接/src.md"
+    },
+    {
+      "basename": "测试专用",
+      "path": "00.Box/测试专用.md"
     },
     {
       "basename": "云安全",
@@ -43,10 +47,6 @@
     {
       "basename": "2024深圳粤盾",
       "path": "03.面试/面经/2024深圳粤盾.md"
-    },
-    {
-      "basename": "src",
-      "path": "02.靶场/靶场链接/src.md"
     },
     {
       "basename": "感想",
