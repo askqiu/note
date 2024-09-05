@@ -108,6 +108,11 @@ referrerpolicy="no-referrer-when-downgrade">XSS test</a>
 前闭合，后注释（后闭合），中间payload
 有的标签是不需要闭合，尽可能先闭合
 
+## 路径xss
+在各级路径内容后添加测试用的payload，如xxxx"'<>,
+可以在chatgpt写脚本，把路径字典整理好，然后让各级路径进行payload替换，生成新的包含payload的路径字典，设置intreder里的grepmatch为xxxx
+不过这种很难升级危害，因为要引入js地址的话，在地址栏不好操作
+用eval与hash，
 # 过滤和waf
 过滤一般指的是对某些关键词进行删除或者替换，比如检到\<script>将其删掉，检查到alert 将其删掉WAF一般值得是拦截，比如检查到某个关键词或者某种规则给你返回403
 
@@ -136,3 +141,5 @@ tips：大多数人会先挖爬取结果多的，我们反其道而行， 先找
 插入payload，得到ayyyy=xxxx，得到 "ayyyy":"xxxx"
 ② 有时候waf或防护会防御参数值处的反射处 但有可能会在参数本身没有waf或防护，用url为a"-
 alert()-"=xxxx 成功触发
+
+xss有时候需要某些其他参数才会触发
