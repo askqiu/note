@@ -57,6 +57,26 @@ MS-USER-COOKIE-{id}
 最后找到了 /api/auth/session 这么一个路径
 怎么操作呢？
 ![[Pasted image 20240905152150.png]]
+# 有关referer的xss
+```
+在进行xss 测试的时候adco 这个参数存在反射XSS，但是当我在浏览器访问的时候发现无法触发
+经过在burp 反复对比数据包，发现是referer 影响了结果
+Referer: 可以是任意域名/widget/可以是任意的
+Referer 头需要带上widget 这个XSS才能成功利用
+Referer 包含widget的时候，\ 输出还是\ , 但是’会变成\’, 两个\\一组合，刚好可以打破’被转义
+Referer 不包含widget的时候，\的输出是\\, 加上’ 变成\’, 所以一共3个\, 最后的结果就是无法打破上
+下文，所以不存在漏洞
+```
+
+在你的域名放xss.html这么一个文件，这个文件的内容如下
+\<a href="https://{漏洞所在域名}/js/widget/?adco=\',1:alert(document.domain),//"
+referrerpolicy="no-referrer-when-downgrade">XSS test</a>
+访问https://{你的域名}/widget/xss.html
+然后点击XSS test就会重定向到https://{漏洞所在域
+名}/js/widget/?adco=\',1:alert(document.domain),//
+此时Referer 被正确设置，所以XSS会触发（其实也有办法进行自动重定向）
+
+这里下文还有继续缓存特性利用进行劫持登陆页面的，在part11
 # 基础的xss上下文
 前闭合，后注释（后闭合），中间payload
 有的标签是不需要闭合，尽可能先闭合

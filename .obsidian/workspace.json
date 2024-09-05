@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/bp/xss获取cookie.md",
+                "file": "07.src学习/xss挖掘.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.工具/bp/xss获取cookie.md",
+                "file": "07.src学习/xss挖掘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.工具/bp/xss获取cookie.md",
+                "file": "07.src学习/xss挖掘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/bp/xss获取cookie.md"
+                "file": "07.src学习/xss挖掘.md"
               }
             }
           }
@@ -281,9 +281,9 @@
   },
   "active": "45ec24c0870d8b19",
   "lastOpenFiles": [
-    "06.工具/bp",
-    "07.src学习/xss挖掘.md",
     "06.工具/bp/xss获取cookie.md",
+    "07.src学习/xss挖掘.md",
+    "06.工具/bp",
     "0001.附件/Pasted image 20240905152150.png",
     "0001.附件/Pasted image 20240905150044.png",
     "0001.附件/Pasted image 20240905145212.png",
@@ -323,7 +323,6 @@
     "06.工具/tools.md.baiduyun.uploading.cfg",
     "06.工具/未命名.md.baiduyun.uploading.cfg",
     "06.工具/msf.md",
-    "06.工具/msf.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240819103756.png",
     "0001.附件/Pasted image 20240819103734.png",
     "0001.附件/图片.png",
