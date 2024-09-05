@@ -1,4 +1,6 @@
 注意一下那个国外白帽子的xss文档pdf，总结很好
+
+参数提取urlfurl
 # 账号创建
 第一步创建一个账号，尽量用hackerone给的别名，比如说shadovv@wearehackerone.com
 第一个账号可以当成受害者账号，探索功能
@@ -64,6 +66,16 @@ MS-USER-COOKIE-{id}
 最后找到了 /api/auth/session 这么一个路径
 怎么操作呢？
 ![[Pasted image 20240905152150.png]]
+## glassdoor
+```
+信息收集：gau|waybackurls对www.glassdoor.com进行收集
+得到百万路径，先不处理，
+提取参数，用unfurl那工具），做成字典，初次提取有两千多字典，手动整理之后还剩900+（把看着完全不可能的参数手动删除掉，比如带*的，带！的，但是带有-和_的参数需要保留）
+获取相关信息：查看glass的公开报告，发现大多数是关于反射xss的，存储xss是通过selfxss+缓存漏洞完成，打开xss相关报告，把对应站点的xsspayload记录一下
+
+
+```
+![[Pasted image 20240905212121.png]]
 # 有关referer的xss
 ```
 在进行xss 测试的时候adco 这个参数存在反射XSS，但是当我在浏览器访问的时候发现无法触发
@@ -108,6 +120,9 @@ referrerpolicy="no-referrer-when-downgrade">XSS test</a>
 基于<svg/onload=alert()>
 可以变成<svg/onxyz=1/onload=alert()>因为匹配第一个
 最新版可能已经修复
+
+# 会话机制
+一个个删cookie里的东西，然后看看还在不在会话状态，找到会话的cookie
 # csp
 什么情况下可以绕过，什么情况下直接跑路
 # 注意
