@@ -104,6 +104,10 @@ referrerpolicy="no-referrer-when-downgrade">XSS test</a>
 
 在x和28之间加任意多个0，还是x28，加几个不行就多加一点
 ![[Pasted image 20240905110302.png]]
+## cf绕过
+基于<svg/onload=alert()>
+可以变成<svg/onxyz=1/onload=alert()>因为匹配第一个
+最新版可能已经修复
 # csp
 什么情况下可以绕过，什么情况下直接跑路
 # 注意
