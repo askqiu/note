@@ -6,7 +6,8 @@ https://www.bugbountyhunter.com/playground
 
 xss肌肉
 https://brutelogic.com.br/blog/training-xss-muscles/
-
+xss
+https://xz.aliyun.com/u/1758
 # 越权资料
 @所有人 
 🌈【forone海外挖洞班播报时间】

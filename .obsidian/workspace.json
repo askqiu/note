@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/xss挖掘.md"
+                "file": "02.靶场/靶场链接/src.md"
               }
             }
           }
@@ -281,8 +281,10 @@
   },
   "active": "45ec24c0870d8b19",
   "lastOpenFiles": [
-    "06.工具/bp/xss获取cookie.md",
+    "02.靶场/xss.md",
+    "02.靶场/靶场链接/src.md",
     "07.src学习/xss挖掘.md",
+    "06.工具/bp/xss获取cookie.md",
     "06.工具/bp",
     "0001.附件/Pasted image 20240905152150.png",
     "0001.附件/Pasted image 20240905150044.png",
@@ -291,8 +293,6 @@
     "06.工具/tools.md",
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
-    "02.靶场/xss.md",
-    "02.靶场/靶场链接/src.md",
     "04.渗透/waf.md",
     "04.渗透/sql注入.md",
     "00.Box/感想.md",

@@ -77,6 +77,14 @@ referrerpolicy="no-referrer-when-downgrade">XSS test</a>
 此时Referer 被正确设置，所以XSS会触发（其实也有办法进行自动重定向）
 
 这里下文还有继续缓存特性利用进行劫持登陆页面的，在part11
+现实攻击场景：
+1. 攻击者通过邮箱发送信息给受害者让他修改自己的booking 信息
+2. 当受害者点击邮箱里面的链接，就会被自动重定向到sub1.aaa.com(这是漏洞所在的域名)
+3. xss 荷载在重定向的过程中已经被缓存下来了，受害者无论访问sub1.aaa.com任意路径
+都能触发，哪怕是访问sub1.aaa.com/lol123 也能触发
+4. 现在受害者被重定向到sub1.aaa.com，在这个页面他输入自己的email和reference number，
+出于对sub1.aaa.com域名本身的信任，他将这些信息输入进去，却不知道这些信息已经悄悄被攻击
+者获取
 # 基础的xss上下文
 前闭合，后注释（后闭合），中间payload
 有的标签是不需要闭合，尽可能先闭合
