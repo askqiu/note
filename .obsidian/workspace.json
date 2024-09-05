@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#My-Article-Title，代码会在",
+                "query": "\"荷载<<img> img 输入以后，过滤器检测到<<img> img, 过滤器首先过滤的是里面的<img>, 这个时候还剩下< img, 按照前面的过滤情况来看 ， 因为是递归删除的，< img 应该也被删除才对，但是实际上并没有，最后保留下来了< img， 注意前面带了一个空格出现这种情况的原因是我朋友告诉我这是一个补充规则，因为他之前已经提交过一次了，一开始用的荷载是< img 前面带上了一个空格，一开始的规则只是递归删除<后面跟在字符的模式(比如<aaa, <bbb, <cccc)所以删除< img 其实只是一个在我朋友提交第一次报告以后，开发人员偷懒补充的一个规则，大概就是删除<空格跟着字符这种模式，没有加入递归删除的规则里面\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +194,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,6 +282,7 @@
   },
   "active": "45ec24c0870d8b19",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20240905145212.png",
     "05.云安全/云渗透.md",
     "07.src学习/xss挖掘.md",
     "06.工具/tools.md",
