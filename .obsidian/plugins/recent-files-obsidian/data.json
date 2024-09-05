@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "云渗透",
+      "path": "05.云安全/云渗透.md"
+    },
+    {
       "basename": "xss挖掘",
       "path": "07.src学习/xss挖掘.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "waf",
       "path": "04.渗透/waf.md"
-    },
-    {
-      "basename": "云渗透",
-      "path": "05.云安全/云渗透.md"
     },
     {
       "basename": "sql注入",
