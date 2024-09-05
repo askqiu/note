@@ -26,10 +26,11 @@ cors，csrf，越权
 第二种：与httponly有关（难搞的）
 ![[Pasted image 20240904211738.png]]
 # 案例
-![[Pasted image 20240904230359.png]]
+
+## 1（绕过）
 此处单引号双引号都过滤了，在url中尝试%2"2发现%22直接输出在了html上，就是说没解码，所以还是不行
 蓝色部分其实是js部分，于是我们考虑用-alert()-来弹窗，这样的话我们就需要用单引号闭合前后的单引号，但是被过滤了，所以考虑用html编码来闭合前后的单引号，单引号的html编码是&#x27，要对特殊符号编码url，所以最终payload是xxxxx%26%23x27;-alert()-%26%23x27;(这里不加；好像也可以)
-
+## 2（绕过，危害证明）
 递归过滤的一个点，为啥11111<<img\> img/src='a'/onerror=alert(1)>2222荷载可以绕过过滤？
 ：因为第二个img前面有个空格
 `荷载<<img> img 输入以后，过滤器检测到<<img> img, 过滤器首先过滤的是里面的<img>, 这`
@@ -41,6 +42,21 @@ cors，csrf，越权
 `所以删除< img 其实只是一个在我朋友提交第一次报告以后，开发人员偷懒补充的一个规则，`
 `大概就是删除<空格跟着字符这种模式，没有加入递归删除的规则里面`
 所以，可以猜测开发人员修复逻辑进行二次挖掘，但是这里有空格所以img不会触发，但是我们发现![[Pasted image 20240905145212.png]]
+只能弹个1无法接受危害，如何升级危害呢![[Pasted image 20240905150044.png]]
+
+## 3（账号接管）
+已知下面的cookie 没有设置http only 标记，所以可以通过XSS 直接读取
+WC-AUTHENTICATION-{UserId}
+WCU-SERACTIVITY-{UserId}
+MS-USER-COOKIE-{id}
+但是__Secure-next-auth.session-token 设置了http only 标记，请问如何读取这个cookie？
+最直接方法就是找到一个页面，
+\__Secure-next-auth.session-token cookie的内容会出现在那个页面、
+然后通过XSS 读取那个页面的内容即可
+那个页面找起来也不难，随便点点点功能点，然后检查burp的历史记录
+最后找到了 /api/auth/session 这么一个路径
+怎么操作呢？
+![[Pasted image 20240905152150.png]]
 # 基础的xss上下文
 前闭合，后注释（后闭合），中间payload
 有的标签是不需要闭合，尽可能先闭合

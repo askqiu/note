@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "06.工具/bp/xss获取cookie.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,8 +194,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "06.工具/bp/xss获取cookie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "06.工具/bp/xss获取cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/xss挖掘.md"
+                "file": "06.工具/bp/xss获取cookie.md"
               }
             }
           }
@@ -282,9 +281,13 @@
   },
   "active": "45ec24c0870d8b19",
   "lastOpenFiles": [
+    "06.工具/bp",
+    "07.src学习/xss挖掘.md",
+    "06.工具/bp/xss获取cookie.md",
+    "0001.附件/Pasted image 20240905152150.png",
+    "0001.附件/Pasted image 20240905150044.png",
     "0001.附件/Pasted image 20240905145212.png",
     "05.云安全/云渗透.md",
-    "07.src学习/xss挖掘.md",
     "06.工具/tools.md",
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
@@ -323,11 +326,7 @@
     "06.工具/msf.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240819103756.png",
     "0001.附件/Pasted image 20240819103734.png",
-    "01.前端/JavaScript.md",
     "0001.附件/图片.png",
-    "0001.附件/1E7FE5C7.png",
-    "0001.附件/缓存中毒1.webp",
-    "0001.附件/Pasted image 20240805211047.png",
     "未命名.canvas"
   ]
 }
