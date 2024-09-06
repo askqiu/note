@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "xss自动化补充",
+      "path": "07.src学习/xss自动化补充.md"
+    },
+    {
+      "basename": "xss挖掘",
+      "path": "07.src学习/xss挖掘.md"
+    },
+    {
+      "basename": "研判",
+      "path": "03.面试/研判.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.前端/JavaScript.md"
+    },
+    {
       "basename": "xss payload",
       "path": "07.src学习/payload/xss payload.md"
     },
     {
       "basename": "tools",
       "path": "06.工具/tools.md"
-    },
-    {
-      "basename": "xss挖掘",
-      "path": "07.src学习/xss挖掘.md"
     },
     {
       "basename": "越权",
@@ -85,10 +97,6 @@
       "path": "03.面试/面经/2024深圳粤盾.md"
     },
     {
-      "basename": "未命名 1",
-      "path": "00.Box/未命名 1.md"
-    },
-    {
       "basename": "未命名 2",
       "path": "00.Box/未命名 2.md"
     },
@@ -101,16 +109,8 @@
       "path": "03.面试/自我介绍.md"
     },
     {
-      "basename": "研判",
-      "path": "03.面试/研判.md"
-    },
-    {
       "basename": "msf",
       "path": "06.工具/msf.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.前端/JavaScript.md"
     },
     {
       "basename": "xss",

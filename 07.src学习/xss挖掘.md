@@ -188,7 +188,7 @@ script-src 'self' www.googleapis.com;
 
 如何找这样的callback可控点，大部分csp设置里，可信任的域名不多，如果遇到googleapis.com有，youtube.com也有，直接用上面的payload就行，如果遇到不知名的可信任域名，可以先搜一下callback参数，看看有没有已经搜集到的url，或者把所有响应包的内容类型是json的请求包都全部复制并且粘贴到一个文本里，url.txt，然后cat url.txt| httpx -path ?&callback=xxx' -ms 'xxx'
 # 自动化
-信息收集到所有url去重，删除重复相似url，用uro的工具，要结合具体厂商写规则，不然删除太多就不好了
+信息收集到所有url去重，删除重复相似url，用uro的工具，要结合具体厂商写规则，不然删除太多就不好了，爬虫可以用paramespider
 然后通过工具检测这些url是不是有漏洞
 ![[Pasted image 20240906103119.png]]
 ![[Pasted image 20240906103137.png]]

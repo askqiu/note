@@ -1,3 +1,4 @@
 paramspider爬取url
 waybackurls 爬取url
 去除url特多的路径
+waybackurls dell.

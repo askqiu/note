@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.面试/研判.md",
+                "file": "07.src学习/xss自动化补充.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"荷载<<img> img 输入以后，过滤器检测到<<img> img, 过滤器首先过滤的是里面的<img>, 这个时候还剩下< img, 按照前面的过滤情况来看 ， 因为是递归删除的，< img 应该也被删除才对，但是实际上并没有，最后保留下来了< img， 注意前面带了一个空格出现这种情况的原因是我朋友告诉我这是一个补充规则，因为他之前已经提交过一次了，一开始用的荷载是< img 前面带上了一个空格，一开始的规则只是递归删除<后面跟在字符的模式(比如<aaa, <bbb, <cccc)所以删除< img 其实只是一个在我朋友提交第一次报告以后，开发人员偷懒补充的一个规则，大概就是删除<空格跟着字符这种模式，没有加入递归删除的规则里面\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/payload/xss payload.md",
+                "file": "07.src学习/xss自动化补充.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/payload/xss payload.md",
+                "file": "07.src学习/xss自动化补充.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/payload/xss payload.md"
+                "file": "07.src学习/xss自动化补充.md"
               }
             }
           }
@@ -279,11 +278,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "45ec24c0870d8b19",
+  "active": "aa6aa9d359270d0b",
   "lastOpenFiles": [
-    "06.工具/tools.md",
-    "07.src学习/payload/xss payload.md",
     "07.src学习/xss挖掘.md",
+    "03.面试/研判.md",
+    "01.前端/JavaScript.md",
+    "07.src学习/payload/xss payload.md",
+    "06.工具/tools.md",
     "07.src学习/payload",
     "07.src学习/越权.md",
     "0001.附件/Pasted image 20240906103137.png",
@@ -317,13 +318,11 @@
     "03.面试/面经/深圳省护面经.md",
     "03.面试/面经/2024深圳粤盾.md",
     "02.靶场/靶场链接/src.md.baiduyun.uploading.cfg",
-    "00.Box/未命名 1.md",
+    "07.src学习/xss自动化补充.md",
     "00.Box/未命名 2.md",
     "07.src学习",
     "02.靶场/靶场链接",
     "03.面试/应急.md",
-    "03.面试/自我介绍.md",
-    "03.面试/研判.md",
     "03.面试/面经/2024深圳粤盾.md.baiduyun.uploading.cfg",
     "03.面试/面经/未命名.md.baiduyun.uploading.cfg",
     "00.Box/未命名 1.md.baiduyun.uploading.cfg",
