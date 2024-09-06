@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "07.src学习/越权.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "07.src学习/越权.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "07.src学习/越权.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/xss挖掘.md"
+                "file": "07.src学习/越权.md"
               }
             }
           }
@@ -281,6 +281,8 @@
   },
   "active": "45ec24c0870d8b19",
   "lastOpenFiles": [
+    "07.src学习/xss挖掘.md",
+    "07.src学习/越权.md",
     "0001.附件/Pasted image 20240906103137.png",
     "0001.附件/Pasted image 20240906103119.png",
     "0001.附件/Pasted image 20240906101246.png",
@@ -292,10 +294,8 @@
     "0001.附件/bacc6717ffbb64420f416d08c88a760 1.jpg",
     "0001.附件/bacc6717ffbb64420f416d08c88a760.jpg",
     "0001.附件/Pasted image 20240905212121.png",
-    "0001.附件/Pasted image 20240905212114.png",
     "02.靶场/靶场链接/src.md",
     "02.靶场/xss.md",
-    "07.src学习/xss挖掘.md",
     "06.工具/bp/xss获取cookie.md",
     "06.工具/bp",
     "05.云安全/云渗透.md",
