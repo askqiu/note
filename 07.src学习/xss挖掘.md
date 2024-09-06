@@ -117,19 +117,33 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
 ![[Pasted image 20240906093816.png]]
 ![[Pasted image 20240906093829.png]]
 ![[Pasted image 20240906093852.png]]
-
+![[xss专题第四次课笔记.txt]]
 # cors
 快速测，用corsy这个工具
-如果某个根目录下的cors配置错误，那么极大可能
+用bp，在proxy设置里的match and replace rules勾选request header 然后comment是add spoofed cors origin的（会自动加上那个请求头），再去sitemap里全局搜（右键，engagementtools，search，只勾选responseheader，搜foo.example.org）可以判断cors配置错误，比较全面，
+搜有没有敏感信息，勾选re body搜@（邮箱嘛）
 # 基础的xss上下文
 前闭合，后注释（后闭合），中间payload
 有的标签是不需要闭合，尽可能先闭合
+
+适用大部分上下文的payload
+Polyglots 说白了就是可以适用多个XSS上下文的XSS payload, 但是一般适用于没有waf的网站
+如果网站存在WAF, 这些payload 很容易被拦截，如果网站没有waf, Polyglots 还是非常方便的
+```
+下面是一个Polyglots 的例子
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/*
+*/oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--
+!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+更多例子可以查看
+https://gist.github.com/michenriksen/d729cd67736d750b3551876bbedbe626
+```
 
 ## 路径xss
 在各级路径内容后添加测试用的payload，如xxxx"'<>,
 可以在chatgpt写脚本，把路径字典整理好，然后让各级路径进行payload替换，生成新的包含payload的路径字典，设置intreder里的grepmatch为xxxx
 不过这种很难升级危害，因为要引入js地址的话，在地址栏不好操作
 用eval与hash，
+
 # 过滤和waf
 过滤一般指的是对某些关键词进行删除或者替换，比如检到\<script>将其删掉，检查到alert 将其删掉WAF一般值得是拦截，比如检查到某个关键词或者某种规则给你返回403
 
@@ -147,6 +161,29 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
 一个个删cookie里的东西，然后看看还在不在会话状态，找到会话的cookie
 # csp
 什么情况下可以绕过，什么情况下直接跑路
+CSP(内容安全策略)就是一种策略，这种策略限制可以加载哪些资源(例如 JavaScript、CSS、图像等)以及可以从哪些URL加载这些资源通过HTTP 响应标头或者元标记启用它
+如果你在某个网站发现了XSS，但是那个网站存在CSP策略，那么你是无法简单地直接执行XSS的，需要进行一定CSP绕过，总体来说CSP还是比较好绕过的
+基础指令
+![[Pasted image 20240906095903.png]]
+源列表参考
+源列表说明资源可以从哪里加载，多个源列表值可以用空格分隔，下面列出一些跟XSS相关
+的应当重点关注的指令
+'self' 允许从同一来源（相同方案、主机和端口）加载资源
+domain.example.com 允许从指定域名加载资源。
+\*.example.com 允许从example.com下的任何子域加载资源
+'unsafe-inline' 允许使用内联源元素，如 style 属性、onclick 或脚本标记体（取决于其所应用的源
+的上下文）和javascript:URI
+'unsafe-eval' 允许不安全的动态代码评估，例如 JavaScripteval()
+'nonce-' 如果脚本（例如：）\<script nonce="rAnd0m">标签包含与 CSP 标头中指定的 nonce 匹
+配的 nonce 属性，则允许执行内联脚本或 CSS。nonce 应为安全随机字符串，且不得重复使用
+## 绕过
+文章brutelogic.com.br/blog/csp-bypass-guidelines/
+CSP 样例
+允许googleapis 和同源
+script-src 'self' www.googleapis.com;
+可以通过下面的荷载进行绕过
+\<Script Src=https://www.googleapis.com/customsearch/v1?callback=alert(1)>\</Script>
+![[Pasted image 20240906101246.png]]
 # 注意
 一般来说浏览器会对url的特殊字符进行编码，然后会自动解码，如果我们的攻击只有在浏览器不对url进行编码的情况下才能进行的话，那么这是不行的。 如果一切都没问题，但是还是不弹窗，那么考虑是csp的问题
 批量的时候优先处理尖括号不过滤的
@@ -164,3 +201,4 @@ xss有时候需要某些其他参数才会触发
 还可以看别人的报告，然后进行二开
 
 大多数报告的存储xss是self结合缓存造成的，如果一个页面被缓存了他会直接指出这个页面被缓存了，通过http header或者cookie查找selfxss再结合缓存漏洞升级成存储xss是某些厂商挖掘存储xss的正确打开方式
+
