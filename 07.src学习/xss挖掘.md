@@ -107,6 +107,20 @@ referrerpolicy="no-referrer-when-downgrade">XSS test</a>
 4. 现在受害者被重定向到sub1.aaa.com，在这个页面他输入自己的email和reference number，
 出于对sub1.aaa.com域名本身的信任，他将这些信息输入进去，却不知道这些信息已经悄悄被攻击
 者获取
+# domxss
+jinone.github.io/bugbounty-dom-xss/
+# postmessage
+我们时不时会在H1的hacktivity上看见postMessage 相关的XSS 报告
+https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
+通过上面的文档我们知道 postMessage
+是一种以可控方式绕过同源策略的方法
+![[Pasted image 20240906093816.png]]
+![[Pasted image 20240906093829.png]]
+![[Pasted image 20240906093852.png]]
+
+# cors
+快速测，用corsy这个工具
+如果某个根目录下的cors配置错误，那么极大可能
 # 基础的xss上下文
 前闭合，后注释（后闭合），中间payload
 有的标签是不需要闭合，尽可能先闭合
