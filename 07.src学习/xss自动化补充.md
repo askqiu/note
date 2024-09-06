@@ -5,4 +5,5 @@ waybackurls 爬取url
 waybackurls dell.com>>1.txt
 命令去重排序，
 用uro（github下载）
-cat 1.txt|
+cat 1.txt|uro |tee 2.txt
+可能会把有用的也去掉
