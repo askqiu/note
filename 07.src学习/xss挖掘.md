@@ -182,8 +182,16 @@ CSP 样例
 允许googleapis 和同源
 script-src 'self' www.googleapis.com;
 可以通过下面的荷载进行绕过
-\<Script Src=https://www.googleapis.com/customsearch/v1?callback=alert(1)>\</Script>
+\<Script Src=https://www.googleapis.com/customsearch/v1?callback=alert(1)></Script>
 ![[Pasted image 20240906101246.png]]
+找到一个允许的来源，再找到来源里一个类似callback的，利用callback来进行js代码控制并且引入js里绕过csp的方法属于jsonp滥用
+
+如何找这样的callback可控点，大部分csp设置里，可信任的域名不多，如果遇到googleapis.com有，youtube.com也有，直接用上面的payload就行，如果遇到不知名的可信任域名，可以先搜一下callback参数，看看有没有已经搜集到的url，或者把所有响应包的内容类型是json的请求包都全部复制并且粘贴到一个文本里，url.txt，然后cat url.txt| httpx -path ?&callback=xxx' -ms 'xxx'
+# 自动化
+信息收集到所有url去重，删除重复相似url，用uro的工具，要结合具体厂商写规则，不然删除太多就不好了
+然后通过工具检测这些url是不是有漏洞
+![[Pasted image 20240906103119.png]]
+![[Pasted image 20240906103137.png]]
 # 注意
 一般来说浏览器会对url的特殊字符进行编码，然后会自动解码，如果我们的攻击只有在浏览器不对url进行编码的情况下才能进行的话，那么这是不行的。 如果一切都没问题，但是还是不弹窗，那么考虑是csp的问题
 批量的时候优先处理尖括号不过滤的
