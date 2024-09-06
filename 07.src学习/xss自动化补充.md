@@ -10,3 +10,9 @@ cat 1.txt|uro |tee 2.txt
 
 grep -v 'img'这样慢慢筛选
 还有信息收集里面目录爆破的一个知识点，去除静态文件的url
+前面生成参数字典，放进xscan的config.yaml
+
+./xscan -url-file dell.txt
+
+扫到后，一个个把url的参数值拿下了ctrlf找，有可能是组合参数
+![[Pasted image 20240906222844.png]]
