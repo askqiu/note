@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "xss自动化补充",
+      "path": "07.src学习/xss自动化补充.md"
+    },
+    {
+      "basename": "xss",
+      "path": "00.Box/xss.md"
+    },
+    {
       "basename": "tools",
       "path": "06.工具/tools.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "xss获取cookie",
       "path": "06.工具/bp/xss获取cookie.md"
-    },
-    {
-      "basename": "xss自动化补充",
-      "path": "07.src学习/xss自动化补充.md"
     },
     {
       "basename": "xss挖掘",
@@ -111,10 +115,6 @@
     {
       "basename": "自我介绍",
       "path": "03.面试/自我介绍.md"
-    },
-    {
-      "basename": "xss",
-      "path": "00.Box/xss.md"
     },
     {
       "basename": "未命名",

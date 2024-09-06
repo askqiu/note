@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools.md",
+                "file": "07.src学习/xss自动化补充.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.工具/tools.md",
+                "file": "07.src学习/xss自动化补充.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.工具/tools.md",
+                "file": "07.src学习/xss自动化补充.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools.md"
+                "file": "07.src学习/xss自动化补充.md"
               }
             }
           }
@@ -280,8 +280,9 @@
   },
   "active": "aa6aa9d359270d0b",
   "lastOpenFiles": [
-    "06.工具/msf.md",
+    "00.Box/xss.md",
     "06.工具/tools.md",
+    "06.工具/msf.md",
     "07.src学习/越权.md",
     "06.工具/bp/xss获取cookie.md",
     "07.src学习/xss自动化补充.md",
@@ -320,7 +321,6 @@
     "03.面试/面经/深圳省护面经.md",
     "03.面试/面经/2024深圳粤盾.md",
     "02.靶场/靶场链接/src.md.baiduyun.uploading.cfg",
-    "00.Box/未命名 2.md",
     "07.src学习",
     "02.靶场/靶场链接",
     "03.面试/面经/2024深圳粤盾.md.baiduyun.uploading.cfg",
