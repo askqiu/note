@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/xss自动化补充.md",
+                "file": "07.src学习/bugbounty.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/xss自动化补充.md",
+                "file": "07.src学习/bugbounty.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/xss自动化补充.md",
+                "file": "07.src学习/bugbounty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/xss自动化补充.md"
+                "file": "07.src学习/bugbounty.md"
               }
             }
           }
@@ -280,17 +280,18 @@
   },
   "active": "aa6aa9d359270d0b",
   "lastOpenFiles": [
-    "07.src学习/xss挖掘.md",
+    "07.src学习/payload/xss payload.md",
+    "07.src学习/bugbounty.md",
+    "06.工具/msf.md",
     "07.src学习/xss自动化补充.md",
+    "07.src学习/xss挖掘.md",
     "0001.附件/Pasted image 20240906222844.png",
     "00.Box/xss.md",
     "06.工具/tools.md",
-    "06.工具/msf.md",
     "07.src学习/越权.md",
     "06.工具/bp/xss获取cookie.md",
     "03.面试/研判.md",
     "01.前端/JavaScript.md",
-    "07.src学习/payload/xss payload.md",
     "07.src学习/payload",
     "0001.附件/Pasted image 20240906103137.png",
     "0001.附件/Pasted image 20240906103119.png",

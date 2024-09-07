@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "bugbounty",
+      "path": "07.src学习/bugbounty.md"
+    },
+    {
+      "basename": "xss payload",
+      "path": "07.src学习/payload/xss payload.md"
+    },
+    {
+      "basename": "msf",
+      "path": "06.工具/msf.md"
+    },
+    {
       "basename": "xss自动化补充",
       "path": "07.src学习/xss自动化补充.md"
     },
@@ -17,10 +29,6 @@
       "path": "06.工具/tools.md"
     },
     {
-      "basename": "msf",
-      "path": "06.工具/msf.md"
-    },
-    {
       "basename": "越权",
       "path": "07.src学习/越权.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "JavaScript",
       "path": "01.前端/JavaScript.md"
-    },
-    {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
     },
     {
       "basename": "src",
