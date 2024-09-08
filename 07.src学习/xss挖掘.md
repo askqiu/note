@@ -60,7 +60,7 @@ WCU-SERACTIVITY-{UserId}
 MS-USER-COOKIE-{id}
 但是__Secure-next-auth.session-token 设置了http only 标记，请问如何读取这个cookie？
 最直接方法就是找到一个页面，
-\__Secure-next-auth.session-token cookie的内容会出现在那个页面、
+Secure-next-auth.session-token cookie的内容会出现在那个页面、
 然后通过XSS 读取那个页面的内容即可
 那个页面找起来也不难，随便点点点功能点，然后检查burp的历史记录
 最后找到了 /api/auth/session 这么一个路径
