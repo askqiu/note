@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/bugbounty.md",
+                "file": "07.src学习/xss挖掘.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/bugbounty.md",
+                "file": "07.src学习/xss挖掘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/bugbounty.md",
+                "file": "07.src学习/xss挖掘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/bugbounty.md"
+                "file": "07.src学习/xss挖掘.md"
               }
             }
           }
@@ -280,8 +280,8 @@
   },
   "active": "aa6aa9d359270d0b",
   "lastOpenFiles": [
-    "07.src学习/payload/xss payload.md",
     "07.src学习/bugbounty.md",
+    "07.src学习/payload/xss payload.md",
     "06.工具/msf.md",
     "07.src学习/xss自动化补充.md",
     "07.src学习/xss挖掘.md",

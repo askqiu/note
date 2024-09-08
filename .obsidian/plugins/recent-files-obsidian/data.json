@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "xss挖掘",
+      "path": "07.src学习/xss挖掘.md"
+    },
+    {
       "basename": "bugbounty",
       "path": "07.src学习/bugbounty.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "xss自动化补充",
       "path": "07.src学习/xss自动化补充.md"
-    },
-    {
-      "basename": "xss挖掘",
-      "path": "07.src学习/xss挖掘.md"
     },
     {
       "basename": "xss",
