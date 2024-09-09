@@ -5,20 +5,24 @@
       "path": "02.靶场/靶场链接/src.md"
     },
     {
-      "basename": "bugbounty",
-      "path": "07.src学习/bugbounty.md"
+      "basename": "xss",
+      "path": "02.靶场/xss.md"
     },
     {
       "basename": "js源码分析",
       "path": "07.src学习/js源码分析.md"
     },
     {
-      "basename": "JavaScript",
-      "path": "01.前端/JavaScript.md"
-    },
-    {
       "basename": "JavaScript代码分析案例",
       "path": "01.前端/JavaScript代码分析案例.md"
+    },
+    {
+      "basename": "bugbounty",
+      "path": "07.src学习/bugbounty.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.前端/JavaScript.md"
     },
     {
       "basename": "客户端知识",
@@ -43,10 +47,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/xss.md"
     },
     {
       "basename": "xss挖掘",
