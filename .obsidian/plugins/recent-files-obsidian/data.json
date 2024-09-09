@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "xss",
+      "path": "02.靶场/xss.md"
+    },
+    {
       "basename": "bugbounty",
       "path": "07.src学习/bugbounty.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "src",
       "path": "02.靶场/靶场链接/src.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/xss.md"
     },
     {
       "basename": "云渗透",

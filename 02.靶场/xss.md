@@ -185,3 +185,7 @@ xxxx\"-alert()}//
 <><img src=2 onerror=alert(1)>
 ```
 c此处的防御方法应该是，把传入的数据的危险符号用html存储在数据库中，而不是从数据库拿出来之后再进行编码输出 
+
+# 允许使用一些 SVG 标记的反射型 XSS
+<svg onbegin=alert(1)>无法触发
+这样可以触发<svg><animatetransform onbegin=alert(1)>
