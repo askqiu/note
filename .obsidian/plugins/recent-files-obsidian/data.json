@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "源码分析",
-      "path": "07.src学习/源码分析.md"
+      "basename": "bugbounty",
+      "path": "07.src学习/bugbounty.md"
+    },
+    {
+      "basename": "js源码分析",
+      "path": "07.src学习/js源码分析.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.前端/JavaScript.md"
     },
     {
       "basename": "JavaScript代码分析案例",
       "path": "01.前端/JavaScript代码分析案例.md"
     },
     {
-      "basename": "JavaScript",
-      "path": "01.前端/JavaScript.md"
+      "basename": "src",
+      "path": "02.靶场/靶场链接/src.md"
     },
     {
       "basename": "客户端知识",
@@ -27,14 +35,6 @@
     {
       "basename": "json",
       "path": "01.前端/json.md"
-    },
-    {
-      "basename": "src",
-      "path": "02.靶场/靶场链接/src.md"
-    },
-    {
-      "basename": "bugbounty",
-      "path": "07.src学习/bugbounty.md"
     },
     {
       "basename": "xss自动化补充",

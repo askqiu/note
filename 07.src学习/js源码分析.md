@@ -284,7 +284,7 @@ Sources 和 execution sinks
 
 第二个被称为execution sink，这个术语意味着，所有的JavaScript语法元素或者那些可以执行代码的HTML API。一个很明显的例子就是JavaScript中的eval(code_to_evaluate)，这个函数可以通过参数来执行代码。另一个例子是setTimeout(function_to_execute, timeout_in_miliseconds),可以通过这个函数的第一个参数去执行一个函数，前提是要等到第二个参数的时间到了之后才可以执行。
 在应用程序中发现漏洞的过程就是寻找source和处理此source的execution sink之间的连接。在上面这个例子中，我将展示如何使用debugger，url作为参数(source) 被直接放入location.href (execution sink) 中。另一个例子是，一个函数会获取HTML输入框中用户输入的数据（JavaScript能通过DOM API读取到这些数据，例如document.getElementById(‘input_id’).value,然后把这些值传递给一个变量，这也可能会是一个source。）然后这个值会被放入到innerHTML()函数中，之后这个函数会更新浏览器中DOM（这就会成为一个execution sink）
-
+https://www.youtube.com/watch?v=ZaOtY4i5w_U
 这里有一个非常棒的视频，它的作者是@LiveOverflow。我建议你马上去看看这个视频以熟悉它概念（这个视频大概8分钟长）
 在web应用程序中，由于其复杂的业务逻辑，会存在非常多的sources 和 execution sinks（想想那些输入框，url参数，cookie，浏览器存储，WebSockets等）。但是重要的东西是那些可以被作为execution sinks的函数。它们也有很多，像location属性：href or hash, window.open(), document.write()，或者DOM函数：innerHTML 或者 appendChild。它们都可以执行任意代码，任意跳转，或者执行其他类型的注入。
 
