@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "07.src学习/bugbounty.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "07.src学习/bugbounty.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/xss挖掘.md",
+                "file": "07.src学习/bugbounty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/xss挖掘.md"
+                "file": "07.src学习/bugbounty.md"
               }
             }
           }
@@ -281,11 +281,11 @@
   "active": "aa6aa9d359270d0b",
   "lastOpenFiles": [
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
+    "07.src学习/xss挖掘.md",
     "07.src学习/bugbounty.md",
     "07.src学习/payload/xss payload.md",
     "06.工具/msf.md",
     "07.src学习/xss自动化补充.md",
-    "07.src学习/xss挖掘.md",
     "0001.附件/Pasted image 20240906222844.png",
     "00.Box/xss.md",
     "06.工具/tools.md",
@@ -325,7 +325,6 @@
     "02.靶场/靶场链接",
     "03.面试/面经/2024深圳粤盾.md.baiduyun.uploading.cfg",
     "03.面试/面经/未命名.md.baiduyun.uploading.cfg",
-    "00.Box/未命名 1.md.baiduyun.uploading.cfg",
     "未命名.canvas"
   ]
 }
