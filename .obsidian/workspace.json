@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa6aa9d359270d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07.src学习/bugbounty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "02d6050e6a3a0b42",
             "type": "leaf",
             "state": {
@@ -168,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "openanother",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/bugbounty.md",
+                "file": "01.前端/JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/bugbounty.md",
+                "file": "01.前端/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/bugbounty.md"
+                "file": "01.前端/JavaScript.md"
               }
             }
           }
@@ -278,12 +266,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "aa6aa9d359270d0b",
+  "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "07.src学习/bugbounty.md",
     "02.靶场/xss.md",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
     "02.靶场/xss.md.baiduyun.uploading.cfg",
-    "07.src学习/bugbounty.md",
     "07.src学习/xss挖掘.md",
     "07.src学习/payload/xss payload.md",
     "06.工具/msf.md",
@@ -324,7 +313,6 @@
     "02.靶场/靶场链接/src.md.baiduyun.uploading.cfg",
     "07.src学习",
     "02.靶场/靶场链接",
-    "03.面试/面经/2024深圳粤盾.md.baiduyun.uploading.cfg",
-    "未命名.canvas"
+    "03.面试/面经/2024深圳粤盾.md.baiduyun.uploading.cfg"
   ]
 }
