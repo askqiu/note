@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "源码分析",
+      "path": "07.src学习/源码分析.md"
+    },
+    {
+      "basename": "JavaScript代码分析案例",
+      "path": "01.前端/JavaScript代码分析案例.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.前端/JavaScript.md"
+    },
+    {
+      "basename": "客户端知识",
+      "path": "01.前端/客户端知识.md"
+    },
+    {
       "basename": "tools0",
       "path": "06.工具/tools0.md"
     },
@@ -9,20 +25,8 @@
       "path": "06.工具/tools1.md"
     },
     {
-      "basename": "客户端知识",
-      "path": "01.前端/客户端知识.md"
-    },
-    {
       "basename": "json",
       "path": "01.前端/json.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.前端/JavaScript.md"
-    },
-    {
-      "basename": "源码分析",
-      "path": "07.src学习/源码分析.md"
     },
     {
       "basename": "src",
@@ -103,10 +107,6 @@
     {
       "basename": "缓存中毒",
       "path": "08.漏洞原理/缓存中毒.md"
-    },
-    {
-      "basename": "JavaScript代码分析案例",
-      "path": "01.前端/JavaScript代码分析案例.md"
     },
     {
       "basename": "溯源",

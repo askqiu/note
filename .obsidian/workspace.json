@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "07.src学习/源码分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "07.src学习/源码分析.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "07.src学习/源码分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools0.md"
+                "file": "07.src学习/源码分析.md"
               }
             }
           }
@@ -268,15 +268,16 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "01.前端/JavaScript代码分析案例.md",
+    "01.前端/JavaScript.md",
+    "01.前端/客户端知识.md",
+    "06.工具/tools0.md",
     "06.工具/tools0.md.baiduyun.uploading.cfg",
     "06.工具/未命名.md.baiduyun.uploading.cfg",
     "06.工具/tools1.md",
-    "06.工具/tools0.md",
-    "01.前端/客户端知识.md",
     "01.前端/客户端知识.md.baiduyun.uploading.cfg",
     "01.前端/未命名.md.baiduyun.uploading.cfg",
     "01.前端/json.md",
-    "01.前端/JavaScript.md",
     "07.src学习/源码分析.md",
     "07.src学习/源码分析.md.baiduyun.uploading.cfg",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
@@ -297,7 +298,6 @@
     "07.src学习/越权.md",
     "06.工具/bp/xss获取cookie.md",
     "03.面试/研判.md",
-    "07.src学习/payload",
     "0001.附件/Pasted image 20240906103137.png",
     "0001.附件/Pasted image 20240906103119.png",
     "0001.附件/Pasted image 20240906101246.png",
