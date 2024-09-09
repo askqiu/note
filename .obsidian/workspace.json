@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.前端/客户端知识.md",
+                "file": "06.工具/tools0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools.md",
+                "file": "06.工具/tools1.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.前端/客户端知识.md",
+                "file": "06.工具/tools0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.前端/客户端知识.md",
+                "file": "06.工具/tools0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.前端/客户端知识.md"
+                "file": "06.工具/tools0.md"
               }
             }
           }
@@ -268,10 +268,14 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "06.工具/tools0.md.baiduyun.uploading.cfg",
+    "06.工具/未命名.md.baiduyun.uploading.cfg",
+    "06.工具/tools1.md",
+    "06.工具/tools0.md",
+    "01.前端/客户端知识.md",
     "01.前端/客户端知识.md.baiduyun.uploading.cfg",
     "01.前端/未命名.md.baiduyun.uploading.cfg",
     "01.前端/json.md",
-    "01.前端/客户端知识.md",
     "01.前端/JavaScript.md",
     "07.src学习/源码分析.md",
     "07.src学习/源码分析.md.baiduyun.uploading.cfg",
@@ -290,7 +294,6 @@
     "06.工具/msf.md",
     "0001.附件/Pasted image 20240906222844.png",
     "00.Box/xss.md",
-    "06.工具/tools.md",
     "07.src学习/越权.md",
     "06.工具/bp/xss获取cookie.md",
     "03.面试/研判.md",
@@ -299,13 +302,11 @@
     "0001.附件/Pasted image 20240906103119.png",
     "0001.附件/Pasted image 20240906101246.png",
     "0001.附件/Pasted image 20240906095903.png",
-    "0001.附件/xss专题第四次课笔记.txt",
     "0001.附件/Pasted image 20240906093852.png",
     "0001.附件/Pasted image 20240906093829.png",
     "0001.附件/Pasted image 20240906093816.png",
     "0001.附件/bacc6717ffbb64420f416d08c88a760 1.jpg",
     "0001.附件/bacc6717ffbb64420f416d08c88a760.jpg",
-    "06.工具/bp",
     "05.云安全/云渗透.md",
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
@@ -313,7 +314,6 @@
     "04.渗透/sql注入.md",
     "00.Box/感想.md",
     "00.Box/测试专用.md",
-    "08.漏洞原理/缓存中毒.md",
-    "01.前端/JavaScript代码分析案例.md"
+    "08.漏洞原理/缓存中毒.md"
   ]
 }

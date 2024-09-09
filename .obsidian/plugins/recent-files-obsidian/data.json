@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "tools0",
+      "path": "06.工具/tools0.md"
+    },
+    {
+      "basename": "tools1",
+      "path": "06.工具/tools1.md"
+    },
+    {
       "basename": "客户端知识",
       "path": "01.前端/客户端知识.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "xss",
       "path": "00.Box/xss.md"
-    },
-    {
-      "basename": "tools",
-      "path": "06.工具/tools.md"
     },
     {
       "basename": "越权",
