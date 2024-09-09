@@ -22,3 +22,6 @@ https://bxmbn.medium.com/i-received-a-bank-offer-in-my-mailbox-and-discovered-an
 错过直播的同学们，可以使用录播回放查看
 如有疑问需要讲师解答 请在腾讯答疑在线文档中提出
 课后作业：靶场练习
+
+源码映射
+https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps
