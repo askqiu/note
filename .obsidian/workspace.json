@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/源码分析.md",
+                "file": "01.前端/客户端知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/源码分析.md",
+                "file": "01.前端/客户端知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/源码分析.md",
+                "file": "01.前端/客户端知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/源码分析.md"
+                "file": "01.前端/客户端知识.md"
               }
             }
           }
@@ -268,16 +268,20 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "01.前端/客户端知识.md.baiduyun.uploading.cfg",
+    "01.前端/未命名.md.baiduyun.uploading.cfg",
+    "01.前端/json.md",
+    "01.前端/客户端知识.md",
+    "01.前端/JavaScript.md",
+    "07.src学习/源码分析.md",
     "07.src学习/源码分析.md.baiduyun.uploading.cfg",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
     "07.src学习/未命名.md.baiduyun.uploading.cfg",
     "02.靶场/靶场链接/src.md",
-    "07.src学习/源码分析.md",
     "02.靶场/靶场链接/src.md.baiduyun.uploading.cfg",
     "07.src学习/bugbounty.md",
     "07.src学习/bugbounty.md.baiduyun.uploading.cfg",
     "07.src学习/xss自动化补充.md",
-    "01.前端/JavaScript.md",
     "未命名.canvas",
     "02.靶场/xss.md",
     "02.靶场/xss.md.baiduyun.uploading.cfg",
@@ -310,10 +314,6 @@
     "00.Box/感想.md",
     "00.Box/测试专用.md",
     "08.漏洞原理/缓存中毒.md",
-    "08.漏洞原理",
-    "01.前端/json.md",
-    "01.前端/JavaScript代码分析案例.md",
-    "03.面试/溯源.md",
-    "07.src学习"
+    "01.前端/JavaScript代码分析案例.md"
   ]
 }
