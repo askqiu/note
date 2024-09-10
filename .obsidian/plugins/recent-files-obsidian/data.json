@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "缓存中毒",
+      "path": "08.漏洞原理/缓存中毒.md"
+    },
+    {
       "basename": "缓存类漏洞",
       "path": "07.src学习/缓存类漏洞.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "测试专用",
       "path": "00.Box/测试专用.md"
-    },
-    {
-      "basename": "缓存中毒",
-      "path": "08.漏洞原理/缓存中毒.md"
     },
     {
       "basename": "溯源",
