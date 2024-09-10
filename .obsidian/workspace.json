@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/js源码分析.md",
-                "mode": "preview",
+                "file": "07.src学习/缓存类漏洞.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/js源码分析.md",
+                "file": "07.src学习/缓存类漏洞.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/js源码分析.md",
+                "file": "07.src学习/缓存类漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/js源码分析.md"
+                "file": "07.src学习/缓存类漏洞.md"
               }
             }
           }
@@ -268,12 +268,21 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "07.src学习/缓存类漏洞.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240910202817.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240910202817.png",
+    "0001.附件/Pasted image 20240910202507.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240910202507.png",
+    "0001.附件/Pasted image 20240910202135.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240910202135.png",
+    "07.src学习/未命名.md.baiduyun.uploading.cfg",
+    "07.src学习/js源码分析.md",
+    "07.src学习/缓存类漏洞.md",
     "02.靶场/fastfood.md",
     "0001.附件/Pasted image 20240910091718.png",
     "0001.附件/Pasted image 20240910091543.png",
     "02.靶场/靶场链接/src.md",
     "02.靶场/xss.md",
-    "07.src学习/js源码分析.md",
     "01.前端/JavaScript代码分析案例.md",
     "07.src学习/bugbounty.md",
     "07.src学习/bugbounty.md.baiduyun.uploading.cfg",
@@ -286,15 +295,8 @@
     "0001.附件/Pasted image 20240909214655.png",
     "0001.附件/Pasted image 20240909214646.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240909214646.png",
-    "0001.附件/Pasted image 20240909214639.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240909214639.png",
-    "0001.附件/Pasted image 20240909214632.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240909214632.png",
-    "0001.附件/Pasted image 20240909214627.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240909214627.png",
-    "0001.附件/Pasted image 20240909214619.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240909214619.png",
-    "0001.附件/Pasted image 20240909214610.png",
     "01.前端/客户端知识.md",
     "06.工具/tools0.md",
     "06.工具/tools1.md",
@@ -312,7 +314,6 @@
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
     "04.渗透/waf.md",
-    "04.渗透/sql注入.md",
-    "00.Box/感想.md"
+    "04.渗透/sql注入.md"
   ]
 }
