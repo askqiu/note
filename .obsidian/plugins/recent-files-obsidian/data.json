@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
+    },
+    {
       "basename": "缓存类漏洞",
       "path": "07.src学习/缓存类漏洞.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "js源码分析",
       "path": "07.src学习/js源码分析.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
     },
     {
       "basename": "src",

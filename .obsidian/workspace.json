@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/缓存类漏洞.md",
+                "file": "02.靶场/fastfood.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/缓存类漏洞.md",
+                "file": "02.靶场/fastfood.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/缓存类漏洞.md",
+                "file": "02.靶场/fastfood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/缓存类漏洞.md"
+                "file": "02.靶场/fastfood.md"
               }
             }
           }
@@ -266,11 +266,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "02d6050e6a3a0b42",
+  "active": "acc6d137d7deb89f",
   "lastOpenFiles": [
+    "07.src学习/缓存类漏洞.md",
     "07.src学习/缓存类漏洞.md.baiduyun.uploading.cfg",
     "08.漏洞原理/缓存中毒.md",
-    "07.src学习/缓存类漏洞.md",
     "0001.附件/Pasted image 20240910202817.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240910202817.png",
     "0001.附件/Pasted image 20240910202507.png.baiduyun.uploading.cfg",
