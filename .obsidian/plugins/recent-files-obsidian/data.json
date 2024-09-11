@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "xss自动化补充",
+      "path": "07.src学习/xss自动化补充.md"
+    },
+    {
       "basename": "bugbounty",
       "path": "07.src学习/bugbounty.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "json",
       "path": "01.前端/json.md"
-    },
-    {
-      "basename": "xss自动化补充",
-      "path": "07.src学习/xss自动化补充.md"
     },
     {
       "basename": "未命名",
