@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "bugbounty",
+      "path": "07.src学习/bugbounty.md"
+    },
+    {
       "basename": "fastfood",
       "path": "02.靶场/fastfood.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "JavaScript代码分析案例",
       "path": "01.前端/JavaScript代码分析案例.md"
-    },
-    {
-      "basename": "bugbounty",
-      "path": "07.src学习/bugbounty.md"
     },
     {
       "basename": "JavaScript",
