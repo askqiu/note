@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "07.src学习/payload/xss payload.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "07.src学习/payload/xss payload.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "07.src学习/payload/xss payload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.云安全/云渗透.md"
+                "file": "07.src学习/payload/xss payload.md"
               }
             }
           }
@@ -268,6 +268,10 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "06.工具/tools0.md",
+    "06.工具/msf.md",
+    "06.工具/未命名.md",
+    "05.云安全/云渗透.md",
     "08.漏洞原理/缓存中毒.md",
     "07.src学习/xss自动化补充.md",
     "07.src学习/bugbounty.md",
@@ -299,18 +303,15 @@
     "0001.附件/Pasted image 20240909214639.png",
     "0001.附件/Pasted image 20240909214632.png",
     "01.前端/客户端知识.md",
-    "06.工具/tools0.md",
     "06.工具/tools1.md",
     "01.前端/json.md",
     "未命名.canvas",
     "07.src学习/xss挖掘.md",
     "07.src学习/payload/xss payload.md",
-    "06.工具/msf.md",
     "00.Box/xss.md",
     "07.src学习/越权.md",
     "06.工具/bp/xss获取cookie.md",
     "03.面试/研判.md",
-    "05.云安全/云渗透.md",
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
     "04.渗透/waf.md"
