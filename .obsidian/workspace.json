@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "05.云安全/云渗透.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.前端/JavaScript.md",
+                "file": "01.开发/前端/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "05.云安全/云渗透.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "05.云安全/云渗透.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools0.md"
+                "file": "05.云安全/云渗透.md"
               }
             }
           }
@@ -268,8 +268,14 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
-    "07.src学习/payload/xss payload.md",
+    "01.开发/前端/JavaScript.md",
+    "01.开发/后端/未命名.md",
+    "01.开发/后端/未命名.md.baiduyun.uploading.cfg",
+    "01.开发/前端/客户端知识.md",
+    "01.开发/后端",
+    "01.开发/前端",
     "06.工具/tools0.md",
+    "07.src学习/payload/xss payload.md",
     "06.工具/msf.md",
     "06.工具/未命名.md",
     "05.云安全/云渗透.md",
@@ -291,29 +297,22 @@
     "0001.附件/Pasted image 20240910091543.png",
     "02.靶场/靶场链接/src.md",
     "02.靶场/xss.md",
-    "01.前端/JavaScript代码分析案例.md",
+    "01.开发/前端/JavaScript代码分析案例.md",
     "07.src学习/bugbounty.md.baiduyun.uploading.cfg",
     "07.src学习/js源码分析.md.baiduyun.uploading.cfg",
-    "01.前端/JavaScript.md",
-    "07.src学习/源码分析.md.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240909214706.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240909214706.png",
-    "0001.附件/Pasted image 20240909214655.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240909214655.png",
     "0001.附件/Pasted image 20240909214646.png",
     "0001.附件/Pasted image 20240909214639.png",
     "0001.附件/Pasted image 20240909214632.png",
-    "01.前端/客户端知识.md",
     "06.工具/tools1.md",
-    "01.前端/json.md",
+    "01.开发/前端/json.md",
     "未命名.canvas",
     "07.src学习/xss挖掘.md",
     "00.Box/xss.md",
     "07.src学习/越权.md",
     "06.工具/bp/xss获取cookie.md",
     "03.面试/研判.md",
-    "04.渗透/权限提升.md",
-    "04.渗透/内网.md",
-    "04.渗透/waf.md"
+    "04.渗透/权限提升.md"
   ]
 }
