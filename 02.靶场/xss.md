@@ -189,3 +189,7 @@ c此处的防御方法应该是，把传入的数据的危险符号用html存储
 # 允许使用一些 SVG 标记的反射型 XSS
 <svg onbegin=alert(1)>无法触发
 这样可以触发<svg><animatetransform onbegin=alert(1)>
+
+# 实验：规范链接标签中的反射型 XSS
+url反射到页面源码的head里，在head里不能插入<img>之类的标签
+然后我们输入一个问号?,使得页面不会跳转 

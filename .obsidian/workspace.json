@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "02.靶场/xss.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "02.靶场/xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "02.靶场/xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.云安全/云渗透.md"
+                "file": "02.靶场/xss.md"
               }
             }
           }
@@ -268,6 +268,8 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "02.靶场/fastfood.md",
+    "05.云安全/云渗透.md",
     "01.开发/前端/JavaScript.md",
     "01.开发/后端/未命名.md",
     "01.开发/后端/未命名.md.baiduyun.uploading.cfg",
@@ -278,11 +280,9 @@
     "07.src学习/payload/xss payload.md",
     "06.工具/msf.md",
     "06.工具/未命名.md",
-    "05.云安全/云渗透.md",
     "08.漏洞原理/缓存中毒.md",
     "07.src学习/xss自动化补充.md",
     "07.src学习/bugbounty.md",
-    "02.靶场/fastfood.md",
     "07.src学习/缓存类漏洞.md",
     "07.src学习/缓存类漏洞.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240910202817.png.baiduyun.uploading.cfg",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "xss",
+      "path": "02.靶场/xss.md"
+    },
+    {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
+    },
+    {
       "basename": "云渗透",
       "path": "05.云安全/云渗透.md"
     },
@@ -45,10 +53,6 @@
       "path": "07.src学习/bugbounty.md"
     },
     {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
-    },
-    {
       "basename": "缓存类漏洞",
       "path": "07.src学习/缓存类漏洞.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "src",
       "path": "02.靶场/靶场链接/src.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/xss.md"
     },
     {
       "basename": "JavaScript代码分析案例",
