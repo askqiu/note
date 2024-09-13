@@ -268,6 +268,7 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20240913210214.png",
     "02.靶场/xss.md",
     "07.src学习/缓存类.md",
     "0001.附件/Pasted image 20240913193741.png",
@@ -313,7 +314,6 @@
     "00.Box/xss.md",
     "07.src学习/越权.md",
     "06.工具/bp/xss获取cookie.md",
-    "03.面试/研判.md",
-    "04.渗透/权限提升.md"
+    "03.面试/研判.md"
   ]
 }
