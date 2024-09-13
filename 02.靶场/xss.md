@@ -196,3 +196,9 @@ url反射到页面源码的head里，在head里不能插入<img>之类的标签
 payload:https://0a8600b903a47c9e80ca5841004c00e2.web-security-academy.net/?%27accesskey=%27x%27onclick=%27alert(1)
 在这个例子我发现，属性值'之后不用空格
 ![[1726226526783.png]]
+
+# 实验：将 XSS 反射为 JavaScript 字符串，并转义单引号和反斜杠
+思维局限了，只想着逃出var的参数
+先逃出'，虽然有\转义但是可以如图直接用<script\>隔开
+![[Pasted image 20240913193458.png]]
+![[Pasted image 20240913193741.png]]
