@@ -202,3 +202,8 @@ payload:https://0a8600b903a47c9e80ca5841004c00e2.web-security-academy.net/?%27ac
 先逃出'，虽然有\转义但是可以如图直接用<script\>隔开
 ![[Pasted image 20240913193458.png]]
 ![[Pasted image 20240913193741.png]]
+# 实验：将 XSS 反射为带有尖括号和双引号的 JavaScript 字符串，HTML 编码和单引号转义
+view-source:https://0aec00b003bd7f918144a7d000960063.web-security-academy.net/?search=xxx\%27;alert(1);//
+一开始以为\\是注释，这下该记住了
+![[Pasted image 20240913220623.png]]
+![[Pasted image 20240913220606.png]]
