@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "07.src学习/缓存类.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "07.src学习/缓存类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "07.src学习/缓存类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/xss.md"
+                "file": "07.src学习/缓存类.md"
               }
             }
           }
@@ -268,6 +268,8 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "02.靶场/xss.md",
+    "07.src学习/缓存类.md",
     "0001.附件/Pasted image 20240913193741.png",
     "0001.附件/Pasted image 20240913193458.png",
     "0001.附件/1726226526783.png",
@@ -300,12 +302,10 @@
     "0001.附件/Pasted image 20240910091718.png",
     "0001.附件/Pasted image 20240910091543.png",
     "02.靶场/靶场链接/src.md",
-    "02.靶场/xss.md",
     "01.开发/前端/JavaScript代码分析案例.md",
     "07.src学习/bugbounty.md.baiduyun.uploading.cfg",
     "07.src学习/js源码分析.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240909214706.png",
-    "0001.附件/Pasted image 20240909214655.png",
     "06.工具/tools1.md",
     "01.开发/前端/json.md",
     "未命名.canvas",
