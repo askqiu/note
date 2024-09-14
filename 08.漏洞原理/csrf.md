@@ -6,3 +6,6 @@
 因为这个恶意网站无法获取原本网站的csrftoken，所以不会在请求里加上csrftoken这个头，请求无效
 ==但是如果是xss+csrf的话，就可以直接在原本网站触发恶意url功能，带上csrftoken==
 
+## 防御：
+- 双重提交Cookie（Double Submit Cookie）：除了通过表单提交csrftoken，还可以在Cookie中存储一个相同的令牌。服务器会检查请求中的令牌和Cookie中的令牌是否匹配，以进一步增强安全性。
+- SameSite Cookie：通过设置Cookie的SameSite属性为Strict或Lax，可以防止跨站点的请求自动带上会话Cookie，从而防止CSRF攻击。
