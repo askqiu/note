@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "02.靶场/xss.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "02.靶场/xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "02.靶场/xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools0.md"
+                "file": "02.靶场/xss.md"
               }
             }
           }
@@ -268,6 +268,7 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "06.工具/tools0.md",
     "06.工具/msf.md",
     "02.靶场/xss.md",
     "0001.附件/Pasted image 20240913230844.png",
@@ -287,7 +288,6 @@
     "01.开发/前端/客户端知识.md",
     "01.开发/后端",
     "01.开发/前端",
-    "06.工具/tools0.md",
     "07.src学习/payload/xss payload.md",
     "06.工具/未命名.md",
     "08.漏洞原理/缓存中毒.md",
