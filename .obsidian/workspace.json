@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/xss.md",
-                "mode": "preview",
+                "file": "03.面试/面经/得物sdl实习面试.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "03.面试/面经/得物sdl实习面试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "03.面试/面经/得物sdl实习面试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/xss.md"
+                "file": "03.面试/面经/得物sdl实习面试.md"
               }
             }
           }
@@ -268,9 +268,10 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "02.靶场/xss.md",
+    "03.面试/面经/得物sdl实习面试.md",
     "06.工具/tools0.md",
     "06.工具/msf.md",
-    "02.靶场/xss.md",
     "0001.附件/Pasted image 20240913230844.png",
     "0001.附件/Pasted image 20240913220623.png",
     "0001.附件/Pasted image 20240913220606.png",
