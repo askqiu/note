@@ -213,3 +213,11 @@ view-source:https://0aec00b003bd7f918144a7d000960063.web-security-academy.net/?s
 然后虽然我们看似只是在html里编辑，但是链接触发点在onclick事件里面，onclick可以指定JavaScript函数，在这里应该是指定了一个函数，也就是说我们在js里面，所以如此构造
 用于闭合的引号其实是&apos;   这里弹窗了，但是不知道为什么显示没完成
 ![[Pasted image 20240913230844.png]]
+
+# 
+`反引号主要用于定义模板字符串（template literals），支持字符串插值和多行字符串。`
+`可以在反引号中使用占位符 ${} 来插入变量或表达式`
+``let name = "John";``
+``let str = `Hello, ${name}`; // 输出 "Hello, John"``
+模板字符串在 HTML 注入测试中也需要特别小心。模板字符串允许插入任意的 JavaScript 表达式，因此攻击者可能通过构造复杂的模板字符串进行 XSS 攻击。
+模板字符串：1，反引号定义  2，支持字符插值
