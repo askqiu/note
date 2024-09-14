@@ -4,6 +4,7 @@
 `<img src="https://www.siteA.com/transfer?amount=1000&to_account=attacker_account" />`
 受害者加载这张不存在的图片的时候，会请求这个url，然后触发转账的功能
 因为这个恶意网站无法获取原本网站的csrftoken，所以不会在请求里加上csrftoken这个头，请求无效
+csrf是js加载到dom上的，所以不会立马加载出来，如果过早加载xss账号接管恶意js，可能会获取不到csrftoken，
 ==但是如果是xss+csrf的话，就可以直接在原本网站触发恶意url功能，带上csrftoken==
 
 ## 防御：
