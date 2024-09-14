@@ -209,7 +209,7 @@ view-source:https://0aec00b003bd7f918144a7d000960063.web-security-academy.net/?s
 ![[Pasted image 20240913220606.png]]
 
 # dom中html编码可以闭合
-在这，主要学到是html编码映射到dom节点中会变成符号，然后可以闭合
+在这，主要学到是字符实体映射到dom节点中可能会变成符号，然后可以闭合
 然后虽然我们看似只是在html里编辑，但是链接触发点在onclick事件里面，onclick可以指定JavaScript函数，在这里应该是指定了一个函数，也就是说我们在js里面，所以如此构造
 用于闭合的引号其实是&apos;   这里弹窗了，但是不知道为什么显示没完成
 ![[Pasted image 20240913230844.png]]
