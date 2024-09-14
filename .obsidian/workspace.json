@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "03.面试/面经/得物sdl实习面试.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "03.面试/面经/得物sdl实习面试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "03.面试/面经/得物sdl实习面试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/xss.md"
+                "file": "03.面试/面经/得物sdl实习面试.md"
               }
             }
           }
@@ -268,9 +268,10 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "02.靶场/xss.md",
+    "0001.附件/Pasted image 20240914204504.png",
     "02.靶场/fastfood.md",
     "03.面试/面经/得物sdl实习面试.md",
-    "02.靶场/xss.md",
     "06.工具/tools0.md",
     "06.工具/msf.md",
     "0001.附件/Pasted image 20240913230844.png",
@@ -299,7 +300,6 @@
     "0001.附件/Pasted image 20240910202817.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240910202817.png",
     "0001.附件/Pasted image 20240910202507.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240910202507.png",
     "0001.附件/Pasted image 20240910202135.png.baiduyun.uploading.cfg",
     "07.src学习/未命名.md.baiduyun.uploading.cfg",
     "07.src学习/js源码分析.md",
@@ -313,7 +313,6 @@
     "07.src学习/xss挖掘.md",
     "00.Box/xss.md",
     "07.src学习/越权.md",
-    "06.工具/bp/xss获取cookie.md",
-    "03.面试/研判.md"
+    "06.工具/bp/xss获取cookie.md"
   ]
 }
