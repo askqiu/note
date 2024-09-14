@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.漏洞原理/csrf.md",
-                "mode": "source",
+                "file": "02.靶场/xss.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08.漏洞原理/csrf.md",
+                "file": "02.靶场/xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08.漏洞原理/csrf.md",
+                "file": "02.靶场/xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08.漏洞原理/csrf.md"
+                "file": "02.靶场/xss.md"
               }
             }
           }
@@ -268,8 +268,11 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
-    "08.漏洞原理/缓存中毒.md",
+    "0001.附件/Pasted image 20240914231445.png",
+    "0001.附件/Pasted image 20240914231333.png",
+    "02.靶场/靶场链接/src.md",
     "08.漏洞原理/csrf.md",
+    "08.漏洞原理/缓存中毒.md",
     "03.面试/面经/得物sdl实习面试.md",
     "02.靶场/xss.md",
     "0001.附件/Pasted image 20240914204504.png",
@@ -299,12 +302,10 @@
     "07.src学习/缓存类漏洞.md",
     "07.src学习/缓存类漏洞.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240910202817.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240910202817.png",
     "0001.附件/Pasted image 20240910202507.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240910202135.png.baiduyun.uploading.cfg",
     "07.src学习/未命名.md.baiduyun.uploading.cfg",
     "07.src学习/js源码分析.md",
-    "02.靶场/靶场链接/src.md",
     "01.开发/前端/JavaScript代码分析案例.md",
     "07.src学习/bugbounty.md.baiduyun.uploading.cfg",
     "07.src学习/js源码分析.md.baiduyun.uploading.cfg",
@@ -313,7 +314,6 @@
     "未命名.canvas",
     "07.src学习/xss挖掘.md",
     "00.Box/xss.md",
-    "07.src学习/越权.md",
-    "06.工具/bp/xss获取cookie.md"
+    "07.src学习/越权.md"
   ]
 }

