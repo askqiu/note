@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "csrf",
+      "path": "08.漏洞原理/csrf.md"
+    },
+    {
+      "basename": "缓存中毒",
+      "path": "08.漏洞原理/缓存中毒.md"
+    },
+    {
       "basename": "得物sdl实习面试",
       "path": "03.面试/面经/得物sdl实习面试.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "未命名",
       "path": "06.工具/未命名.md"
-    },
-    {
-      "basename": "缓存中毒",
-      "path": "08.漏洞原理/缓存中毒.md"
     },
     {
       "basename": "xss自动化补充",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.面试/面经/得物sdl实习面试.md",
+                "file": "08.漏洞原理/csrf.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.面试/面经/得物sdl实习面试.md",
+                "file": "08.漏洞原理/csrf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.面试/面经/得物sdl实习面试.md",
+                "file": "08.漏洞原理/csrf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.面试/面经/得物sdl实习面试.md"
+                "file": "08.漏洞原理/csrf.md"
               }
             }
           }
@@ -268,10 +268,12 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "08.漏洞原理/缓存中毒.md",
+    "08.漏洞原理/csrf.md",
+    "03.面试/面经/得物sdl实习面试.md",
     "02.靶场/xss.md",
     "0001.附件/Pasted image 20240914204504.png",
     "02.靶场/fastfood.md",
-    "03.面试/面经/得物sdl实习面试.md",
     "06.工具/tools0.md",
     "06.工具/msf.md",
     "0001.附件/Pasted image 20240913230844.png",
@@ -292,7 +294,6 @@
     "01.开发/前端",
     "07.src学习/payload/xss payload.md",
     "06.工具/未命名.md",
-    "08.漏洞原理/缓存中毒.md",
     "07.src学习/xss自动化补充.md",
     "07.src学习/bugbounty.md",
     "07.src学习/缓存类漏洞.md",
