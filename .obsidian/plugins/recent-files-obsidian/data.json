@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JavaScript",
+      "path": "01.开发/前端/JavaScript.md"
+    },
+    {
       "basename": "xss",
       "path": "02.靶场/xss.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "云渗透",
       "path": "05.云安全/云渗透.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.开发/前端/JavaScript.md"
     },
     {
       "basename": "未命名",

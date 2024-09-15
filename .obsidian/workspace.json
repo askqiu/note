@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "01.开发/前端/JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "01.开发/前端/JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "01.开发/前端/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/xss.md"
+                "file": "01.开发/前端/JavaScript.md"
               }
             }
           }
@@ -268,13 +268,13 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "02.靶场/xss.md",
     "0001.附件/Pasted image 20240914231445.png",
     "0001.附件/Pasted image 20240914231333.png",
     "02.靶场/靶场链接/src.md",
     "08.漏洞原理/csrf.md",
     "08.漏洞原理/缓存中毒.md",
     "03.面试/面经/得物sdl实习面试.md",
-    "02.靶场/xss.md",
     "0001.附件/Pasted image 20240914204504.png",
     "02.靶场/fastfood.md",
     "06.工具/tools0.md",
@@ -287,7 +287,6 @@
     "0001.附件/Pasted image 20240913193741.png",
     "0001.附件/Pasted image 20240913193458.png",
     "0001.附件/1726226526783.png",
-    "0001.附件/Pasted image 20240913192153.png",
     "05.云安全/云渗透.md",
     "01.开发/前端/JavaScript.md",
     "01.开发/后端/未命名.md",
