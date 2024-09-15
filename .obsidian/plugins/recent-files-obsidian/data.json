@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "XXE",
+      "path": "08.漏洞原理/XXE.md"
+    },
+    {
       "basename": "xss",
       "path": "02.靶场/xss.md"
     },
