@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.开发/前端/JavaScript.md",
-                "mode": "preview",
+                "file": "01.开发/前端/客户端知识.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.开发/前端/JavaScript.md",
+                "file": "01.开发/前端/客户端知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.开发/前端/JavaScript.md",
+                "file": "01.开发/前端/客户端知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.开发/前端/JavaScript.md"
+                "file": "01.开发/前端/客户端知识.md"
               }
             }
           }
@@ -268,6 +268,11 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "01.开发/前端/Ajax.md",
+    "01.开发/前端/客户端知识.md",
+    "01.开发/前端/json.md",
+    "01.开发/前端/JavaScript代码分析案例.md",
+    "01.开发/前端/JavaScript.md",
     "02.靶场/xss.md",
     "0001.附件/Pasted image 20240914231445.png",
     "0001.附件/Pasted image 20240914231333.png",
@@ -288,10 +293,8 @@
     "0001.附件/Pasted image 20240913193458.png",
     "0001.附件/1726226526783.png",
     "05.云安全/云渗透.md",
-    "01.开发/前端/JavaScript.md",
     "01.开发/后端/未命名.md",
     "01.开发/后端/未命名.md.baiduyun.uploading.cfg",
-    "01.开发/前端/客户端知识.md",
     "01.开发/后端",
     "01.开发/前端",
     "07.src学习/payload/xss payload.md",
@@ -305,11 +308,9 @@
     "0001.附件/Pasted image 20240910202135.png.baiduyun.uploading.cfg",
     "07.src学习/未命名.md.baiduyun.uploading.cfg",
     "07.src学习/js源码分析.md",
-    "01.开发/前端/JavaScript代码分析案例.md",
     "07.src学习/bugbounty.md.baiduyun.uploading.cfg",
     "07.src学习/js源码分析.md.baiduyun.uploading.cfg",
     "06.工具/tools1.md",
-    "01.开发/前端/json.md",
     "未命名.canvas",
     "07.src学习/xss挖掘.md",
     "00.Box/xss.md",

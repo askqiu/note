@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "客户端知识",
+      "path": "01.开发/前端/客户端知识.md"
+    },
+    {
+      "basename": "JavaScript代码分析案例",
+      "path": "01.开发/前端/JavaScript代码分析案例.md"
+    },
+    {
       "basename": "JavaScript",
       "path": "01.开发/前端/JavaScript.md"
     },
@@ -49,10 +57,6 @@
       "path": "01.开发/后端/未命名.md"
     },
     {
-      "basename": "客户端知识",
-      "path": "01.开发/前端/客户端知识.md"
-    },
-    {
       "basename": "xss payload",
       "path": "07.src学习/payload/xss payload.md"
     },
@@ -77,16 +81,8 @@
       "path": "07.src学习/js源码分析.md"
     },
     {
-      "basename": "JavaScript代码分析案例",
-      "path": "01.开发/前端/JavaScript代码分析案例.md"
-    },
-    {
       "basename": "tools1",
       "path": "06.工具/tools1.md"
-    },
-    {
-      "basename": "json",
-      "path": "01.开发/前端/json.md"
     },
     {
       "basename": "未命名",

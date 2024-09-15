@@ -217,6 +217,30 @@ window.location.href="url";可以跳转网址
 4. **`document.querySelector(selector)`**: 根据 CSS 选择器获取第一个匹配的元素
 5. **`document.querySelectorAll(selector)`**: 根据 CSS 选择器获取所有匹配的元素。
 6. **`document.createElement(tagName)`**: 创建一个新的元素。
+# xhr
+**XHR**（即 **XMLHttpRequest**）是 JavaScript 中的一个 API，它允许网页在不刷新页面的情况下，异步地从服务器发送和接收数据。最初设计是为了处理 XML，但它可以处理任何类型的数据，包括 JSON 和 HTML。XHR 通常用于创建 **AJAX** 请求，以实现动态内容加载。
+
+下面是 XHR 的工作流程：
+
+1. **创建一个 XMLHttpRequest 对象**：  
+   `let xhr = new XMLHttpRequest();`
+
+2. **配置请求** 使用 `open()` 方法：  
+   例如：`xhr.open('GET', 'https://api.example.com/data', true);`
+
+3. **发送请求** 使用 `send()` 方法：  
+   例如：`xhr.send();`
+
+4. **处理响应** 在 `onreadystatechange` 事件处理函数中：  
+   ```js
+   xhr.onreadystatechange = function () {
+     if (xhr.readyState === 4 && xhr.status === 200) {
+       console.log(xhr.responseText);
+     }
+   };
+   ```
+
+在现代 Web 开发中，`fetch` API 或 `Axios` 更常被使用，因为它们语法更简洁，并且支持 **Promise**，但在一些遗留系统和老旧浏览器中，XHR 仍然被广泛使用。
 # 补充
 const params = new URLSearchParams(window.location.search);这一句具体是做什么的
 window.location.search:
