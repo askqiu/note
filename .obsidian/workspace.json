@@ -269,6 +269,10 @@
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
     "02.靶场/xxe.md",
+    "0001.附件/Pasted image 20240916153950.png",
+    "0001.附件/Pasted image 20240916153930.png",
+    "0001.附件/Pasted image 20240916153811.png",
+    "0001.附件/Pasted image 20240916153747.png",
     "08.漏洞原理/XXE.md",
     "02.靶场/xss.md",
     "01.开发/前端/客户端知识.md",
@@ -290,10 +294,6 @@
     "0001.附件/Pasted image 20240913220623.png",
     "0001.附件/Pasted image 20240913220606.png",
     "07.src学习/缓存类.md",
-    "0001.附件/Pasted image 20240913210214.png",
-    "0001.附件/Pasted image 20240913193741.png",
-    "0001.附件/Pasted image 20240913193458.png",
-    "0001.附件/1726226526783.png",
     "05.云安全/云渗透.md",
     "01.开发/后端/未命名.md",
     "01.开发/后端/未命名.md.baiduyun.uploading.cfg",
@@ -313,7 +313,6 @@
     "07.src学习/bugbounty.md.baiduyun.uploading.cfg",
     "07.src学习/js源码分析.md.baiduyun.uploading.cfg",
     "06.工具/tools1.md",
-    "未命名.canvas",
-    "07.src学习/xss挖掘.md"
+    "未命名.canvas"
   ]
 }
