@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "缓存中毒",
+      "path": "08.漏洞原理/缓存中毒.md"
+    },
+    {
       "basename": "bugbounty",
       "path": "07.src学习/bugbounty.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "csrf",
       "path": "08.漏洞原理/csrf.md"
-    },
-    {
-      "basename": "缓存中毒",
-      "path": "08.漏洞原理/缓存中毒.md"
     },
     {
       "basename": "xss自动化补充",
