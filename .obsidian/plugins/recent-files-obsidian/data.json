@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sql注入",
+      "path": "08.漏洞原理/sql注入.md"
+    },
+    {
       "basename": "XXE",
       "path": "08.漏洞原理/XXE.md"
     },
