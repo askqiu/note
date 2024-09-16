@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.漏洞原理/XXE.md",
+                "file": "02.靶场/xxe.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08.漏洞原理/XXE.md",
+                "file": "02.靶场/xxe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08.漏洞原理/XXE.md",
+                "file": "02.靶场/xxe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08.漏洞原理/XXE.md"
+                "file": "02.靶场/xxe.md"
               }
             }
           }
@@ -268,8 +268,9 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
-    "02.靶场/xss.md",
     "08.漏洞原理/XXE.md",
+    "02.靶场/xxe.md",
+    "02.靶场/xss.md",
     "01.开发/前端/客户端知识.md",
     "01.开发/前端/JavaScript.md",
     "01.开发/前端/Ajax.md",
@@ -313,7 +314,6 @@
     "07.src学习/js源码分析.md.baiduyun.uploading.cfg",
     "06.工具/tools1.md",
     "未命名.canvas",
-    "07.src学习/xss挖掘.md",
-    "00.Box/xss.md"
+    "07.src学习/xss挖掘.md"
   ]
 }
