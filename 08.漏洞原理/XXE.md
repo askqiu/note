@@ -125,3 +125,6 @@ Invalid product ID: root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
 对于现实世界的 XXE 漏洞，提交的 XML 中通常会有大量数据值，其中任何一个都可能在应用程序的响应中使用。要系统地测试 XXE 漏洞，您通常需要单独测试 XML 中的每个数据节点，方法是使用您定义的实体并查看它是否出现在响应中。
+# 利用XXE进行SSRF攻击
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "http://internal.vulnerable-website.com/"> ]>
+要利用 XXE 漏洞执行 SSRF 攻击，您需要使用要定位的 URL 定义外部 XML 实体，并在数据值中使用定义的实体。如果您可以在应用程序响应中返回的数据值中使用定义的实体，那么您将能够在应用程序的响应中查看来自 URL 的响应，从而获得与后端系统的双向交互。否则，您将只能执行盲目的 SSRF 攻击（这仍然可能产生严重后果）。
