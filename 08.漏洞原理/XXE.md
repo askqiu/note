@@ -128,3 +128,48 @@ bin:x:2:2:bin:/bin:/usr/sbin/nologin
 # 利用XXE进行SSRF攻击
 <!DOCTYPE foo [ <!ENTITY xxe SYSTEM "http://internal.vulnerable-website.com/"> ]>
 要利用 XXE 漏洞执行 SSRF 攻击，您需要使用要定位的 URL 定义外部 XML 实体，并在数据值中使用定义的实体。如果您可以在应用程序响应中返回的数据值中使用定义的实体，那么您将能够在应用程序的响应中查看来自 URL 的响应，从而获得与后端系统的双向交互。否则，您将只能执行盲目的 SSRF 攻击（这仍然可能产生严重后果）。比如说，xxe打ssrf获取云服务器的元数据
+# 盲xxe
+在许多情况下，XXE 注入漏洞的攻击面是显而易见的，因为应用程序的正常 HTTP 流量包括包含 XML 格式数据的请求。在其他情况下，攻击面不太明显。但是，如果您查看正确的地方，您会在不包含任何 XML 的请求中发现 XXE 攻击面。
+某些应用程序接收客户端提交的数据，将其嵌入服务器端的 XML 文档中，然后解析文档。例如，将客户端提交的数据放入后端 SOAP 请求中，然后由后端 SOAP 服务处理该请求。
+在这种情况下，您无法执行经典的 XXE 攻击，因为您无法控制整个 XML 文档，因此无法定义或修改 DOCTYPE 元素。但是，您或许可以改用 XInclude。XInclude 是 XML 规范的一部分，它允许从子文档构建 XML 文档。您可以在 XML 文档的任何数据值内放置 XInclude 攻击，因此，在您只控制放置在服务器端 XML 文档中的单个数据项的情况下，可以执行该攻击。
+要执行 XInclude 攻击，您需要引用 XInclude 命名空间并提供要包含的文件的路径。例如：
+
+```
+<foo xmlns:xi="http://www.w3.org/2001/XInclude">
+<xi:include parse="text" href="file:///etc/passwd"/></foo>
+```
+- xmlns:xi="http://www.w3.org/2001/XInclude"：
+- 这是定义 XInclude 的命名空间，用来声明 XML 文档可以包含其他文档或文本文件。
+- <xi:include>：
+- 这是一个 XInclude 元素，用于将外部资源包含到 XML 文档中。这里它尝试包含一个文件。
+- parse="text"：
+- 该属性表示要以纯文本的形式解析外部文件（而不是解析为 XML）。在这个例子中，它尝试以纯文本的方式读取并包含 /etc/passwd 文件。
+- href="file:///etc/passwd"：
+- 这个 href 属性指向本地文件系统中的 /etc/passwd 文件。/etc/passwd 是 Linux/Unix 系统中的文件，包含用户的基本信息。
+# 文件上传打xxe
+某些应用程序允许用户上传文件，然后在服务器端进行处理。一些常见的文件格式使用 XML 或包含 XML 子组件。基于 XML 的格式示例包括 DOCX 等办公文档格式和 SVG 等图像格式。
+例如，应用程序可能允许用户上传图像，并在上传图像后在服务器上处理或验证这些图像。即使应用程序希望接收 PNG 或 JPEG 等格式，正在使用的图像处理库也可能支持 SVG 图像。由于 SVG 格式使用 XML，攻击者可以提交恶意 SVG 图像，从而到达 XXE 漏洞的隐藏攻击面。
+# 修改content type打xxe
+大多数 POST 请求都使用由 HTML 表单生成的默认内容类型，例如 application/x-www-form-urlencoded .某些 Web 站点希望接收此格式的请求，但可以容忍其他内容类型，包括 XML。
+例如，如果普通请求包含以下内容：
+
+```
+POST /action HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 7
+
+foo=bar
+```
+然后，您或许可以提交以下请求，结果相同：
+
+```
+POST /action HTTP/1.0
+Content-Type: text/xml
+Content-Length: 52
+
+<?xml version="1.0" encoding="UTF-8"?><foo>bar</foo>
+```
+如果应用程序容忍消息正文中包含 XML 的请求，并将正文内容解析为 XML，则只需重新格式化请求以使用 XML 格式即可到达隐藏的 XXE 攻击面。
+# xxe防御
+几乎所有 XXE 漏洞的出现都是因为应用程序的 XML 解析库支持应用程序不需要或不打算使用的潜在危险 XML 功能。防止 XXE 攻击的最简单、最有效的方法是禁用这些功能。
+通常，禁用外部实体的解析并禁用对 XInclude 的支持就足够了。这通常可以通过配置选项或以编程方式覆盖默认行为来完成。有关如何禁用不必要功能的详细信息，请参阅 XML 解析库或 API 的文档。
