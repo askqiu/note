@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "02.靶场/csrf.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "02.靶场/csrf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "02.靶场/csrf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/xss.md"
+                "file": "02.靶场/csrf.md"
               }
             }
           }
@@ -268,6 +268,8 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "02.靶场/xss.md",
+    "02.靶场/csrf.md",
     "02.靶场/ssrf.md",
     "0001.附件/Pasted image 20240917160318.png",
     "0001.附件/Pasted image 20240917160223.png",
@@ -288,7 +290,6 @@
     "0001.附件/Pasted image 20240916153930.png",
     "0001.附件/Pasted image 20240916153811.png",
     "0001.附件/Pasted image 20240916153747.png",
-    "02.靶场/xss.md",
     "01.开发/前端/JavaScript.md",
     "01.开发/前端/Ajax.md",
     "01.开发/前端/json.md",

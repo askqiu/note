@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "csrf",
+      "path": "02.靶场/csrf.md"
+    },
+    {
       "basename": "xss",
       "path": "02.靶场/xss.md"
     },
