@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.开发/前端/客户端知识.md",
+                "file": "02.靶场/ssrf.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.开发/前端/客户端知识.md",
+                "file": "02.靶场/ssrf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.开发/前端/客户端知识.md",
+                "file": "02.靶场/ssrf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.开发/前端/客户端知识.md"
+                "file": "02.靶场/ssrf.md"
               }
             }
           }
@@ -268,6 +268,8 @@
   },
   "active": "02d6050e6a3a0b42",
   "lastOpenFiles": [
+    "01.开发/前端/客户端知识.md",
+    "02.靶场/ssrf.md",
     "08.漏洞原理/csrf.md",
     "08.漏洞原理/缓存中毒.md",
     "07.src学习/bugbounty.md",
@@ -283,7 +285,6 @@
     "0001.附件/Pasted image 20240916153811.png",
     "0001.附件/Pasted image 20240916153747.png",
     "02.靶场/xss.md",
-    "01.开发/前端/客户端知识.md",
     "01.开发/前端/JavaScript.md",
     "01.开发/前端/Ajax.md",
     "01.开发/前端/json.md",
@@ -306,7 +307,6 @@
     "01.开发/后端",
     "01.开发/前端",
     "07.src学习/payload/xss payload.md",
-    "06.工具/未命名.md",
     "07.src学习/缓存类漏洞.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240910202817.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240910202507.png.baiduyun.uploading.cfg",

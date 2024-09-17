@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ssrf",
+      "path": "02.靶场/ssrf.md"
+    },
+    {
       "basename": "客户端知识",
       "path": "01.开发/前端/客户端知识.md"
     },
