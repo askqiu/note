@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "graphql",
+      "path": "01.开发/架构知识/graphql.md"
+    },
+    {
+      "basename": "客户端知识",
+      "path": "01.开发/前端/客户端知识.md"
+    },
+    {
       "basename": "csrf",
       "path": "02.靶场/csrf.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "ssrf",
       "path": "02.靶场/ssrf.md"
-    },
-    {
-      "basename": "客户端知识",
-      "path": "01.开发/前端/客户端知识.md"
     },
     {
       "basename": "csrf",
@@ -195,10 +199,6 @@
     {
       "basename": "缓存中毒3",
       "path": "0001.附件/缓存中毒3.webp"
-    },
-    {
-      "basename": "缓存中毒2",
-      "path": "0001.附件/缓存中毒2.webp"
     }
   ],
   "omittedPaths": []
