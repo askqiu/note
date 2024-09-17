@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "xss",
+      "path": "02.靶场/xss.md"
+    },
+    {
       "basename": "ssrf",
       "path": "02.靶场/ssrf.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "xxe",
       "path": "02.靶场/xxe.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/xss.md"
     },
     {
       "basename": "JavaScript",
