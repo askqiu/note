@@ -2,6 +2,42 @@
   "recentFiles": [
     {
       "basename": "graphql",
+      "path": "08.漏洞原理/graphql.md"
+    },
+    {
+      "basename": "xss payload",
+      "path": "07.src学习/payload/xss payload.md"
+    },
+    {
+      "basename": "缓存类",
+      "path": "07.src学习/缓存类.md"
+    },
+    {
+      "basename": "bugbounty",
+      "path": "07.src学习/bugbounty.md"
+    },
+    {
+      "basename": "sql注入",
+      "path": "08.漏洞原理/sql注入.md"
+    },
+    {
+      "basename": "XXE",
+      "path": "08.漏洞原理/XXE.md"
+    },
+    {
+      "basename": "msf",
+      "path": "06.工具/msf.md"
+    },
+    {
+      "basename": "tools0",
+      "path": "06.工具/tools0.md"
+    },
+    {
+      "basename": "tools1",
+      "path": "06.工具/tools1.md"
+    },
+    {
+      "basename": "graphql",
       "path": "01.开发/架构知识/graphql.md"
     },
     {
@@ -29,28 +65,12 @@
       "path": "08.漏洞原理/缓存中毒.md"
     },
     {
-      "basename": "bugbounty",
-      "path": "07.src学习/bugbounty.md"
-    },
-    {
-      "basename": "XXE",
-      "path": "08.漏洞原理/XXE.md"
-    },
-    {
-      "basename": "sql注入",
-      "path": "08.漏洞原理/sql注入.md"
-    },
-    {
       "basename": "js源码分析",
       "path": "07.src学习/js源码分析.md"
     },
     {
       "basename": "越权",
       "path": "07.src学习/越权.md"
-    },
-    {
-      "basename": "tools1",
-      "path": "06.工具/tools1.md"
     },
     {
       "basename": "xss自动化补充",
@@ -81,18 +101,6 @@
       "path": "02.靶场/fastfood.md"
     },
     {
-      "basename": "tools0",
-      "path": "06.工具/tools0.md"
-    },
-    {
-      "basename": "msf",
-      "path": "06.工具/msf.md"
-    },
-    {
-      "basename": "缓存类",
-      "path": "07.src学习/缓存类.md"
-    },
-    {
       "basename": "云渗透",
       "path": "05.云安全/云渗透.md"
     },
@@ -101,20 +109,12 @@
       "path": "01.开发/后端/未命名.md"
     },
     {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
-    },
-    {
       "basename": "未命名",
       "path": "06.工具/未命名.md"
     },
     {
       "basename": "缓存类漏洞",
       "path": "07.src学习/缓存类漏洞.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
     },
     {
       "basename": "xss挖掘",
@@ -195,10 +195,6 @@
     {
       "basename": "640",
       "path": "0001.附件/640.webp"
-    },
-    {
-      "basename": "缓存中毒3",
-      "path": "0001.附件/缓存中毒3.webp"
     }
   ],
   "omittedPaths": []
