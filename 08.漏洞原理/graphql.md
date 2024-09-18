@@ -184,3 +184,17 @@ Form 表单限制：HTML 表单的 Content-Type 只能是 application/x-www-form
 XMLHttpRequest 和 Fetch 限制：在跨站点请求中，浏览器出于安全考虑，对于 application/json 类型的请求会自动执行 CORS（跨源资源共享）策略检查。如果攻击者试图通过 JavaScript 使用 XMLHttpRequest 或 fetch 来发送 application/json 类型的请求，浏览器会首先发起预检请求（OPTIONS 请求），以确认目标服务器是否允许跨域请求。
 
 因此，即使攻击者通过某些方式诱导用户访问恶意网站，浏览器也不会自动发送 application/json 格式的请求。这使得攻击者无法构造符合服务器预期的请求，从而有效地防止了 CSRF 攻击。
+# 防止graphql攻击
+t is sometimes possible to bypass standard rate limiting when using GraphQL APIs. For an example of this, see the Bypassing rate limiting using aliases section.
+
+With this in mind, there are design steps that you can take to defend your API against brute force attacks. This generally involves restricting the complexity of queries accepted by the API, and reducing the opportunity for attackers to execute denial-of-service (DoS) attacks.
+
+To defend against brute force attacks:
+
+Limit the query depth of your API's queries. The term "query depth" refers to the number of levels of nesting within a query. Heavily-nested queries can have significant performance implications, and can potentially provide an opportunity for DoS attacks if they are accepted. By limiting the query depth your API accepts, you can reduce the chances of this happening.
+
+Configure operation limits. Operation limits enable you to configure the maximum number of unique fields, aliases, and root fields that your API can accept.
+
+Configure the maximum amount of bytes a query can contain.
+
+Consider implementing cost analysis on your API. Cost analysis is a process whereby a library application identifies the resource cost associated with running queries as they are received. If a query would be too computationally complex to run, the API drops it.

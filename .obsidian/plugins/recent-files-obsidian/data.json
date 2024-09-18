@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "xss批量",
+      "path": "07.src学习/xss批量.md"
+    },
+    {
+      "basename": "xss挖掘",
+      "path": "07.src学习/xss挖掘.md"
+    },
+    {
+      "basename": "xss payload",
+      "path": "07.src学习/payload/xss payload.md"
+    },
+    {
       "basename": "graphql",
       "path": "08.漏洞原理/graphql.md"
     },
     {
       "basename": "graphql",
       "path": "01.开发/架构知识/graphql.md"
-    },
-    {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
     },
     {
       "basename": "未命名 2",
@@ -141,10 +149,6 @@
       "path": "07.src学习/缓存类漏洞.md"
     },
     {
-      "basename": "xss挖掘",
-      "path": "07.src学习/xss挖掘.md"
-    },
-    {
       "basename": "xss",
       "path": "00.Box/xss.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "00.Box/未命名.md"
-    },
-    {
-      "basename": "缓存中毒1",
-      "path": "0001.附件/缓存中毒1.webp"
     }
   ],
   "omittedPaths": []
