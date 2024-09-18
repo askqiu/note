@@ -3,7 +3,7 @@
 ## 通用查询
 把`query{__typename}`发到任何graphql的endpoint，会在返回的某个位置返回`{"data": {"__typename": "query"}}`           这是一个探测url是否对应graphql服务的方法
 
-查询之所以有效，是因为每个 GraphQL 终端节点都有一个名为 __typename 的保留字段，该字段以字符串形式返回查询对象的类型。
+查询之所以有效，是因为每个 GraphQL 终端节点都有一个名为 `__typename` 的保留字段，该字段以字符串形式返回查询对象的类型。
 ## 路径特征
 GraphQL 服务通常使用类似的终端节点后缀。在测试 GraphQL 终端节点时，您应该考虑将通用查询发送到以下位置：
 
