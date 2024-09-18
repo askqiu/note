@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/xss批量.md",
+                "file": "08.漏洞原理/graphql.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/xss批量.md",
+                "file": "08.漏洞原理/graphql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/xss批量.md",
+                "file": "08.漏洞原理/graphql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/xss批量.md"
+                "file": "08.漏洞原理/graphql.md"
               }
             }
           }
@@ -160,8 +160,16 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
-    "0001.附件/Pasted image 20240918164138.png.baiduyun.uploading.cfg",
+    "08.漏洞原理/graphql.md.baiduyun.uploading.cfg",
+    "07.src学习/xss批量.md",
     "07.src学习/xss批量.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240918165417.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240918165417.png",
+    "0001.附件/Pasted image 20240918165252.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240918165252.png",
+    "0001.附件/Pasted image 20240918165235.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240918165235.png",
+    "0001.附件/Pasted image 20240918164138.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240918164138.png",
     "0001.附件/Pasted image 20240918135034.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240918135034.png",
@@ -173,10 +181,8 @@
     "0001.附件/Pasted image 20240918134329.png",
     "07.src学习/未命名.md.baiduyun.uploading.cfg",
     "07.src学习/xss挖掘.md",
-    "07.src学习/xss批量.md",
     "07.src学习/payload/xss payload.md",
     "08.漏洞原理/graphql.md",
-    "08.漏洞原理/graphql.md.baiduyun.uploading.cfg",
     "01.开发/架构知识/graphql.md",
     "00.Box/未命名 2.md",
     "02.靶场/靶场链接/src.md",
@@ -185,11 +191,8 @@
     "03.面试/特征.md",
     "03.面试/研判.md",
     "01.开发/前端/JavaScript.md",
-    "00.Box/().md.baiduyun.uploading.cfg",
     "00.Box/().md",
     "00.Box/introspection.md",
-    "00.Box/introspection.md.baiduyun.uploading.cfg",
-    "01.开发/架构知识/graphql.md.baiduyun.uploading.cfg",
     "07.src学习/缓存类.md",
     "07.src学习/bugbounty.md",
     "08.漏洞原理/sql注入.md",
@@ -203,9 +206,6 @@
     "02.靶场/ssrf.md",
     "0001.附件/Pasted image 20240917160318.png",
     "0001.附件/Pasted image 20240917160223.png",
-    "0001.附件/Pasted image 20240917160114.png",
-    "0001.附件/Pasted image 20240917155613.png",
-    "08.漏洞原理/csrf.md",
-    "0001.附件/Pasted image 20240916153950.png"
+    "08.漏洞原理/csrf.md"
   ]
 }

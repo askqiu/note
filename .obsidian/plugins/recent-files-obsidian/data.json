@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "graphql",
+      "path": "08.漏洞原理/graphql.md"
+    },
+    {
       "basename": "xss批量",
       "path": "07.src学习/xss批量.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "xss payload",
       "path": "07.src学习/payload/xss payload.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "08.漏洞原理/graphql.md"
     },
     {
       "basename": "graphql",

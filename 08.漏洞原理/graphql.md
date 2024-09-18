@@ -198,3 +198,13 @@ Configure operation limits. Operation limits enable you to configure the maximum
 Configure the maximum amount of bytes a query can contain.
 
 Consider implementing cost analysis on your API. Cost analysis is a process whereby a library application identifies the resource cost associated with running queries as they are received. If a query would be too computationally complex to run, the API drops it.
+专门防御 GraphQL CSRF 漏洞，请在设计 API 时确保满足以下条件：
+
+Your API only accepts queries over JSON-encoded POST.
+您的 API 仅接受通过 JSON 编码的 POST 进行的查询。
+
+The API validates that content provided matches the supplied content type.
+API 验证提供的内容是否与提供的内容类型匹配。
+
+The API has a secure CSRF token mechanism.
+API 具有安全的 CSRF 令牌机制。

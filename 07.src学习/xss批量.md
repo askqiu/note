@@ -12,6 +12,11 @@ cat urls.txt | unfurl keys |sort -u| tee params.txt
 ![[Pasted image 20240918134924.png]]
 这个工具可以获取参数值？
 参数置空可能会对测xss有影响
-有脚本获取问号后面的部分？，提取参数
+有脚本获取问号后面的部分？，提取参数？
 生成payload
 ![[Pasted image 20240918164138.png]]
+前面箭头是参数字典，后面箭头加生成的payload，两个地方都记得在爆破模块去掉url编码，速率调低一点，参考脚本中的xss参数，在grep match中加入这些
+![[Pasted image 20240918165252.png]]
+查看有没有反射带你，优先看尖括号
+![[Pasted image 20240918165417.png]]
+然后在response找z那玩意，然后看反射的序号（前面脚本有生成的），在回请求里面找对应序号的参数。
