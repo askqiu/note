@@ -155,7 +155,8 @@ mutation {
     title
     content
   }
-}
+}\\这里的createpost是对应与特定的graphqlapi的，也就是说不是graphql的内置功能
+Mutation：在 GraphQL 中，mutation 用于修改服务器上的数据，例如创建、更新或删除数据。与 query 不同，mutation 表示的是对数据的写操作。
 ```
 返回结果：
 ```json
@@ -211,7 +212,7 @@ fragment PostDetails on Post {
       ...PostDetails
     }
   }
-}
+}//这里postdetails就代表了title和content，可以理解为一个参数一样
 ```
 返回结果：
 ```json
