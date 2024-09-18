@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "tools0",
+      "path": "06.工具/tools0.md"
+    },
+    {
+      "basename": "xss自动化补充",
+      "path": "07.src学习/xss自动化补充.md"
+    },
+    {
       "basename": "xss批量",
       "path": "07.src学习/xss批量.md"
     },
     {
       "basename": "xss挖掘",
       "path": "07.src学习/xss挖掘.md"
-    },
-    {
-      "basename": "xss自动化补充",
-      "path": "07.src学习/xss自动化补充.md"
     },
     {
       "basename": "tools1",
@@ -83,10 +87,6 @@
     {
       "basename": "msf",
       "path": "06.工具/msf.md"
-    },
-    {
-      "basename": "tools0",
-      "path": "06.工具/tools0.md"
     },
     {
       "basename": "客户端知识",
