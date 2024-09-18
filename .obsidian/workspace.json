@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools1.md",
+                "file": "07.src学习/xss批量.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.工具/tools1.md",
+                "file": "07.src学习/xss批量.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.工具/tools1.md",
+                "file": "07.src学习/xss批量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools1.md"
+                "file": "07.src学习/xss批量.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/xss挖掘.md",
+    "07.src学习/xss自动化补充.md",
+    "06.工具/tools1.md",
     "01.开发/后端/推荐网站.md",
     "01.开发/后端/推荐网站.md.baiduyun.uploading.cfg",
     "08.漏洞原理/graphql.md",
@@ -181,12 +184,10 @@
     "0001.附件/Pasted image 20240918134343.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240918134343.png",
     "0001.附件/Pasted image 20240918134329.png",
-    "07.src学习/xss挖掘.md",
     "07.src学习/payload/xss payload.md",
     "01.开发/架构知识/graphql.md",
     "00.Box/未命名 2.md",
     "02.靶场/靶场链接/src.md",
-    "06.工具/tools1.md",
     "04.渗透/内网.md",
     "03.面试/特征.md",
     "03.面试/研判.md",
@@ -205,7 +206,6 @@
     "02.靶场/xss.md",
     "02.靶场/ssrf.md",
     "0001.附件/Pasted image 20240917160318.png",
-    "0001.附件/Pasted image 20240917160223.png",
-    "08.漏洞原理/csrf.md"
+    "0001.附件/Pasted image 20240917160223.png"
   ]
 }
