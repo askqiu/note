@@ -540,7 +540,7 @@ function Posts() {
 }
 ```
 
-### inspection
+### Introspection
 Introspection 是一个内置的 GraphQL 函数，可让您查询服务器以获取有关架构的信息。GraphQL IDE 和文档生成工具等应用程序通常使用它。
 
 inspection可能代表着严重的信息泄露风险，因为它可用于访问潜在的敏感信息（例如字段描述）并帮助攻击者了解如何与 API 交互。最佳实践是在生产环境中禁用 introspection。
