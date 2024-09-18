@@ -12,5 +12,6 @@ cat urls.txt | unfurl keys |sort -u| tee params.txt
 ![[Pasted image 20240918134924.png]]
 这个工具可以获取参数值？
 参数置空可能会对测xss有影响
-脚本获取问号后面的部分，提取参数
-![[Pasted image 20240918135034.png]]
+有脚本获取问号后面的部分？，提取参数
+生成payload
+![[Pasted image 20240918164138.png]]
