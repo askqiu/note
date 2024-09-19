@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "梦幻花园",
+      "path": "00.Box/梦幻花园.md"
+    },
+    {
+      "basename": "xss批量",
+      "path": "07.src学习/xss批量.md"
+    },
+    {
+      "basename": "xss",
+      "path": "07.src学习/xss.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "00.Box/未命名.md"
+    },
+    {
+      "basename": "感想",
+      "path": "00.Box/感想.md"
+    },
+    {
       "basename": "tools0",
       "path": "06.工具/tools0.md"
     },
     {
       "basename": "xss自动化补充",
       "path": "07.src学习/xss自动化补充.md"
-    },
-    {
-      "basename": "xss批量",
-      "path": "07.src学习/xss批量.md"
     },
     {
       "basename": "xss挖掘",
@@ -59,14 +75,6 @@
     {
       "basename": "JavaScript",
       "path": "01.开发/前端/JavaScript.md"
-    },
-    {
-      "basename": "()",
-      "path": "00.Box/().md"
-    },
-    {
-      "basename": "introspection",
-      "path": "00.Box/introspection.md"
     },
     {
       "basename": "缓存类",
@@ -149,10 +157,6 @@
       "path": "07.src学习/缓存类漏洞.md"
     },
     {
-      "basename": "xss",
-      "path": "00.Box/xss.md"
-    },
-    {
       "basename": "xss获取cookie",
       "path": "06.工具/bp/xss获取cookie.md"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "sql注入",
       "path": "04.渗透/sql注入.md"
-    },
-    {
-      "basename": "感想",
-      "path": "00.Box/感想.md"
     },
     {
       "basename": "测试专用",
@@ -195,10 +195,6 @@
     {
       "basename": "自我介绍",
       "path": "03.面试/自我介绍.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "00.Box/未命名.md"
     }
   ],
   "omittedPaths": []
