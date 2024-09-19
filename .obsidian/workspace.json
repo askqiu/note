@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/🐏.md",
+                "file": "06.工具/bugbounty/arjun.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/🐏.md",
+                "file": "06.工具/bugbounty/arjun.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/🐏.md",
+                "file": "06.工具/bugbounty/arjun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/🐏.md"
+                "file": "06.工具/bugbounty/arjun.md"
               }
             }
           }
@@ -160,8 +160,12 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
-    "00.Box/梦幻状元.md",
+    "06.工具/未命名.md",
+    "06.工具/bugbounty/arjun.md",
+    "06.工具/bp/xss获取cookie.md",
     "07.src学习/🐏.md",
+    "06.工具/bugbounty",
+    "00.Box/梦幻状元.md",
     "04.渗透/sql注入.md",
     "04.渗透/waf.md",
     "04.渗透/内网.md",
@@ -189,7 +193,6 @@
     "07.src学习/xss挖掘.md",
     "06.工具/tools1.md",
     "01.开发/后端/推荐网站.md.baiduyun.uploading.cfg",
-    "08.漏洞原理/graphql.md",
     "08.漏洞原理/graphql.md.baiduyun.uploading.cfg",
     "07.src学习/xss批量.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240918165417.png.baiduyun.uploading.cfg",
@@ -203,9 +206,6 @@
     "0001.附件/Pasted image 20240918135034.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240918135034.png",
     "0001.附件/Pasted image 20240918134924.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240918134343.png.baiduyun.uploading.cfg",
-    "07.src学习/payload/xss payload.md",
-    "00.Box/未命名 2.md",
     "未命名.canvas"
   ]
 }

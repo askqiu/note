@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "arjun",
+      "path": "06.工具/bugbounty/arjun.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "06.工具/未命名.md"
+    },
+    {
+      "basename": "xss获取cookie",
+      "path": "06.工具/bp/xss获取cookie.md"
+    },
+    {
       "basename": "🐏",
       "path": "07.src学习/🐏.md"
     },
@@ -177,16 +189,8 @@
       "path": "05.云安全/云渗透.md"
     },
     {
-      "basename": "未命名",
-      "path": "06.工具/未命名.md"
-    },
-    {
       "basename": "缓存类漏洞",
       "path": "07.src学习/缓存类漏洞.md"
-    },
-    {
-      "basename": "xss获取cookie",
-      "path": "06.工具/bp/xss获取cookie.md"
     },
     {
       "basename": "测试专用",
@@ -195,10 +199,6 @@
     {
       "basename": "2024深圳粤盾",
       "path": "03.面试/面经/2024深圳粤盾.md"
-    },
-    {
-      "basename": "自我介绍",
-      "path": "03.面试/自我介绍.md"
     }
   ],
   "omittedPaths": []
