@@ -5,5 +5,12 @@
   "attachmentFolderPath": "0001.附件",
   "strictLineBreaks": true,
   "livePreview": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
