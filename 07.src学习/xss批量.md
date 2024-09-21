@@ -8,7 +8,7 @@ cat urls.txt |unfurl paths |sed 's/^.//' |sort -u | egrep -iv "\.(jpg|swf|mp3|mp
 ![[Pasted image 20240918134343.png]]
 这种的，写个py脚本去除掉
 然后获取参数名字典
-cat urls.txt | unfurl keys |sort -u| tee params.txt
+cat url.live.txt | unfurl keys |sort -u| tee params.txt
 ![[Pasted image 20240918134924.png]]
 这个工具可以获取参数值？
 参数置空可能会对测xss有影响

@@ -5,6 +5,10 @@
       "path": "09..垃圾箱/important.md"
     },
     {
+      "basename": "xss批量",
+      "path": "07.src学习/xss批量.md"
+    },
+    {
       "basename": "漏洞url",
       "path": "09..垃圾箱/漏洞url.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "xss",
       "path": "07.src学习/xss.md"
-    },
-    {
-      "basename": "xss批量",
-      "path": "07.src学习/xss批量.md"
     },
     {
       "basename": "xss挖掘",
