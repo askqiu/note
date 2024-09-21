@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/他人/xia.md",
+                "file": "06.工具/tools0.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/他人/xia.md",
+                "file": "06.工具/tools0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/他人/xia.md",
+                "file": "06.工具/tools0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/他人/xia.md"
+                "file": "06.工具/tools0.md"
               }
             }
           }
@@ -160,16 +160,19 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
-    "07.src学习/xss自动化补充.md",
-    "07.src学习/xss挖掘.md",
-    "07.src学习/xss批量.md",
-    "07.src学习/xss.md",
+    "06.工具/msf.md",
+    "06.工具/未命名.md",
+    "07.src学习/🐏.md",
     "07.src学习/bugbounty.md",
+    "07.src学习/js源码分析.md",
+    "07.src学习/xss.md",
+    "07.src学习/xss批量.md",
+    "07.src学习/xss挖掘.md",
+    "07.src学习/xss自动化补充.md",
+    "07.src学习/他人/xia.md",
     "07.src学习/缓存类.md",
     "07.src学习/payload/xss payload.md",
     "07.src学习/缓存类漏洞.md",
-    "07.src学习/他人/xia.md",
-    "07.src学习/🐏.md",
     "07.src学习/他人",
     "00.Box/测试专用.md",
     "09..垃圾箱/important.md",
@@ -177,7 +180,6 @@
     "09..垃圾箱",
     "01.开发/前端/客户端知识.md",
     "01.开发/前端/JavaScript.md",
-    "07.src学习/js源码分析.md",
     "05.云安全/云渗透.md",
     "04.渗透/waf.md",
     "04.渗透/sql注入.md",
@@ -185,11 +187,9 @@
     "00.Box/梦幻状元.md",
     "00.Box/感想.md",
     "06.工具/bugbounty/arjun.md",
-    "06.工具/未命名.md",
     "06.工具/bp/xss获取cookie.md",
     "06.工具/bugbounty",
     "04.渗透/内网.md",
-    "04.渗透/权限提升.md",
     "0001.附件/Pasted image 20240919163351.png",
     "0001.附件/Pasted image 20240919163313.png",
     "0001.附件/Pasted image 20240919163143.png",
