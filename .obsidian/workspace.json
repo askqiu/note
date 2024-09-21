@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Box/未命名 2.md",
+                "file": "07.src学习/🐏.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Box/未命名 2.md",
+                "file": "07.src学习/🐏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Box/未命名 2.md",
+                "file": "07.src学习/🐏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Box/未命名 2.md"
+                "file": "07.src学习/🐏.md"
               }
             }
           }
@@ -160,9 +160,15 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/他人/xia.md",
+    "07.src学习/他人",
+    "00.Box/测试专用.md",
+    "09..垃圾箱/important.md",
+    "0001.附件/Pasted image 20240921140758.png",
+    "07.src学习/bugbounty.md",
+    "09..垃圾箱",
     "01.开发/前端/客户端知识.md",
     "01.开发/前端/JavaScript.md",
-    "00.Box/未命名 2.md",
     "07.src学习/xss.md",
     "07.src学习/js源码分析.md",
     "07.src学习/缓存类漏洞.md",
@@ -175,7 +181,6 @@
     "00.Box/未命名.md",
     "00.Box/梦幻状元.md",
     "00.Box/感想.md",
-    "00.Box/测试专用.md",
     "06.工具/bugbounty/arjun.md",
     "06.工具/未命名.md",
     "06.工具/bp/xss获取cookie.md",
@@ -184,9 +189,6 @@
     "04.渗透/权限提升.md",
     "03.面试/应急.md",
     "03.面试/研判.md",
-    "03.面试/特征.md",
-    "03.面试/溯源.md",
-    "03.面试/面经/深圳省护面经.md",
     "0001.附件/Pasted image 20240919163351.png",
     "0001.附件/Pasted image 20240919163313.png",
     "0001.附件/Pasted image 20240919163143.png",
@@ -203,9 +205,6 @@
     "0001.附件/Pasted image 20240918165235.png",
     "0001.附件/Pasted image 20240918164138.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240918164138.png",
-    "0001.附件/Pasted image 20240918135034.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240918135034.png",
-    "0001.附件/Pasted image 20240918134924.png.baiduyun.uploading.cfg",
     "未命名.canvas"
   ]
 }

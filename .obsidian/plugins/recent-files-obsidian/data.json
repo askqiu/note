@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名 2",
-      "path": "00.Box/未命名 2.md"
+      "basename": "🐏",
+      "path": "07.src学习/🐏.md"
+    },
+    {
+      "basename": "xia",
+      "path": "07.src学习/他人/xia.md"
+    },
+    {
+      "basename": "测试专用",
+      "path": "00.Box/测试专用.md"
+    },
+    {
+      "basename": "important",
+      "path": "09..垃圾箱/important.md"
+    },
+    {
+      "basename": "bugbounty",
+      "path": "07.src学习/bugbounty.md"
     },
     {
       "basename": "客户端知识",
@@ -33,10 +49,6 @@
       "path": "07.src学习/payload/xss payload.md"
     },
     {
-      "basename": "🐏",
-      "path": "07.src学习/🐏.md"
-    },
-    {
       "basename": "云渗透",
       "path": "05.云安全/云渗透.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "感想",
       "path": "00.Box/感想.md"
-    },
-    {
-      "basename": "测试专用",
-      "path": "00.Box/测试专用.md"
     },
     {
       "basename": "arjun",
@@ -145,10 +153,6 @@
       "path": "02.靶场/靶场链接/src.md"
     },
     {
-      "basename": "bugbounty",
-      "path": "07.src学习/bugbounty.md"
-    },
-    {
       "basename": "sql注入",
       "path": "08.漏洞原理/sql注入.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "fastfood",
       "path": "02.靶场/fastfood.md"
-    },
-    {
-      "basename": "2024深圳粤盾",
-      "path": "03.面试/面经/2024深圳粤盾.md"
     }
   ],
   "omittedPaths": []
