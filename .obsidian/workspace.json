@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "00.Box/梦幻状元.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "00.Box/梦幻状元.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "00.Box/梦幻状元.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.云安全/云渗透.md"
+                "file": "00.Box/梦幻状元.md"
               }
             }
           }
@@ -160,6 +160,10 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "00.Box/感想.md",
+    "00.Box/测试专用.md",
+    "07.src学习/缓存类.md",
+    "05.云安全/云渗透.md",
     "06.工具/bugbounty/arjun.md",
     "06.工具/未命名.md",
     "06.工具/bp/xss获取cookie.md",
@@ -187,11 +191,7 @@
     "07.src学习/xss.md",
     "00.Box/未命名.md",
     "00.Box/introspection.md",
-    "00.Box/感想.md",
     "06.工具/tools0.md",
-    "07.src学习/xss自动化补充.md",
-    "07.src学习/xss挖掘.md",
-    "06.工具/tools1.md",
     "01.开发/后端/推荐网站.md.baiduyun.uploading.cfg",
     "08.漏洞原理/graphql.md.baiduyun.uploading.cfg",
     "07.src学习/xss批量.md.baiduyun.uploading.cfg",
