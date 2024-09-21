@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "waymore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +158,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d5ac82794c7f9939",
+  "active": "acc6d137d7deb89f",
   "lastOpenFiles": [
     "07.src学习/🐏.md",
     "07.src学习/他人/xia.md",
