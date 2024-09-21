@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "09..垃圾箱/漏洞url.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "09..垃圾箱/漏洞url.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "09..垃圾箱/漏洞url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools0.md"
+                "file": "09..垃圾箱/漏洞url.md"
               }
             }
           }
@@ -160,6 +160,8 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "06.工具/tools0.md",
+    "09..垃圾箱/漏洞url.md",
     "06.工具/msf.md",
     "06.工具/未命名.md",
     "07.src学习/🐏.md",
@@ -187,9 +189,7 @@
     "00.Box/梦幻状元.md",
     "00.Box/感想.md",
     "06.工具/bugbounty/arjun.md",
-    "06.工具/bp/xss获取cookie.md",
     "06.工具/bugbounty",
-    "04.渗透/内网.md",
     "0001.附件/Pasted image 20240919163351.png",
     "0001.附件/Pasted image 20240919163313.png",
     "0001.附件/Pasted image 20240919163143.png",

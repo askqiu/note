@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "漏洞url",
+      "path": "09..垃圾箱/漏洞url.md"
+    },
+    {
       "basename": "tools0",
       "path": "06.工具/tools0.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "JavaScript代码分析案例",
       "path": "01.开发/前端/JavaScript代码分析案例.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
     }
   ],
   "omittedPaths": []
