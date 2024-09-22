@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/xss/xss挖掘.md",
+                "file": "07.src学习/🐏.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/xss/xss挖掘.md",
+                "file": "07.src学习/🐏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/xss/xss挖掘.md",
+                "file": "07.src学习/🐏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/xss/xss挖掘.md"
+                "file": "07.src学习/🐏.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/xss/xss挖掘.md",
     "07.src学习/🐏.md",
     "07.src学习/缓存类.md",
     "07.src学习/找接口/找接口.md",
@@ -175,7 +176,6 @@
     "0001.附件/Pasted image 20240922174638.png",
     "09..垃圾箱/漏洞url.md",
     "07.src学习/xss/xss自动化补充.md",
-    "07.src学习/xss/xss挖掘.md",
     "07.src学习/xss/xss批量.md",
     "07.src学习/xss/xss.md",
     "07.src学习/找接口/js源码分析.md",
