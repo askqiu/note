@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "找接口",
-      "path": "07.src学习/找接口.md"
+      "path": "07.src学习/找接口/找接口.md"
+    },
+    {
+      "basename": "xss",
+      "path": "07.src学习/xss/xss.md"
     },
     {
       "basename": "缓存类",
@@ -22,7 +26,7 @@
     },
     {
       "basename": "xss批量",
-      "path": "07.src学习/xss批量.md"
+      "path": "07.src学习/xss/xss批量.md"
     },
     {
       "basename": "漏洞url",
@@ -46,19 +50,15 @@
     },
     {
       "basename": "js源码分析",
-      "path": "07.src学习/js源码分析.md"
-    },
-    {
-      "basename": "xss",
-      "path": "07.src学习/xss.md"
+      "path": "07.src学习/找接口/js源码分析.md"
     },
     {
       "basename": "xss挖掘",
-      "path": "07.src学习/xss挖掘.md"
+      "path": "07.src学习/xss/xss挖掘.md"
     },
     {
       "basename": "xss自动化补充",
-      "path": "07.src学习/xss自动化补充.md"
+      "path": "07.src学习/xss/xss自动化补充.md"
     },
     {
       "basename": "xss payload",
