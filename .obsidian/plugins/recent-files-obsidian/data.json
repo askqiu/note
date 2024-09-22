@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "找接口",
+      "path": "07.src学习/找接口.md"
+    },
+    {
+      "basename": "缓存类",
+      "path": "07.src学习/缓存类.md"
+    },
+    {
       "basename": "🐏",
       "path": "07.src学习/🐏.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "xss自动化补充",
       "path": "07.src学习/xss自动化补充.md"
-    },
-    {
-      "basename": "缓存类",
-      "path": "07.src学习/缓存类.md"
     },
     {
       "basename": "xss payload",
@@ -195,10 +199,6 @@
     {
       "basename": "xxe",
       "path": "02.靶场/xxe.md"
-    },
-    {
-      "basename": "JavaScript代码分析案例",
-      "path": "01.开发/前端/JavaScript代码分析案例.md"
     }
   ],
   "omittedPaths": []
