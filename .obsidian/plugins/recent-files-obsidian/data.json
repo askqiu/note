@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "漏洞url",
+      "path": "09..垃圾箱/漏洞url.md"
+    },
+    {
       "basename": "🐏",
       "path": "07.src学习/🐏.md"
+    },
+    {
+      "basename": "xss自动化补充",
+      "path": "07.src学习/xss/xss自动化补充.md"
     },
     {
       "basename": "xss挖掘",
@@ -15,14 +23,6 @@
     {
       "basename": "找接口",
       "path": "07.src学习/找接口/找接口.md"
-    },
-    {
-      "basename": "漏洞url",
-      "path": "09..垃圾箱/漏洞url.md"
-    },
-    {
-      "basename": "xss自动化补充",
-      "path": "07.src学习/xss/xss自动化补充.md"
     },
     {
       "basename": "xss批量",
