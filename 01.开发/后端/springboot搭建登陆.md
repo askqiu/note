@@ -541,7 +541,7 @@ sudo nano /opt/tomcat/conf/tomcat-users.xml
 ```xml
 <role rolename="manager-gui"/>
 <role rolename="admin-gui"/>
-<user username="admin" password="adminpassword" roles="manager-gui,admin-gui"/>
+<user username="admin" password="123" roles="manager-gui,admin-gui"/>
 ```
 
 > **注意**: 
@@ -559,7 +559,7 @@ sudo systemctl restart tomcat
 
 #### 步骤 3：访问 Tomcat 管理界面
 
-在浏览器中访问 [http://your-server-ip:8080/manager/html](http://your-server-ip:8080/manager/html)。
+`在浏览器中访问 [http://192.168.206.130:8080/manager/html](http://your-server-ip:8080/manager/html)`。
 
 1. **登录**: 使用刚刚在 `tomcat-users.xml` 中配置的用户名和密码（如 `admin/adminpassword`）。
 2. **部署应用**:
