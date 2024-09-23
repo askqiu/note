@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "src",
+      "path": "02.靶场/靶场链接/src.md"
+    },
+    {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
+    },
+    {
       "basename": "漏洞url",
       "path": "09..垃圾箱/漏洞url.md"
     },
@@ -161,10 +169,6 @@
       "path": "08.漏洞原理/graphql.md"
     },
     {
-      "basename": "src",
-      "path": "02.靶场/靶场链接/src.md"
-    },
-    {
       "basename": "sql注入",
       "path": "08.漏洞原理/sql注入.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "越权",
       "path": "07.src学习/越权.md"
-    },
-    {
-      "basename": "xxe",
-      "path": "02.靶场/xxe.md"
     }
   ],
   "omittedPaths": []
