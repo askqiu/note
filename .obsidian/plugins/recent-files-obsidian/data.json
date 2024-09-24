@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "xss获取cookie",
+      "path": "06.工具/bp/xss获取cookie.md"
+    },
+    {
       "basename": "xia",
       "path": "07.src学习/他人/xia.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "sql注入",
       "path": "04.渗透/sql注入.md"
-    },
-    {
-      "basename": "xss获取cookie",
-      "path": "06.工具/bp/xss获取cookie.md"
     },
     {
       "basename": "内网",

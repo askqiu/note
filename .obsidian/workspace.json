@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/他人/xia.md",
+                "file": "06.工具/bp/xss获取cookie.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/他人/xia.md",
+                "file": "06.工具/bp/xss获取cookie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/他人/xia.md",
+                "file": "06.工具/bp/xss获取cookie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/他人/xia.md"
+                "file": "06.工具/bp/xss获取cookie.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/他人/xia.md",
     "01.开发/后端/springboot搭建登陆.md",
     "00.Box/未命名.md",
     "00.Box/测试专用.md",
@@ -187,7 +188,6 @@
     "07.src学习/xss/xss批量.md",
     "07.src学习/xss/xss.md",
     "07.src学习/找接口/js源码分析.md",
-    "07.src学习/他人/xia.md",
     "06.工具/tools0.md",
     "06.工具/bugbounty/arjun.md",
     "06.工具/未命名.md",
