@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "graphql",
+      "path": "08.漏洞原理/graphql.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "01.开发/架构知识/graphql.md"
+    },
+    {
       "basename": "js登陆加密分析",
       "path": "01.开发/前端/js登陆加密分析.md"
     },
@@ -165,16 +173,8 @@
       "path": "03.面试/面经/得物sdl实习面试.md"
     },
     {
-      "basename": "graphql",
-      "path": "01.开发/架构知识/graphql.md"
-    },
-    {
       "basename": "推荐网站",
       "path": "01.开发/后端/推荐网站.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "08.漏洞原理/graphql.md"
     },
     {
       "basename": "sql注入",
