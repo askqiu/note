@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Box/未命名.md",
+                "file": "01.开发/后端/springboot搭建登陆.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Box/未命名.md",
+                "file": "01.开发/后端/springboot搭建登陆.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Box/未命名.md",
+                "file": "01.开发/后端/springboot搭建登陆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Box/未命名.md"
+                "file": "01.开发/后端/springboot搭建登陆.md"
               }
             }
           }
@@ -160,6 +160,10 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "00.Box/未命名.md",
+    "00.Box/测试专用.md",
+    "00.Box/感想.md",
+    "00.Box/梦幻状元.md",
     "06.工具/tools1.md",
     "07.src学习/🐏.md",
     "01.开发/后端/springboot搭建登陆.md",
@@ -195,11 +199,7 @@
     "07.src学习/payload/xss payload.md",
     "07.src学习/缓存类漏洞.md",
     "07.src学习/他人",
-    "00.Box/测试专用.md",
     "09..垃圾箱",
-    "01.开发/前端/客户端知识.md",
-    "01.开发/前端/JavaScript.md",
-    "05.云安全/云渗透.md",
     "06.工具/bugbounty",
     "01.开发/后端/推荐网站.md.baiduyun.uploading.cfg",
     "08.漏洞原理/graphql.md.baiduyun.uploading.cfg",
