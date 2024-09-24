@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "js登陆加密分析",
+      "path": "01.开发/前端/js登陆加密分析.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.开发/前端/JavaScript.md"
+    },
+    {
       "basename": "xss获取cookie",
       "path": "06.工具/bp/xss获取cookie.md"
     },
@@ -113,10 +121,6 @@
       "path": "01.开发/前端/客户端知识.md"
     },
     {
-      "basename": "JavaScript",
-      "path": "01.开发/前端/JavaScript.md"
-    },
-    {
       "basename": "云渗透",
       "path": "05.云安全/云渗透.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "csrf",
       "path": "08.漏洞原理/csrf.md"
-    },
-    {
-      "basename": "缓存中毒",
-      "path": "08.漏洞原理/缓存中毒.md"
     }
   ],
   "omittedPaths": []
