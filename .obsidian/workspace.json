@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/靶场链接/graphql.md",
-                "mode": "source",
+                "file": "02.靶场/xss.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/靶场链接/graphql.md",
+                "file": "02.靶场/xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/靶场链接/graphql.md",
+                "file": "02.靶场/xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/靶场链接/graphql.md"
+                "file": "02.靶场/xss.md"
               }
             }
           }
@@ -160,8 +160,19 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
-    "06.工具/bp/xss获取cookie.md",
+    "09..垃圾箱/漏洞url.md.baiduyun.uploading.cfg",
+    "09..垃圾箱/important.md.baiduyun.uploading.cfg",
+    "07.src学习/找接口/找接口.md.baiduyun.uploading.cfg",
+    "07.src学习/他人/xia.md.baiduyun.uploading.cfg",
+    "07.src学习/xss/xss批量.md.baiduyun.uploading.cfg",
+    "06.工具/bugbounty/arjun.md.baiduyun.uploading.cfg",
+    "02.靶场/靶场链接/graphql.md.baiduyun.uploading.cfg",
+    "01.开发/后端/springboot搭建登陆.md.baiduyun.uploading.cfg",
+    "01.开发/前端/js登陆加密分析.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240922174914.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20240922174831.png.baiduyun.uploading.cfg",
     "02.靶场/靶场链接/graphql.md",
+    "06.工具/bp/xss获取cookie.md",
     "08.漏洞原理/graphql.md",
     "01.开发/架构知识/graphql.md",
     "01.开发/前端/js登陆加密分析.md",
@@ -195,17 +206,6 @@
     "07.src学习/xss/xss.md",
     "07.src学习/找接口/js源码分析.md",
     "06.工具/tools0.md",
-    "06.工具/bugbounty/arjun.md",
-    "07.src学习/找接口",
-    "07.src学习/xss",
-    "07.src学习/他人",
-    "09..垃圾箱",
-    "06.工具/bugbounty",
-    "01.开发/后端/推荐网站.md.baiduyun.uploading.cfg",
-    "08.漏洞原理/graphql.md.baiduyun.uploading.cfg",
-    "07.src学习/xss批量.md.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240918165417.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20240918165252.png.baiduyun.uploading.cfg",
     "未命名.canvas"
   ]
 }
