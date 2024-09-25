@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.漏洞原理/graphql.md",
+                "file": "02.靶场/靶场链接/graphql.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08.漏洞原理/graphql.md",
+                "file": "02.靶场/靶场链接/graphql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08.漏洞原理/graphql.md",
+                "file": "02.靶场/靶场链接/graphql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08.漏洞原理/graphql.md"
+                "file": "02.靶场/靶场链接/graphql.md"
               }
             }
           }
@@ -160,10 +160,12 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "06.工具/bp/xss获取cookie.md",
+    "02.靶场/靶场链接/graphql.md",
+    "08.漏洞原理/graphql.md",
     "01.开发/架构知识/graphql.md",
     "01.开发/前端/js登陆加密分析.md",
     "01.开发/前端/JavaScript.md",
-    "06.工具/bp/xss获取cookie.md",
     "07.src学习/他人/xia.md",
     "01.开发/后端/springboot搭建登陆.md",
     "00.Box/未命名.md",
@@ -194,10 +196,8 @@
     "07.src学习/找接口/js源码分析.md",
     "06.工具/tools0.md",
     "06.工具/bugbounty/arjun.md",
-    "06.工具/未命名.md",
     "07.src学习/找接口",
     "07.src学习/xss",
-    "09..垃圾箱/important.md",
     "07.src学习/他人",
     "09..垃圾箱",
     "06.工具/bugbounty",

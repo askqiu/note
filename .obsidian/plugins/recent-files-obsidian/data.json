@@ -2,6 +2,14 @@
   "recentFiles": [
     {
       "basename": "graphql",
+      "path": "02.靶场/靶场链接/graphql.md"
+    },
+    {
+      "basename": "xss获取cookie",
+      "path": "06.工具/bp/xss获取cookie.md"
+    },
+    {
+      "basename": "graphql",
       "path": "08.漏洞原理/graphql.md"
     },
     {
@@ -15,10 +23,6 @@
     {
       "basename": "JavaScript",
       "path": "01.开发/前端/JavaScript.md"
-    },
-    {
-      "basename": "xss获取cookie",
-      "path": "06.工具/bp/xss获取cookie.md"
     },
     {
       "basename": "xia",
@@ -195,10 +199,6 @@
     {
       "basename": "ssrf",
       "path": "02.靶场/ssrf.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "08.漏洞原理/csrf.md"
     }
   ],
   "omittedPaths": []
