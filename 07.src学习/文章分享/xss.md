@@ -1,5 +1,5 @@
 
-隐藏参数
+隐藏参数10 Blogs about Hidden parameters
 ```
 https://infosecwriteups.com/decoding-puzzled-xss-unveiling-the-hidden-vulnerability-5980b4c8fc30
 ```
