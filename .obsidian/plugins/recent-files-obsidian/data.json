@@ -2,11 +2,19 @@
   "recentFiles": [
     {
       "basename": "通用技术",
-      "path": "07.src学习/文章分享/通用技术.md"
+      "path": "07.src学习/通用技术.md"
     },
     {
       "basename": "通用技术",
-      "path": "07.src学习/通用技术.md"
+      "path": "07.src学习/文章分享/通用技术.md"
+    },
+    {
+      "basename": "atest",
+      "path": "07.src学习/xss/atest.md"
+    },
+    {
+      "basename": "xss",
+      "path": "07.src学习/xss/xss.md"
     },
     {
       "basename": "越权",
@@ -29,20 +37,12 @@
       "path": "07.src学习/他人/🐏.md"
     },
     {
-      "basename": "未命名",
-      "path": "07.src学习/xss/未命名.md"
-    },
-    {
       "basename": "src",
       "path": "02.靶场/靶场链接/src.md"
     },
     {
       "basename": "xss自动化补充",
       "path": "07.src学习/xss/xss自动化补充.md"
-    },
-    {
-      "basename": "xss",
-      "path": "07.src学习/xss/xss.md"
     },
     {
       "basename": "xss批量",
