@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09..垃圾箱/important.md"
+                "file": "02.靶场/靶场链接/src.md"
               }
             }
           }
@@ -160,6 +160,12 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/xss/xss自动化补充.md",
+    "07.src学习/xss/xss.md",
+    "07.src学习/xss/xss批量.md",
+    "07.src学习/xss/xss挖掘.md",
+    "07.src学习/payload/xss payload.md",
+    "09..垃圾箱/important.md",
     "01.开发/后端/springboot搭建登陆.md",
     "02.靶场/xss.md",
     "09..垃圾箱/漏洞url.md.baiduyun.uploading.cfg",
@@ -188,8 +194,6 @@
     "02.靶场/靶场链接/src.md",
     "02.靶场/fastfood.md",
     "09..垃圾箱/漏洞url.md",
-    "07.src学习/xss/xss自动化补充.md",
-    "07.src学习/xss/xss挖掘.md",
     "07.src学习/缓存类.md",
     "07.src学习/找接口/找接口.md",
     "0001.附件/Pasted image 20240922174914.png",
@@ -202,10 +206,6 @@
     "0001.附件/Pasted image 20240922174709.png",
     "0001.附件/Pasted image 20240922174659.png",
     "0001.附件/Pasted image 20240922174638.png",
-    "07.src学习/xss/xss批量.md",
-    "07.src学习/xss/xss.md",
-    "07.src学习/找接口/js源码分析.md",
-    "06.工具/tools0.md",
     "未命名.canvas"
   ]
 }
