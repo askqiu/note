@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "xss",
-      "path": "07.src学习/文章分享/xss.md"
+      "basename": "通用技术",
+      "path": "07.src学习/文章分享/通用技术.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/通用技术.md"
+    },
+    {
+      "basename": "越权",
+      "path": "07.src学习/越权.md"
     },
     {
       "basename": "工具命令",
       "path": "07.src学习/文章分享/工具命令.md"
+    },
+    {
+      "basename": "缓存类",
+      "path": "07.src学习/缓存类.md"
+    },
+    {
+      "basename": "缓存类漏洞",
+      "path": "07.src学习/缓存类漏洞.md"
+    },
+    {
+      "basename": "🐏",
+      "path": "07.src学习/他人/🐏.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "07.src学习/xss/未命名.md"
     },
     {
       "basename": "src",
@@ -93,20 +117,12 @@
       "path": "06.工具/tools1.md"
     },
     {
-      "basename": "🐏",
-      "path": "07.src学习/🐏.md"
-    },
-    {
       "basename": "fastfood",
       "path": "02.靶场/fastfood.md"
     },
     {
       "basename": "漏洞url",
       "path": "09..垃圾箱/漏洞url.md"
-    },
-    {
-      "basename": "缓存类",
-      "path": "07.src学习/缓存类.md"
     },
     {
       "basename": "找接口",
@@ -135,10 +151,6 @@
     {
       "basename": "bugbounty",
       "path": "07.src学习/bugbounty.md"
-    },
-    {
-      "basename": "缓存类漏洞",
-      "path": "07.src学习/缓存类漏洞.md"
     },
     {
       "basename": "客户端知识",
@@ -187,18 +199,6 @@
     {
       "basename": "得物sdl实习面试",
       "path": "03.面试/面经/得物sdl实习面试.md"
-    },
-    {
-      "basename": "推荐网站",
-      "path": "01.开发/后端/推荐网站.md"
-    },
-    {
-      "basename": "sql注入",
-      "path": "08.漏洞原理/sql注入.md"
-    },
-    {
-      "basename": "XXE",
-      "path": "08.漏洞原理/XXE.md"
     }
   ],
   "omittedPaths": []

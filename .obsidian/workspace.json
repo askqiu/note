@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/文章分享/xss.md",
+                "file": "07.src学习/文章分享/通用技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/文章分享/xss.md",
+                "file": "07.src学习/文章分享/通用技术.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/文章分享/xss.md",
+                "file": "07.src学习/文章分享/通用技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/文章分享/xss.md"
+                "file": "07.src学习/文章分享/通用技术.md"
               }
             }
           }
@@ -160,8 +160,14 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/通用技术.md",
+    "07.src学习/文章分享/通用技术.md",
+    "07.src学习/越权.md",
     "07.src学习/文章分享/工具命令.md",
-    "07.src学习/文章分享/xss.md",
+    "07.src学习/缓存类.md",
+    "07.src学习/缓存类漏洞.md",
+    "07.src学习/他人/🐏.md",
+    "07.src学习/xss/未命名.md",
     "0001.附件/Pasted image 20240926215540.png",
     "02.靶场/靶场链接/src.md",
     "07.src学习/文章分享",
@@ -191,11 +197,6 @@
     "07.src学习/他人/xia.md",
     "00.Box/未命名.md",
     "00.Box/测试专用.md",
-    "00.Box/感想.md",
-    "00.Box/梦幻状元.md",
-    "06.工具/tools1.md",
-    "07.src学习/🐏.md",
-    "02.靶场/fastfood.md",
     "0001.附件/Pasted image 20240922174914.png",
     "0001.附件/Pasted image 20240922174831.png",
     "0001.附件/Pasted image 20240922174817.png",
