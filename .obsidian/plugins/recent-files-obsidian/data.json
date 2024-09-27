@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "xss",
+      "path": "02.靶场/xss.md"
+    },
+    {
       "basename": "漏洞url",
       "path": "09..垃圾箱/漏洞url.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "springboot搭建登陆",
       "path": "01.开发/后端/springboot搭建登陆.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/xss.md"
     },
     {
       "basename": "graphql",

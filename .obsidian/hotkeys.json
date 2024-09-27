@@ -1,10 +1,10 @@
 {
-  "editor:toggle-code": [
+  "editor:insert-codeblock": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
-      "key": "Numpad1"
+      "key": "CapsLock"
     }
   ]
 }

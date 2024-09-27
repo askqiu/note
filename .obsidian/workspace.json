@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09..垃圾箱/漏洞url.md",
+                "file": "02.靶场/xss.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09..垃圾箱/漏洞url.md",
+                "file": "02.靶场/xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09..垃圾箱/漏洞url.md",
+                "file": "02.靶场/xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09..垃圾箱/漏洞url.md"
+                "file": "02.靶场/xss.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "09..垃圾箱/漏洞url.md",
     "09..垃圾箱/important.md",
     "07.src学习/通用技术.md",
     "07.src学习/payload/xss payload.md",
@@ -196,7 +197,6 @@
     "06.工具/bp/xss获取cookie.md",
     "08.漏洞原理/graphql.md",
     "01.开发/架构知识/graphql.md",
-    "01.开发/前端/js登陆加密分析.md",
     "0001.附件/Pasted image 20240922174914.png",
     "0001.附件/Pasted image 20240922174831.png",
     "0001.附件/Pasted image 20240922174817.png",
