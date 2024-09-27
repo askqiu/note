@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "07.src学习/通用技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "07.src学习/通用技术.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/xss.md",
+                "file": "07.src学习/通用技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/xss.md"
+                "file": "07.src学习/通用技术.md"
               }
             }
           }
@@ -160,6 +160,10 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/漏洞类/未命名.md",
+    "07.src学习/杂记.md",
+    "02.靶场/xss.md",
+    "07.src学习/漏洞类",
     "09..垃圾箱/漏洞url.md",
     "09..垃圾箱/important.md",
     "07.src学习/通用技术.md",
@@ -173,9 +177,9 @@
     "00.Box/未命名.md",
     "07.src学习/xss/atest.md",
     "07.src学习/xss/xss.md",
-    "07.src学习/越权.md",
-    "07.src学习/缓存类.md",
-    "07.src学习/缓存类漏洞.md",
+    "07.src学习/漏洞类/越权.md",
+    "07.src学习/漏洞类/缓存类.md",
+    "07.src学习/漏洞类/缓存类漏洞.md",
     "0001.附件/Pasted image 20240926215540.png",
     "02.靶场/靶场链接/src.md",
     "07.src学习/文章分享",
@@ -183,7 +187,6 @@
     "07.src学习/xss/xss批量.md",
     "07.src学习/xss/xss挖掘.md",
     "01.开发/后端/springboot搭建登陆.md",
-    "02.靶场/xss.md",
     "09..垃圾箱/漏洞url.md.baiduyun.uploading.cfg",
     "09..垃圾箱/important.md.baiduyun.uploading.cfg",
     "07.src学习/找接口/找接口.md.baiduyun.uploading.cfg",
@@ -192,11 +195,8 @@
     "06.工具/bugbounty/arjun.md.baiduyun.uploading.cfg",
     "02.靶场/靶场链接/graphql.md.baiduyun.uploading.cfg",
     "01.开发/后端/springboot搭建登陆.md.baiduyun.uploading.cfg",
-    "01.开发/前端/js登陆加密分析.md.baiduyun.uploading.cfg",
     "02.靶场/靶场链接/graphql.md",
     "06.工具/bp/xss获取cookie.md",
-    "08.漏洞原理/graphql.md",
-    "01.开发/架构知识/graphql.md",
     "0001.附件/Pasted image 20240922174914.png",
     "0001.附件/Pasted image 20240922174831.png",
     "0001.附件/Pasted image 20240922174817.png",
