@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "通用技术",
-      "path": "07.src学习/通用技术.md"
-    },
-    {
       "basename": "未命名",
       "path": "07.src学习/漏洞类/未命名.md"
+    },
+    {
+      "basename": "缓存类漏洞",
+      "path": "07.src学习/漏洞类/缓存类漏洞.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/通用技术.md"
     },
     {
       "basename": "杂记",
@@ -71,10 +75,6 @@
     {
       "basename": "缓存类",
       "path": "07.src学习/漏洞类/缓存类.md"
-    },
-    {
-      "basename": "缓存类漏洞",
-      "path": "07.src学习/漏洞类/缓存类漏洞.md"
     },
     {
       "basename": "src",
