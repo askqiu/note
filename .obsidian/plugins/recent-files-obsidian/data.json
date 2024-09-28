@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "important",
+      "path": "09..垃圾箱/important.md"
+    },
+    {
       "basename": "src",
       "path": "02.靶场/靶场链接/src.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "漏洞url",
       "path": "09..垃圾箱/漏洞url.md"
-    },
-    {
-      "basename": "important",
-      "path": "09..垃圾箱/important.md"
     },
     {
       "basename": "xss payload",
