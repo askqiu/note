@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "02.靶场/靶场链接/src.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09..垃圾箱/important.md"
+                "file": "02.靶场/靶场链接/src.md"
               }
             }
           }
@@ -160,22 +160,24 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/通用技术.md",
+    "07.src学习/杂记.md",
+    "07.src学习/文章分享/工具命令.md",
+    "07.src学习/找接口/js源码分析.md",
+    "07.src学习/找接口/找接口.md",
+    "07.src学习/文章分享/通用技术.md",
     "02.靶场/靶场链接/src.md",
+    "09..垃圾箱/important.md",
     "02.靶场/靶场链接/graphql.md",
     "02.靶场/fastfood.md",
     "07.src学习/漏洞类/未命名.md",
     "07.src学习/漏洞类/缓存类漏洞.md",
-    "07.src学习/通用技术.md",
-    "07.src学习/杂记.md",
     "02.靶场/xss.md",
     "07.src学习/漏洞类",
     "09..垃圾箱/漏洞url.md",
-    "09..垃圾箱/important.md",
     "07.src学习/payload/xss payload.md",
-    "07.src学习/文章分享/工具命令.md",
     "07.src学习/他人/xia.md",
     "07.src学习/他人/🐏.md",
-    "07.src学习/文章分享/通用技术.md",
     "00.Box/测试专用.md",
     "00.Box/感想.md",
     "00.Box/未命名.md",
@@ -187,8 +189,6 @@
     "07.src学习/文章分享",
     "07.src学习/xss/xss自动化补充.md",
     "07.src学习/xss/xss批量.md",
-    "07.src学习/xss/xss挖掘.md",
-    "01.开发/后端/springboot搭建登陆.md",
     "09..垃圾箱/漏洞url.md.baiduyun.uploading.cfg",
     "09..垃圾箱/important.md.baiduyun.uploading.cfg",
     "07.src学习/找接口/找接口.md.baiduyun.uploading.cfg",
