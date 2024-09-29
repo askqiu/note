@@ -5,12 +5,24 @@
       "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
     },
     {
-      "basename": "找接口",
-      "path": "07.src学习/通用技术/找接口/找接口.md"
-    },
-    {
       "basename": "js源码分析",
       "path": "07.src学习/通用技术/找接口/js源码分析.md"
+    },
+    {
+      "basename": "apikey",
+      "path": "01.开发/架构知识/apikey.md"
+    },
+    {
+      "basename": "oauth",
+      "path": "01.开发/架构知识/oauth.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "01.开发/架构知识/graphql.md"
+    },
+    {
+      "basename": "找接口",
+      "path": "07.src学习/通用技术/找接口/找接口.md"
     },
     {
       "basename": "通用技术",
@@ -129,10 +141,6 @@
       "path": "08.漏洞原理/graphql.md"
     },
     {
-      "basename": "graphql",
-      "path": "01.开发/架构知识/graphql.md"
-    },
-    {
       "basename": "js登陆加密分析",
       "path": "01.开发/前端/js登陆加密分析.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "应急",
       "path": "03.面试/应急.md"
-    },
-    {
-      "basename": "研判",
-      "path": "03.面试/研判.md"
-    },
-    {
-      "basename": "特征",
-      "path": "03.面试/特征.md"
     }
   ],
   "omittedPaths": []
