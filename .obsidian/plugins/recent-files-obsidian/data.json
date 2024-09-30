@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "csrf",
+      "path": "02.靶场/csrf.md"
+    },
+    {
+      "basename": "xxe",
+      "path": "02.靶场/xxe.md"
+    },
+    {
       "basename": "graphql",
       "path": "01.开发/架构知识/graphql.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "工具命令",
       "path": "07.src学习/文章分享/工具命令.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/csrf.md"
     },
     {
       "basename": "杂记",
@@ -195,10 +199,6 @@
     {
       "basename": "权限提升",
       "path": "04.渗透/权限提升.md"
-    },
-    {
-      "basename": "应急",
-      "path": "03.面试/应急.md"
     }
   ],
   "omittedPaths": []
