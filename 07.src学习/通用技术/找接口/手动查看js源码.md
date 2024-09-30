@@ -70,3 +70,4 @@ postMessage、messageListener、.innerHTML、document.write（、document.cookie
 ![[Pasted image 20240929085120.png]]
 ![[Pasted image 20240929085125.png]]
 
+#Lets be a dork and read js file
