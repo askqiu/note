@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09..垃圾箱/漏洞url.md",
+                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09..垃圾箱/漏洞url.md",
+                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09..垃圾箱/漏洞url.md",
+                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09..垃圾箱/漏洞url.md"
+                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
               }
             }
           }
@@ -160,6 +160,8 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "09..垃圾箱/漏洞url.md",
+    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/杂记.md",
     "02.靶场/bp/ssrf.md",
     "02.靶场/bp",
@@ -192,10 +194,8 @@
     "07.src学习/漏洞类/缓存类漏洞.md",
     "02.靶场/bp/xss.md",
     "07.src学习/漏洞类",
-    "09..垃圾箱/漏洞url.md",
     "07.src学习/payload/xss payload.md",
     "00.Box/测试专用.md",
-    "00.Box/感想.md",
     "0001.附件/Pasted image 20240926215540.png",
     "07.src学习/文章分享",
     "09..垃圾箱/漏洞url.md.baiduyun.uploading.cfg",

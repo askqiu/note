@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "漏洞赏金猎人训练营",
+      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
+    },
+    {
       "basename": "漏洞url",
       "path": "09..垃圾箱/漏洞url.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sql注入",
       "path": "04.渗透/sql注入.md"
-    },
-    {
-      "basename": "内网",
-      "path": "04.渗透/内网.md"
     }
   ],
   "omittedPaths": []
