@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "漏洞url",
+      "path": "09..垃圾箱/漏洞url.md"
+    },
+    {
       "basename": "杂记",
       "path": "07.src学习/杂记.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "xss",
       "path": "02.靶场/bp/xss.md"
-    },
-    {
-      "basename": "漏洞url",
-      "path": "09..垃圾箱/漏洞url.md"
     },
     {
       "basename": "xss payload",
