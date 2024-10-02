@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "通用技术",
-      "path": "07.src学习/通用技术.md"
-    },
-    {
       "basename": "杂记",
       "path": "07.src学习/杂记.md"
+    },
+    {
+      "basename": "ssrf",
+      "path": "02.靶场/bp/ssrf.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/通用技术/通用技术.md"
     },
     {
       "basename": "js源码分析",
@@ -30,15 +34,15 @@
     },
     {
       "basename": "🐏",
-      "path": "07.src学习/他人/🐏.md"
+      "path": "07.src学习/文章分享/他人/🐏.md"
     },
     {
       "basename": "csrf",
-      "path": "02.靶场/csrf.md"
+      "path": "02.靶场/bp/csrf.md"
     },
     {
       "basename": "xxe",
-      "path": "02.靶场/xxe.md"
+      "path": "02.靶场/bp/xxe.md"
     },
     {
       "basename": "graphql",
@@ -58,7 +62,7 @@
     },
     {
       "basename": "xia",
-      "path": "07.src学习/他人/xia.md"
+      "path": "07.src学习/文章分享/他人/xia.md"
     },
     {
       "basename": "工具命令",
@@ -82,7 +86,7 @@
     },
     {
       "basename": "xss",
-      "path": "02.靶场/xss.md"
+      "path": "02.靶场/bp/xss.md"
     },
     {
       "basename": "漏洞url",
@@ -106,11 +110,11 @@
     },
     {
       "basename": "atest",
-      "path": "07.src学习/xss/atest.md"
+      "path": "07.src学习/漏洞类/xss/atest.md"
     },
     {
       "basename": "xss",
-      "path": "07.src学习/xss/xss.md"
+      "path": "07.src学习/漏洞类/xss/xss.md"
     },
     {
       "basename": "越权",
@@ -122,15 +126,15 @@
     },
     {
       "basename": "xss自动化补充",
-      "path": "07.src学习/xss/xss自动化补充.md"
+      "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
     },
     {
       "basename": "xss批量",
-      "path": "07.src学习/xss/xss批量.md"
+      "path": "07.src学习/漏洞类/xss/xss批量.md"
     },
     {
       "basename": "xss挖掘",
-      "path": "07.src学习/xss/xss挖掘.md"
+      "path": "07.src学习/漏洞类/xss/xss挖掘.md"
     },
     {
       "basename": "springboot搭建登陆",
@@ -195,10 +199,6 @@
     {
       "basename": "内网",
       "path": "04.渗透/内网.md"
-    },
-    {
-      "basename": "权限提升",
-      "path": "04.渗透/权限提升.md"
     }
   ],
   "omittedPaths": []

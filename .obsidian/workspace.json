@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/通用技术.md",
+                "file": "07.src学习/杂记.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/通用技术.md",
+                "file": "07.src学习/杂记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/通用技术.md",
+                "file": "07.src学习/杂记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/通用技术.md"
+                "file": "07.src学习/杂记.md"
               }
             }
           }
@@ -160,16 +160,18 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "02.靶场/bp/ssrf.md",
     "07.src学习/杂记.md",
+    "02.靶场/bp",
+    "07.src学习/通用技术/通用技术.md",
     "07.src学习/通用技术/找接口/js源码分析.md",
     "07.src学习/通用技术/找接口/找接口.md",
     "07.src学习/通用技术/找接口/手动查看js源码.md",
     "09..垃圾箱/important.md",
     "07.src学习/文章分享/通用技术.md",
-    "07.src学习/通用技术.md",
-    "07.src学习/他人/🐏.md",
-    "02.靶场/csrf.md",
-    "02.靶场/xxe.md",
+    "07.src学习/文章分享/他人/🐏.md",
+    "02.靶场/bp/csrf.md",
+    "02.靶场/bp/xxe.md",
     "01.开发/架构知识/graphql.md",
     "0001.附件/Pasted image 20240929090714.png",
     "0001.附件/Pasted image 20240929090641.png",
@@ -182,19 +184,18 @@
     "01.开发/架构知识/oauth.md",
     "07.src学习/通用技术",
     "02.靶场/靶场链接/src.md",
-    "07.src学习/他人/xia.md",
+    "07.src学习/文章分享/他人/xia.md",
     "07.src学习/文章分享/工具命令.md",
     "02.靶场/靶场链接/graphql.md",
     "02.靶场/fastfood.md",
     "07.src学习/漏洞类/未命名.md",
     "07.src学习/漏洞类/缓存类漏洞.md",
-    "02.靶场/xss.md",
+    "02.靶场/bp/xss.md",
     "07.src学习/漏洞类",
     "09..垃圾箱/漏洞url.md",
     "07.src学习/payload/xss payload.md",
     "00.Box/测试专用.md",
     "00.Box/感想.md",
-    "00.Box/未命名.md",
     "0001.附件/Pasted image 20240926215540.png",
     "07.src学习/文章分享",
     "09..垃圾箱/漏洞url.md.baiduyun.uploading.cfg",
@@ -203,7 +204,6 @@
     "07.src学习/他人/xia.md.baiduyun.uploading.cfg",
     "07.src学习/xss/xss批量.md.baiduyun.uploading.cfg",
     "06.工具/bugbounty/arjun.md.baiduyun.uploading.cfg",
-    "02.靶场/靶场链接/graphql.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240922174914.png",
     "0001.附件/Pasted image 20240922174831.png",
     "未命名.canvas"
