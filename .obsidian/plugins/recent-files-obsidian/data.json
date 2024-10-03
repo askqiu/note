@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
       "basename": "漏洞赏金猎人训练营",
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "🐏",
       "path": "07.src学习/文章分享/他人/🐏.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
     },
     {
       "basename": "xxe",

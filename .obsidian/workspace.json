@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md",
+                "file": "02.靶场/bp/csrf.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md",
+                "file": "02.靶场/bp/csrf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md",
+                "file": "02.靶场/bp/csrf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
+                "file": "02.靶场/bp/csrf.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/通用技术/通用技术.md",
     "07.src学习/文章分享/通用技术.md",
-    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "0001.附件/Pasted image 20241002212134.png",
     "09..垃圾箱/漏洞url.md",
     "07.src学习/杂记.md",
