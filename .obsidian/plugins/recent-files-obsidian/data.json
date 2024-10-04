@@ -5,6 +5,10 @@
       "path": "02.靶场/bp/csrf.md"
     },
     {
+      "basename": "JavaScript",
+      "path": "01.开发/前端/JavaScript.md"
+    },
+    {
       "basename": "漏洞赏金猎人训练营",
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "js登陆加密分析",
       "path": "01.开发/前端/js登陆加密分析.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.开发/前端/JavaScript.md"
     },
     {
       "basename": "梦幻状元",

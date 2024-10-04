@@ -19,3 +19,6 @@ Set-Cookie: LastSearchTerm=xxx; Secure; HttpOnly
 
 # 绕过samesite=lax
 `GET /my-account/change-email?email=test5%40qq.com&_method=POST HTTP/2`
+
+通过客户端重定向绕过 SameSite Strict
+https://0a4c002c0334df45805067e200e50046.web-security-academy.net/post/comment/confirmation?postId=../my-account/

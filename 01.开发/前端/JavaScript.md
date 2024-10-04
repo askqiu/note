@@ -267,3 +267,33 @@ params:
    - 这就是你创建的`URLSearchParams`对象。通过这个对象，你可以使用各种方法来处理查询参数。
 
 例如，如果你的URL是 `https://example.com/page?name=John&age=30`，那么 `window.location.search` 的值将是 `"?name=John&age=30"`。创建 `URLSearchParams` 对象后，你可以通过 `params.get('name')` 获取 `name` 参数的值，即 "John"。
+
+# 外部js
+==通过页面的script标签的src属性，页面加载时候会发起get请求获取js文件，并且执行获取到的js代码==
+
+是的，外部 JavaScript 文件可以加载其他外部 JavaScript 文件。这种做法常见于大型应用程序和库中。以下是一些相关的细节：
+
+### 1. 在外部 JavaScript 文件中加载其他文件
+- 可以在一个外部 JavaScript 文件中使用 `<script>` 标签动态加载其他 JavaScript 文件。例如：
+  ```javascript
+  const script = document.createElement('script');
+  script.src = 'https://example.com/another-script.js';
+  document.head.appendChild(script);
+  ```
+- 这种方法允许一个 JavaScript 文件在执行时动态加载其他文件。
+
+### 2. 使用模块系统
+- 如果使用模块系统（如 ES6 模块、CommonJS 或 AMD），可以通过 `import` 或 `require` 语句导入其他 JavaScript 文件。例如：
+  ```javascript
+  // ES6模块
+  import { myFunction } from './myModule.js';
+  ```
+
+### 3. 注意加载顺序
+- 当一个外部 JavaScript 文件依赖于另一个外部文件时，必须确保加载顺序正确。如果某个脚本依赖于另一个脚本的内容，确保第一个脚本在第二个脚本之前加载。
+
+### 4. 影响性能
+- 动态加载多个外部 JavaScript 文件可能会影响页面加载性能，尤其是当这些文件较大或数量较多时。因此，通常建议对外部脚本进行合并和压缩，以提高性能。
+
+### 总结
+外部 JavaScript 文件可以继续加载其他外部 JavaScript 文件，通过动态加载或使用模块化方式来实现。这种灵活性使得构建复杂的前端应用程序变得更加可行。
