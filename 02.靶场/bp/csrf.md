@@ -17,3 +17,5 @@ Set-Cookie: LastSearchTerm=xxx; Secure; HttpOnly
 # 令牌在 cookie 中重复的 CSRF
 用上面的方法同时提交自己的csrftoken就行，在cookie中
 
+# 绕过samesite=lax
+`GET /my-account/change-email?email=test5%40qq.com&_method=POST HTTP/2`
