@@ -8,3 +8,12 @@
 
 # 令牌未绑定到用户会话的 CSRF
 这里主要是使用自己的csrftoken（在还没发给服务端的情况下）来修改别人的请求
+
+# 令牌与非会话 Cookie 绑定的 CSRF（没成功）
+cookie中的csrfkey与csrftoken绑定，但是csrf可以不属于会话cookie，于是我可以使用我的csrfkey和我的csrftoken去对别人进行csrf攻击，这里我们发现搜索功能会把用户输入字段插入到cookie里面
+Set-Cookie: LastSearchTerm=xxx; Secure; HttpOnly
+我们使用crlf攻击，设置受害者的csrfkey（setcookie响应中有两个的话后代替前，没有字段的话会合体）
+
+# 令牌在 cookie 中重复的 CSRF
+用上面的方法同时提交自己的csrftoken就行，在cookie中
+
