@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "oauth",
+      "path": "01.开发/架构知识/oauth.md"
+    },
+    {
       "basename": "websocket",
       "path": "01.开发/架构知识/websocket.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "apikey",
       "path": "01.开发/架构知识/apikey.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "01.开发/架构知识/oauth.md"
     },
     {
       "basename": "src",
