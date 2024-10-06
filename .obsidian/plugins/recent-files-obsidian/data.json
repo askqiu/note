@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "客户端知识",
+      "path": "01.开发/前端/客户端知识.md"
+    },
+    {
       "basename": "websocket",
       "path": "01.开发/架构知识/websocket.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tools0",
       "path": "06.工具/tools0.md"
-    },
-    {
-      "basename": "arjun",
-      "path": "06.工具/bugbounty/arjun.md"
     }
   ],
   "omittedPaths": []
