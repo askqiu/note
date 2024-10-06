@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
+    },
+    {
+      "basename": "ssrf",
+      "path": "02.靶场/bp/ssrf.md"
+    },
+    {
       "basename": "csrf",
       "path": "02.靶场/bp/csrf.md"
     },
@@ -69,10 +77,6 @@
       "path": "07.src学习/杂记.md"
     },
     {
-      "basename": "ssrf",
-      "path": "02.靶场/bp/ssrf.md"
-    },
-    {
       "basename": "js源码分析",
       "path": "07.src学习/通用技术/找接口/js源码分析.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "graphql",
       "path": "02.靶场/靶场链接/graphql.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
     },
     {
       "basename": "未命名",

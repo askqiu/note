@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/csrf.md",
+                "file": "02.靶场/fastfood.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/bp/csrf.md",
+                "file": "02.靶场/fastfood.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/bp/csrf.md",
+                "file": "02.靶场/fastfood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/csrf.md"
+                "file": "02.靶场/fastfood.md"
               }
             }
           }
@@ -160,6 +160,8 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "02.靶场/bp/ssrf.md",
+    "02.靶场/bp/csrf.md",
     "02.靶场/bp/csrf.md.baiduyun.uploading.cfg",
     "01.开发/前端/客户端知识.md",
     "01.开发/架构知识/websocket.md",
@@ -171,7 +173,6 @@
     "03.面试/应急.md",
     "03.面试/研判.md",
     "03.面试/特征.md",
-    "02.靶场/bp/csrf.md",
     "01.开发/前端/JavaScript.md",
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/通用技术/通用技术.md",
@@ -179,7 +180,6 @@
     "0001.附件/Pasted image 20241002212134.png",
     "09..垃圾箱/漏洞url.md",
     "07.src学习/杂记.md",
-    "02.靶场/bp/ssrf.md",
     "02.靶场/bp",
     "07.src学习/通用技术/找接口/js源码分析.md",
     "07.src学习/通用技术/找接口/找接口.md",
@@ -204,7 +204,6 @@
     "07.src学习/找接口/找接口.md.baiduyun.uploading.cfg",
     "07.src学习/他人/xia.md.baiduyun.uploading.cfg",
     "07.src学习/xss/xss批量.md.baiduyun.uploading.cfg",
-    "06.工具/bugbounty/arjun.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20240922174914.png",
     "未命名.canvas"
   ]
