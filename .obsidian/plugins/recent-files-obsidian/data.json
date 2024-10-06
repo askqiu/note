@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
       "basename": "客户端知识",
       "path": "01.开发/前端/客户端知识.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "特征",
       "path": "03.面试/特征.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
     },
     {
       "basename": "JavaScript",

@@ -33,3 +33,5 @@ https://0a4c002c0334df45805067e200e50046.web-security-academy.net/post/comment/c
 ;</script>
 </html>
 ```
+
+# SameSite 通过同级域严格绕过(csrf+xss+cswsh)
