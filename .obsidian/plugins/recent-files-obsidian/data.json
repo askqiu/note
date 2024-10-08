@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "temp",
+      "path": "09..垃圾箱/temp.md"
+    },
+    {
+      "basename": "important",
+      "path": "09..垃圾箱/important.md"
+    },
+    {
+      "basename": "漏洞url",
+      "path": "09..垃圾箱/漏洞url.md"
+    },
+    {
       "basename": "graphql",
       "path": "02.靶场/靶场链接/graphql.md"
     },
@@ -81,10 +93,6 @@
       "path": "07.src学习/文章分享/通用技术.md"
     },
     {
-      "basename": "漏洞url",
-      "path": "09..垃圾箱/漏洞url.md"
-    },
-    {
       "basename": "杂记",
       "path": "07.src学习/杂记.md"
     },
@@ -99,10 +107,6 @@
     {
       "basename": "手动查看js源码",
       "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
-    },
-    {
-      "basename": "important",
-      "path": "09..垃圾箱/important.md"
     },
     {
       "basename": "🐏",
@@ -195,10 +199,6 @@
     {
       "basename": "梦幻状元",
       "path": "00.Box/梦幻状元.md"
-    },
-    {
-      "basename": "tools1",
-      "path": "06.工具/tools1.md"
     }
   ],
   "omittedPaths": []
