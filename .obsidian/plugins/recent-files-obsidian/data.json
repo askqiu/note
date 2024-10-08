@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "02.靶场/bp/未命名.md"
+    },
+    {
       "basename": "csrf",
       "path": "02.靶场/bp/csrf.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tools1",
       "path": "06.工具/tools1.md"
-    },
-    {
-      "basename": "tools0",
-      "path": "06.工具/tools0.md"
     }
   ],
   "omittedPaths": []
