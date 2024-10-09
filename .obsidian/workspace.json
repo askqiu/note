@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/xss.md",
+                "file": "09..垃圾箱/temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/bp/xss.md",
+                "file": "09..垃圾箱/temp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/bp/xss.md",
+                "file": "09..垃圾箱/temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/xss.md"
+                "file": "09..垃圾箱/temp.md"
               }
             }
           }
@@ -160,6 +160,8 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "02.靶场/bp/xss.md",
+    "02.靶场/bp/xxe.md",
     "09..垃圾箱/dellnote.md",
     "09..垃圾箱/temp.md",
     "07.src学习/文章分享/工具命令.md",
@@ -185,8 +187,6 @@
     "03.面试/研判.md",
     "03.面试/特征.md",
     "01.开发/前端/JavaScript.md",
-    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
-    "07.src学习/通用技术/通用技术.md",
     "0001.附件/Pasted image 20241002212134.png",
     "02.靶场/bp",
     "0001.附件/Pasted image 20240929090714.png",
