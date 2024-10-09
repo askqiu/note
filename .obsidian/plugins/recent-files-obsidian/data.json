@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "pentest",
+      "path": "09..垃圾箱/pentest.md"
+    },
+    {
       "basename": "temp",
       "path": "09..垃圾箱/temp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "graphql",
       "path": "08.漏洞原理/graphql.md"
-    },
-    {
-      "basename": "js登陆加密分析",
-      "path": "01.开发/前端/js登陆加密分析.md"
     }
   ],
   "omittedPaths": []

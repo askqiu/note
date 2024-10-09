@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09..垃圾箱/temp.md",
+                "file": "09..垃圾箱/pentest.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09..垃圾箱/temp.md",
+                "file": "09..垃圾箱/pentest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09..垃圾箱/temp.md",
+                "file": "09..垃圾箱/pentest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09..垃圾箱/temp.md"
+                "file": "09..垃圾箱/pentest.md"
               }
             }
           }
@@ -160,10 +160,11 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "09..垃圾箱/temp.md",
+    "09..垃圾箱/pentest.md",
     "02.靶场/bp/xss.md",
     "02.靶场/bp/xxe.md",
     "09..垃圾箱/dellnote.md",
-    "09..垃圾箱/temp.md",
     "07.src学习/文章分享/工具命令.md",
     "07.src学习/文章分享/他人/🐏.md",
     "07.src学习/杂记.md",
@@ -186,7 +187,6 @@
     "03.面试/应急.md",
     "03.面试/研判.md",
     "03.面试/特征.md",
-    "01.开发/前端/JavaScript.md",
     "0001.附件/Pasted image 20241002212134.png",
     "02.靶场/bp",
     "0001.附件/Pasted image 20240929090714.png",
