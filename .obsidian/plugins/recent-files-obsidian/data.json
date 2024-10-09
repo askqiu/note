@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
+    },
+    {
+      "basename": "dellnote",
+      "path": "09..垃圾箱/dellnote.md"
+    },
+    {
       "basename": "temp",
       "path": "09..垃圾箱/temp.md"
     },
@@ -133,10 +141,6 @@
       "path": "07.src学习/漏洞类/缓存类漏洞.md"
     },
     {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
-    },
-    {
       "basename": "xss payload",
       "path": "07.src学习/payload/xss payload.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "js登陆加密分析",
       "path": "01.开发/前端/js登陆加密分析.md"
-    },
-    {
-      "basename": "梦幻状元",
-      "path": "00.Box/梦幻状元.md"
     }
   ],
   "omittedPaths": []
