@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "dellnote",
+      "path": "09..垃圾箱/dellnote.md"
+    },
+    {
+      "basename": "important",
+      "path": "09..垃圾箱/important.md"
+    },
+    {
       "basename": "pentest",
       "path": "09..垃圾箱/pentest.md"
     },
@@ -17,10 +25,6 @@
       "path": "02.靶场/bp/xxe.md"
     },
     {
-      "basename": "dellnote",
-      "path": "09..垃圾箱/dellnote.md"
-    },
-    {
       "basename": "工具命令",
       "path": "07.src学习/文章分享/工具命令.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "杂记",
       "path": "07.src学习/杂记.md"
-    },
-    {
-      "basename": "important",
-      "path": "09..垃圾箱/important.md"
     },
     {
       "basename": "漏洞url",
