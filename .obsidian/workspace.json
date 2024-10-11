@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "09..垃圾箱/important.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "09..垃圾箱/important.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "09..垃圾箱/important.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools0.md"
+                "file": "09..垃圾箱/important.md"
               }
             }
           }
@@ -161,6 +160,7 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "06.工具/tools0.md",
     "07.src学习/通用技术/找接口/js源码分析.md",
     "07.src学习/通用技术/找接口/找接口.md",
     "07.src学习/通用技术/找接口/手动查看js源码.md",
@@ -188,7 +188,6 @@
     "02.靶场/靶场链接/graphql.md",
     "02.靶场/靶场链接/src.md",
     "02.靶场/bp/cors.md",
-    "02.靶场/bp/csrf.md",
     "02.靶场/bp/csrf.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241002212134.png",
     "02.靶场/bp",
