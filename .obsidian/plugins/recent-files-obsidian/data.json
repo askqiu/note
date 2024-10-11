@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "dellnote",
-      "path": "09..垃圾箱/dellnote.md"
-    },
-    {
-      "basename": "important",
-      "path": "09..垃圾箱/important.md"
+      "basename": "未命名",
+      "path": "09..垃圾箱/未命名.md"
     },
     {
       "basename": "pentest",
@@ -15,6 +11,18 @@
     {
       "basename": "temp",
       "path": "09..垃圾箱/temp.md"
+    },
+    {
+      "basename": "important",
+      "path": "09..垃圾箱/important.md"
+    },
+    {
+      "basename": "漏洞url",
+      "path": "09..垃圾箱/漏洞url.md"
+    },
+    {
+      "basename": "dellnote",
+      "path": "09..垃圾箱/dellnote.md"
     },
     {
       "basename": "xss",
@@ -35,10 +43,6 @@
     {
       "basename": "杂记",
       "path": "07.src学习/杂记.md"
-    },
-    {
-      "basename": "漏洞url",
-      "path": "09..垃圾箱/漏洞url.md"
     },
     {
       "basename": "graphql",
@@ -195,10 +199,6 @@
     {
       "basename": "xss获取cookie",
       "path": "06.工具/bp/xss获取cookie.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "08.漏洞原理/graphql.md"
     }
   ],
   "omittedPaths": []
