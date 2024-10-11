@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "西瓜",
+      "path": "07.src学习/西瓜.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "07.src学习/杂记.md"
+    },
+    {
       "basename": "未命名",
       "path": "09..垃圾箱/未命名.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "🐏",
       "path": "07.src学习/文章分享/他人/🐏.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "07.src学习/杂记.md"
     },
     {
       "basename": "graphql",
@@ -195,10 +199,6 @@
     {
       "basename": "springboot搭建登陆",
       "path": "01.开发/后端/springboot搭建登陆.md"
-    },
-    {
-      "basename": "xss获取cookie",
-      "path": "06.工具/bp/xss获取cookie.md"
     }
   ],
   "omittedPaths": []
