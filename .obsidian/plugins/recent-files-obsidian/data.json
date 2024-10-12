@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "《js for hacker》",
+      "path": "07.src学习/文章分享/《js for hacker》.md"
+    },
+    {
+      "basename": "xss获取cookie",
+      "path": "06.工具/bp/xss获取cookie.md"
+    },
+    {
       "basename": "important",
       "path": "09..垃圾箱/important.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "越权",
       "path": "07.src学习/漏洞类/越权.md"
-    },
-    {
-      "basename": "缓存类",
-      "path": "07.src学习/漏洞类/缓存类.md"
-    },
-    {
-      "basename": "xss自动化补充",
-      "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
     }
   ],
   "omittedPaths": []
