@@ -28,6 +28,7 @@
 ```
 
 ```
+八进制
 1 '\141'//a
 2 "\8"//number outside the octal range so 8 is returned
 3 `\9`//number outside the octal range so 9 is returned
