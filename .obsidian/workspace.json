@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09..垃圾箱/important.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09..垃圾箱/important.md"
+                "file": "07.src学习/通用技术/信息收集.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "09..垃圾箱/important.md",
     "04.渗透/sql注入.md",
     "09..垃圾箱/未命名.md",
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
     "07.src学习/通用技术/信息收集.md",
-    "09..垃圾箱/important.md",
     "09..垃圾箱/pentest.md",
     "09..垃圾箱/temp.md",
     "07.src学习/通用技术/通用技术.md",
