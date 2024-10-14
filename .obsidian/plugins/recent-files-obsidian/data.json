@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "《js for hacker》",
+      "path": "07.src学习/文章分享/《js for hacker》.md"
+    },
+    {
       "basename": "工具命令",
       "path": "07.src学习/文章分享/工具命令.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "通用技术",
       "path": "07.src学习/文章分享/通用技术.md"
-    },
-    {
-      "basename": "《js for hacker》",
-      "path": "07.src学习/文章分享/《js for hacker》.md"
     },
     {
       "basename": "xss获取cookie",
