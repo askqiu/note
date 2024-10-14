@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "工具命令",
+      "path": "07.src学习/文章分享/工具命令.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/通用技术/通用技术.md"
+    },
+    {
+      "basename": "tools1",
+      "path": "06.工具/tools1.md"
+    },
+    {
+      "basename": "xia",
+      "path": "07.src学习/文章分享/他人/xia.md"
+    },
+    {
+      "basename": "xss挖掘",
+      "path": "07.src学习/漏洞类/xss/xss挖掘.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/文章分享/通用技术.md"
+    },
+    {
       "basename": "《js for hacker》",
       "path": "07.src学习/文章分享/《js for hacker》.md"
     },
@@ -29,16 +53,8 @@
       "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
     },
     {
-      "basename": "工具命令",
-      "path": "07.src学习/文章分享/工具命令.md"
-    },
-    {
       "basename": "漏洞赏金猎人训练营",
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
-    },
-    {
-      "basename": "通用技术",
-      "path": "07.src学习/文章分享/通用技术.md"
     },
     {
       "basename": "西瓜",
@@ -63,10 +79,6 @@
     {
       "basename": "js登陆加密分析",
       "path": "01.开发/前端/js登陆加密分析.md"
-    },
-    {
-      "basename": "通用技术",
-      "path": "07.src学习/通用技术/通用技术.md"
     },
     {
       "basename": "未命名",
@@ -161,10 +173,6 @@
       "path": "03.面试/特征.md"
     },
     {
-      "basename": "xia",
-      "path": "07.src学习/文章分享/他人/xia.md"
-    },
-    {
       "basename": "未命名",
       "path": "07.src学习/漏洞类/未命名.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "atest",
       "path": "07.src学习/漏洞类/xss/atest.md"
-    },
-    {
-      "basename": "xss",
-      "path": "07.src学习/漏洞类/xss/xss.md"
-    },
-    {
-      "basename": "越权",
-      "path": "07.src学习/漏洞类/越权.md"
     }
   ],
   "omittedPaths": []
