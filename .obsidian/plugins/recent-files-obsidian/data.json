@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "04.渗透/08.原理/graphql.md"
+    },
+    {
+      "basename": "csrf",
+      "path": "04.渗透/08.原理/csrf.md"
+    },
+    {
+      "basename": "缓存中毒",
+      "path": "04.渗透/08.原理/缓存中毒.md"
+    },
+    {
       "basename": "信息收集",
       "path": "07.src学习/通用技术/信息收集.md"
     },
     {
       "basename": "important",
-      "path": "09..垃圾箱/important.md"
+      "path": "08..垃圾箱/important.md"
     },
     {
       "basename": "sql注入",
@@ -22,11 +38,11 @@
     },
     {
       "basename": "pentest",
-      "path": "09..垃圾箱/pentest.md"
+      "path": "08..垃圾箱/pentest.md"
     },
     {
       "basename": "temp",
-      "path": "09..垃圾箱/temp.md"
+      "path": "08..垃圾箱/temp.md"
     },
     {
       "basename": "通用技术",
@@ -106,11 +122,11 @@
     },
     {
       "basename": "漏洞url",
-      "path": "09..垃圾箱/漏洞url.md"
+      "path": "08..垃圾箱/漏洞url.md"
     },
     {
       "basename": "dellnote",
-      "path": "09..垃圾箱/dellnote.md"
+      "path": "08..垃圾箱/dellnote.md"
     },
     {
       "basename": "xss",
@@ -183,18 +199,6 @@
     {
       "basename": "特征",
       "path": "03.面试/特征.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "07.src学习/漏洞类/未命名.md"
-    },
-    {
-      "basename": "缓存类漏洞",
-      "path": "07.src学习/漏洞类/缓存类漏洞.md"
-    },
-    {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
     }
   ],
   "omittedPaths": []

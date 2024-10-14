@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "漏洞案例/知识星球xss.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "漏洞案例/知识星球xss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "漏洞案例/知识星球xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md"
+                "file": "漏洞案例/知识星球xss.md"
               }
             }
           }
@@ -160,14 +160,21 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
-    "09..垃圾箱/important.md",
+    "0001.附件/Pasted image 20241014211445.png",
+    "0001.附件/Pasted image 20241014211401.png",
+    "04.渗透/08.原理/graphql.md",
+    "漏洞案例/知识星球xss.md",
+    "漏洞案例",
+    "04.渗透/08.原理/csrf.md",
+    "04.渗透/08.原理/缓存中毒.md",
+    "07.src学习/通用技术/信息收集.md",
+    "08..垃圾箱/important.md",
     "04.渗透/sql注入.md",
     "09..垃圾箱/未命名.md",
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
-    "07.src学习/通用技术/信息收集.md",
-    "09..垃圾箱/pentest.md",
-    "09..垃圾箱/temp.md",
+    "08..垃圾箱/pentest.md",
+    "08..垃圾箱/temp.md",
     "07.src学习/通用技术/通用技术.md",
     "07.src学习/文章分享/通用技术.md",
     "07.src学习/西瓜.md",
@@ -181,11 +188,6 @@
     "06.工具/tools0.md",
     "07.src学习/通用技术/找接口/js源码分析.md",
     "07.src学习/通用技术/找接口/找接口.md",
-    "07.src学习/通用技术/找接口/手动查看js源码.md",
-    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
-    "07.src学习/杂记.md",
-    "01.开发/前端/客户端知识.md",
-    "01.开发/前端/JavaScript.md",
     "0001.附件/Pasted image 20241011213104.png",
     "0001.附件/Pasted image 20241010221532.png",
     "02.靶场/bp/csrf.md.baiduyun.uploading.cfg",
@@ -197,7 +199,6 @@
     "0001.附件/Pasted image 20240929085120.png",
     "0001.附件/Pasted image 20240929085055.png",
     "0001.附件/Pasted image 20240929085042.png",
-    "0001.附件/Pasted image 20240929085014.png",
     "07.src学习/通用技术",
     "07.src学习/漏洞类",
     "07.src学习/文章分享",
@@ -205,7 +206,6 @@
     "09..垃圾箱/important.md.baiduyun.uploading.cfg",
     "07.src学习/找接口/找接口.md.baiduyun.uploading.cfg",
     "07.src学习/他人/xia.md.baiduyun.uploading.cfg",
-    "07.src学习/xss/xss批量.md.baiduyun.uploading.cfg",
     "未命名.canvas"
   ]
 }
