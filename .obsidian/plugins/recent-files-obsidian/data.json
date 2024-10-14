@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "important",
+      "path": "09..垃圾箱/important.md"
+    },
+    {
+      "basename": "pentest",
+      "path": "09..垃圾箱/pentest.md"
+    },
+    {
+      "basename": "temp",
+      "path": "09..垃圾箱/temp.md"
+    },
+    {
+      "basename": "信息收集",
+      "path": "07.src学习/通用技术/信息收集.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/通用技术/通用技术.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/文章分享/通用技术.md"
+    },
+    {
+      "basename": "西瓜",
+      "path": "07.src学习/西瓜.md"
+    },
+    {
       "basename": "《js for hacker》",
       "path": "07.src学习/文章分享/《js for hacker》.md"
     },
     {
       "basename": "工具命令",
       "path": "07.src学习/文章分享/工具命令.md"
-    },
-    {
-      "basename": "通用技术",
-      "path": "07.src学习/通用技术/通用技术.md"
     },
     {
       "basename": "tools1",
@@ -25,16 +49,8 @@
       "path": "07.src学习/漏洞类/xss/xss挖掘.md"
     },
     {
-      "basename": "通用技术",
-      "path": "07.src学习/文章分享/通用技术.md"
-    },
-    {
       "basename": "xss获取cookie",
       "path": "06.工具/bp/xss获取cookie.md"
-    },
-    {
-      "basename": "important",
-      "path": "09..垃圾箱/important.md"
     },
     {
       "basename": "tools0",
@@ -55,10 +71,6 @@
     {
       "basename": "漏洞赏金猎人训练营",
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
-    },
-    {
-      "basename": "西瓜",
-      "path": "07.src学习/西瓜.md"
     },
     {
       "basename": "杂记",
@@ -83,14 +95,6 @@
     {
       "basename": "未命名",
       "path": "09..垃圾箱/未命名.md"
-    },
-    {
-      "basename": "pentest",
-      "path": "09..垃圾箱/pentest.md"
-    },
-    {
-      "basename": "temp",
-      "path": "09..垃圾箱/temp.md"
     },
     {
       "basename": "漏洞url",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "00.Box/未命名.md"
-    },
-    {
-      "basename": "atest",
-      "path": "07.src学习/漏洞类/xss/atest.md"
     }
   ],
   "omittedPaths": []
