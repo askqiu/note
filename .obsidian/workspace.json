@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "09..垃圾箱/important.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "09..垃圾箱/important.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "09..垃圾箱/important.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md"
+                "file": "09..垃圾箱/important.md"
               }
             }
           }
@@ -160,10 +160,14 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "04.渗透/sql注入.md",
+    "09..垃圾箱/未命名.md",
+    "04.渗透/权限提升.md",
+    "04.渗透/内网.md",
+    "07.src学习/通用技术/信息收集.md",
     "09..垃圾箱/important.md",
     "09..垃圾箱/pentest.md",
     "09..垃圾箱/temp.md",
-    "07.src学习/通用技术/信息收集.md",
     "07.src学习/通用技术/通用技术.md",
     "07.src学习/文章分享/通用技术.md",
     "07.src学习/西瓜.md",
@@ -182,12 +186,8 @@
     "07.src学习/杂记.md",
     "01.开发/前端/客户端知识.md",
     "01.开发/前端/JavaScript.md",
-    "01.开发/前端/JavaScript代码分析案例.md",
-    "01.开发/前端/js登陆加密分析.md",
     "0001.附件/Pasted image 20241011213104.png",
-    "09..垃圾箱/未命名.md",
     "0001.附件/Pasted image 20241010221532.png",
-    "09..垃圾箱/漏洞url.md",
     "02.靶场/bp/csrf.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241002212134.png",
     "02.靶场/bp",

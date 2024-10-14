@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "信息收集",
-      "path": "07.src学习/通用技术/信息收集.md"
-    },
-    {
       "basename": "important",
       "path": "09..垃圾箱/important.md"
+    },
+    {
+      "basename": "sql注入",
+      "path": "04.渗透/sql注入.md"
+    },
+    {
+      "basename": "权限提升",
+      "path": "04.渗透/权限提升.md"
+    },
+    {
+      "basename": "内网",
+      "path": "04.渗透/内网.md"
+    },
+    {
+      "basename": "信息收集",
+      "path": "07.src学习/通用技术/信息收集.md"
     },
     {
       "basename": "pentest",
@@ -91,10 +103,6 @@
     {
       "basename": "js登陆加密分析",
       "path": "01.开发/前端/js登陆加密分析.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "09..垃圾箱/未命名.md"
     },
     {
       "basename": "漏洞url",
@@ -187,18 +195,6 @@
     {
       "basename": "xss payload",
       "path": "07.src学习/payload/xss payload.md"
-    },
-    {
-      "basename": "测试专用",
-      "path": "00.Box/测试专用.md"
-    },
-    {
-      "basename": "感想",
-      "path": "00.Box/感想.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "00.Box/未命名.md"
     }
   ],
   "omittedPaths": []
