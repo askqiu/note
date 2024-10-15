@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08..垃圾箱/important.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08..垃圾箱/important.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08..垃圾箱/important.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08..垃圾箱/important.md"
+                "file": "07.src学习/通用技术/信息收集.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/杂记.md",
+    "08..垃圾箱/important.md",
     "08..垃圾箱/temp.md",
     "07.src学习/西瓜.md",
-    "07.src学习/杂记.md",
     "07.src学习/oauth赃物.md",
     "0001.附件/Pasted image 20241015202414.png",
     "07.src学习/通用技术/信息收集.md",
@@ -177,7 +178,6 @@
     "漏洞案例",
     "04.渗透/08.原理/csrf.md",
     "04.渗透/08.原理/缓存中毒.md",
-    "08..垃圾箱/important.md",
     "04.渗透/sql注入.md",
     "09..垃圾箱/未命名.md",
     "04.渗透/权限提升.md",
