@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "西瓜",
+      "path": "07.src学习/西瓜.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "07.src学习/杂记.md"
+    },
+    {
+      "basename": "oauth赃物",
+      "path": "07.src学习/oauth赃物.md"
+    },
+    {
       "basename": "信息收集",
       "path": "07.src学习/通用技术/信息收集.md"
     },
@@ -65,10 +77,6 @@
       "path": "07.src学习/通用技术/通用技术.md"
     },
     {
-      "basename": "西瓜",
-      "path": "07.src学习/西瓜.md"
-    },
-    {
       "basename": "《js for hacker》",
       "path": "07.src学习/文章分享/《js for hacker》.md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "手动查看js源码",
       "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "07.src学习/杂记.md"
     },
     {
       "basename": "客户端知识",
@@ -195,10 +199,6 @@
     {
       "basename": "应急",
       "path": "03.面试/应急.md"
-    },
-    {
-      "basename": "研判",
-      "path": "03.面试/研判.md"
     }
   ],
   "omittedPaths": []

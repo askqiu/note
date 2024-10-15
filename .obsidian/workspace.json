@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "07.src学习/西瓜.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "07.src学习/西瓜.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md",
+                "file": "07.src学习/西瓜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/通用技术/信息收集.md"
+                "file": "07.src学习/西瓜.md"
               }
             }
           }
@@ -160,10 +160,14 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20241015202414.png",
+    "07.src学习/杂记.md",
+    "07.src学习/oauth赃物.md",
+    "07.src学习/西瓜.md",
+    "07.src学习/通用技术/信息收集.md",
     "07.src学习/文章分享/他人/🐏.md",
     "07.src学习/文章分享/通用技术.md",
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
-    "07.src学习/通用技术/信息收集.md",
     "漏洞案例/知识星球xss.md",
     "07.src学习/漏洞类/xss/xss批量.md",
     "0001.附件/Pasted image 20241014211445.png",
@@ -180,15 +184,11 @@
     "08..垃圾箱/pentest.md",
     "08..垃圾箱/temp.md",
     "07.src学习/通用技术/通用技术.md",
-    "07.src学习/西瓜.md",
     "07.src学习/通用技术/未命名.md",
     "07.src学习/文章分享/《js for hacker》.md",
     "07.src学习/文章分享/工具命令.md",
     "06.工具/tools1.md",
     "07.src学习/文章分享/他人/xia.md",
-    "07.src学习/漏洞类/xss/xss挖掘.md",
-    "06.工具/bp/xss获取cookie.md",
-    "06.工具/tools0.md",
     "0001.附件/Pasted image 20241011213104.png",
     "0001.附件/Pasted image 20241010221532.png",
     "02.靶场/bp/csrf.md.baiduyun.uploading.cfg",
