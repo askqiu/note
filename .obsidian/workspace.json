@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "漏洞案例/知识星球xss.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "漏洞案例/知识星球xss.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "漏洞案例/知识星球xss.md",
+                "file": "07.src学习/通用技术/信息收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "漏洞案例/知识星球xss.md"
+                "file": "07.src学习/通用技术/信息收集.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
-    "07.src学习/通用技术/信息收集.md",
-    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
-    "07.src学习/文章分享/通用技术.md",
-    "07.src学习/漏洞类/xss/xss批量.md",
     "07.src学习/文章分享/他人/🐏.md",
+    "07.src学习/文章分享/通用技术.md",
+    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
+    "07.src学习/通用技术/信息收集.md",
     "漏洞案例/知识星球xss.md",
+    "07.src学习/漏洞类/xss/xss批量.md",
     "0001.附件/Pasted image 20241014211445.png",
     "0001.附件/Pasted image 20241014211401.png",
     "04.渗透/08.原理/graphql.md",
