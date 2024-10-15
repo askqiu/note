@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
+      "basename": "temp",
+      "path": "08..垃圾箱/temp.md"
+    },
+    {
       "basename": "西瓜",
       "path": "07.src学习/西瓜.md"
     },
@@ -49,10 +57,6 @@
       "path": "04.渗透/08.原理/缓存中毒.md"
     },
     {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
-    },
-    {
       "basename": "sql注入",
       "path": "04.渗透/sql注入.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "pentest",
       "path": "08..垃圾箱/pentest.md"
-    },
-    {
-      "basename": "temp",
-      "path": "08..垃圾箱/temp.md"
     },
     {
       "basename": "通用技术",
