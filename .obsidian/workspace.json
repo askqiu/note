@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/漏洞类/xss/xss自动化补充.md",
+                "file": "07.src学习/文章分享/他人/🐏.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xscan",
+                "query": "da",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/漏洞类/xss/xss自动化补充.md",
+                "file": "07.src学习/文章分享/他人/🐏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07.src学习/漏洞类/xss/xss自动化补充.md",
+                "file": "07.src学习/文章分享/他人/🐏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/漏洞类/xss/xss自动化补充.md"
+                "file": "07.src学习/文章分享/他人/🐏.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "07.src学习/漏洞类/xss/xss自动化补充.md",
     "07.src学习/通用技术/信息收集.md",
     "07.src学习/杂记.md",
     "08..垃圾箱/important.md",

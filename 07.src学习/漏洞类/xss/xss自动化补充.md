@@ -13,6 +13,7 @@ grep -v 'img'这样慢慢筛选
 前面生成参数字典，放进xscan的config.yaml
 
 ./xscan -url-file dell.txt
+ ./xscan spider --file subs_live.txt  --gau --gau-includesub
 
 扫到后，一个个把url的参数值拿下了ctrlf找，有可能是组合参数
 ![[Pasted image 20240906222844.png]]
