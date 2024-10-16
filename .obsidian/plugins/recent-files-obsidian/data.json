@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "java mvc",
+      "path": "01.开发/后端/java mvc.md"
+    },
+    {
+      "basename": "dellnote",
+      "path": "08..垃圾箱/dellnote.md"
+    },
+    {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
     },
@@ -141,10 +149,6 @@
       "path": "08..垃圾箱/漏洞url.md"
     },
     {
-      "basename": "dellnote",
-      "path": "08..垃圾箱/dellnote.md"
-    },
-    {
       "basename": "xss",
       "path": "02.靶场/bp/xss.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "得物sdl实习面试",
       "path": "03.面试/面经/得物sdl实习面试.md"
-    },
-    {
-      "basename": "自我介绍",
-      "path": "03.面试/自我介绍.md"
     }
   ],
   "omittedPaths": []
