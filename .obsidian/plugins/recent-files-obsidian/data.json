@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
       "basename": "important",
       "path": "08..垃圾箱/important.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "漏洞赏金猎人训练营",
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
-    },
-    {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
     },
     {
       "basename": "xss批量",
