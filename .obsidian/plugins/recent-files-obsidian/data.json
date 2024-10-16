@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "xss自动化补充",
+      "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
+    },
+    {
       "basename": "信息收集",
       "path": "07.src学习/通用技术/信息收集.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "自我介绍",
       "path": "03.面试/自我介绍.md"
-    },
-    {
-      "basename": "应急",
-      "path": "03.面试/应急.md"
     }
   ],
   "omittedPaths": []
