@@ -5,6 +5,10 @@
       "path": "漏洞案例/知识星球xss.md"
     },
     {
+      "basename": "postmessage",
+      "path": "07.src学习/漏洞类/xss/postmessage.md"
+    },
+    {
       "basename": "java mvc",
       "path": "01.开发/后端/java mvc.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "apikey",
       "path": "01.开发/架构知识/apikey.md"
-    },
-    {
-      "basename": "得物sdl实习面试",
-      "path": "03.面试/面经/得物sdl实习面试.md"
     }
   ],
   "omittedPaths": []

