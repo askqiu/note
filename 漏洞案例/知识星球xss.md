@@ -18,4 +18,8 @@ name="><svg onload="prompt(/xss/);"><!--
 4.cookie里的xss
 cookie: hav=xxx 反射到页面上
 payload:cookie:  hav=xss"</sc"ript><sv"g/onloa"d=al"ert"(document.do"main)>
-缓存投毒，http响应里的头Cache-Control和Expires
+缓存投毒，http响应里的头Cache-Control和Expires表明可以缓存
+还发现cookie明文存储在页面js的这个变量window.INITIAL_STATE.system.cookie
+
+厂商通过去除hav反射在页面修复该问题
+邦邦的https://hackerone.com/reports/1760213
