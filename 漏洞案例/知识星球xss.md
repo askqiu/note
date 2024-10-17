@@ -39,5 +39,14 @@ Te: trailers
 .js触发缓存。?xxxd缓存破坏器
 
 5.postmessage相关的xss
-网页存在代码![[Pasted image 20241017232723.png]]
-e.data有exec的话就用eval执行代码
+网页存在代码![[Pasted image 20241017232723.png|700]]
+e.data有exec的话就用eval执行代码，这里检查origin，但是不严格
+```
+可以构造https://hq.upserve.com.mydomain.com/xss.html
+页面里window.opener.postMessage({exec:'alert("xss")'},"https://inventory.upserve.com/login/);
+向目标网站发送一个包含代码执行的消息
+```
+推荐插件:postmessage tracker
+自动化工具：semgrep
+或者自己在开发者工具搜
+![[Pasted image 20241017233752.png]]

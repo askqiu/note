@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "漏洞案例/知识星球xss.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -160,6 +160,7 @@
   },
   "active": "25d41d4437acf29a",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20241017233752.png",
     "0001.附件/Pasted image 20241017232723.png",
     "07.src学习/漏洞类/xss/postmessage.md",
     "漏洞案例/知识星球xss.md",
@@ -198,7 +199,6 @@
     "0001.附件/Pasted image 20240929090714.png",
     "0001.附件/Pasted image 20240929090641.png",
     "0001.附件/Pasted image 20240929085125.png",
-    "0001.附件/Pasted image 20240929085120.png",
     "07.src学习/通用技术",
     "07.src学习/漏洞类",
     "07.src学习/文章分享",
