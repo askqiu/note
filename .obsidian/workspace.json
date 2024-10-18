@@ -25,12 +25,14 @@
             "id": "5d994cb3411f0b5c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "08..垃圾箱/temp.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "temp"
             }
           }
         ],
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "漏洞案例/知识星球xss.md",
+                "file": "08..垃圾箱/temp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "知识星球xss 的反向链接列表"
+              "title": "temp 的反向链接列表"
             }
           },
           {
@@ -135,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "漏洞案例/知识星球xss.md",
+                "file": "08..垃圾箱/temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "知识星球xss 的出链列表"
+              "title": "temp 的出链列表"
             }
           },
           {
@@ -162,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "漏洞案例/知识星球xss.md"
+                "file": "08..垃圾箱/temp.md"
               },
               "icon": "lucide-list",
-              "title": "知识星球xss 的大纲"
+              "title": "temp 的大纲"
             }
           }
         ],
@@ -191,18 +193,21 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20241018081725.png",
+    "0001.附件/Pasted image 20241018081542.png",
+    "08..垃圾箱/pentest.md",
+    "08..垃圾箱/dellnote.md",
+    "08..垃圾箱/important.md",
+    "08..垃圾箱/temp.md",
     "0001.附件/Pasted image 20241017233752.png",
     "0001.附件/Pasted image 20241017232723.png",
     "07.src学习/漏洞类/xss/postmessage.md",
     "漏洞案例/知识星球xss.md",
     "01.开发/后端/java mvc.md",
-    "08..垃圾箱/dellnote.md",
-    "08..垃圾箱/important.md",
     "07.src学习/文章分享/他人/🐏.md",
     "07.src学习/漏洞类/xss/xss自动化补充.md",
     "07.src学习/通用技术/信息收集.md",
     "07.src学习/杂记.md",
-    "08..垃圾箱/temp.md",
     "07.src学习/西瓜.md",
     "07.src学习/oauth赃物.md",
     "0001.附件/Pasted image 20241015202414.png",
@@ -219,7 +224,6 @@
     "09..垃圾箱/未命名.md",
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
-    "08..垃圾箱/pentest.md",
     "07.src学习/通用技术/通用技术.md",
     "07.src学习/通用技术/未命名.md",
     "0001.附件/Pasted image 20241011213104.png",
@@ -228,8 +232,6 @@
     "0001.附件/Pasted image 20241002212134.png",
     "02.靶场/bp",
     "0001.附件/Pasted image 20240929090714.png",
-    "0001.附件/Pasted image 20240929090641.png",
-    "0001.附件/Pasted image 20240929085125.png",
     "07.src学习/通用技术",
     "07.src学习/漏洞类",
     "07.src学习/文章分享",

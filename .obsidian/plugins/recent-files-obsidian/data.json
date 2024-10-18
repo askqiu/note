@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "temp",
+      "path": "08..垃圾箱/temp.md"
+    },
+    {
+      "basename": "pentest",
+      "path": "08..垃圾箱/pentest.md"
+    },
+    {
+      "basename": "dellnote",
+      "path": "08..垃圾箱/dellnote.md"
+    },
+    {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "java mvc",
       "path": "01.开发/后端/java mvc.md"
-    },
-    {
-      "basename": "dellnote",
-      "path": "08..垃圾箱/dellnote.md"
-    },
-    {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
     },
     {
       "basename": "🐏",
@@ -35,10 +43,6 @@
     {
       "basename": "杂记",
       "path": "07.src学习/杂记.md"
-    },
-    {
-      "basename": "temp",
-      "path": "08..垃圾箱/temp.md"
     },
     {
       "basename": "西瓜",
@@ -83,10 +87,6 @@
     {
       "basename": "内网",
       "path": "04.渗透/内网.md"
-    },
-    {
-      "basename": "pentest",
-      "path": "08..垃圾箱/pentest.md"
     },
     {
       "basename": "通用技术",
