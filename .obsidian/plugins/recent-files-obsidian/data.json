@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
       "basename": "fastfood",
       "path": "02.靶场/fastfood.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "important",
       "path": "08..垃圾箱/important.md"
-    },
-    {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
     },
     {
       "basename": "postmessage",

