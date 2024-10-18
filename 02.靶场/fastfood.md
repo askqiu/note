@@ -11,3 +11,4 @@
 payload：
 `https://www.bugbountytraining.com/fastfoodhackings/index.php?act=xxx--%3E%3Cimg%20src=1%20o%3Cscript%3Ener%3Cscript%3Eror=alert()%3E\\`
 在on之间插入置空的<script>
+

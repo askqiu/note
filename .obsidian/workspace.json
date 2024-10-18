@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/靶场链接/src.md",
+                "file": "02.靶场/fastfood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "src"
+              "title": "fastfood"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.靶场/靶场链接/src.md",
+                "file": "02.靶场/fastfood.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "src 的反向链接列表"
+              "title": "fastfood 的反向链接列表"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.靶场/靶场链接/src.md",
+                "file": "02.靶场/fastfood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "src 的出链列表"
+              "title": "fastfood 的出链列表"
             }
           },
           {
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/靶场链接/src.md"
+                "file": "02.靶场/fastfood.md"
               },
               "icon": "lucide-list",
-              "title": "src 的大纲"
+              "title": "fastfood 的大纲"
             }
           }
         ],
@@ -193,6 +193,7 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "02.靶场/靶场链接/src.md",
     "02.靶场/靶场链接/graphql.md",
     "08..垃圾箱/temp.md",
     "0001.附件/Pasted image 20241018081725.png",
@@ -226,7 +227,6 @@
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
     "07.src学习/通用技术/通用技术.md",
-    "07.src学习/通用技术/未命名.md",
     "0001.附件/Pasted image 20241011213104.png",
     "0001.附件/Pasted image 20241010221532.png",
     "02.靶场/bp/csrf.md.baiduyun.uploading.cfg",

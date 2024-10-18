@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
+    },
+    {
       "basename": "src",
       "path": "02.靶场/靶场链接/src.md"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "csrf",
       "path": "02.靶场/bp/csrf.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
     },
     {
       "basename": "ssrf",
