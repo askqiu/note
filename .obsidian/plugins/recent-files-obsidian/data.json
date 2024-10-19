@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "一年赏金两万五美刀",
+      "path": "07.src学习/文章分享/他人/一年赏金两万五美刀.md"
+    },
+    {
       "basename": "temp",
       "path": "08..垃圾箱/temp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "graphql",
       "path": "01.开发/架构知识/graphql.md"
-    },
-    {
-      "basename": "apikey",
-      "path": "01.开发/架构知识/apikey.md"
     }
   ],
   "omittedPaths": []
