@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
       "basename": "一年赏金两万五美刀",
       "path": "07.src学习/文章分享/他人/一年赏金两万五美刀.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "src",
       "path": "02.靶场/靶场链接/src.md"
-    },
-    {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
     },
     {
       "basename": "graphql",

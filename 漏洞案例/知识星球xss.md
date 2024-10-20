@@ -50,3 +50,23 @@ e.data有exec的话就用eval执行代码，这里检查origin，但是不严格
 自动化工具：semgrep
 或者自己在开发者工具搜
 ![[Pasted image 20241017233752.png]]
+
+# 6.没有绕过csp的2000刀xss
+https://hackerone.com/reports/1804177
+这里hunter的提交最初被关闭为selfxss。但是通过与审核沟通，这是一个能攻击管理员的存储xss
+在应用程序发现能够创建链接，并且被群组的人看到，于是
+使用此`javascript://%0aalert(1)`作为链接创建Custom Link（存在xss的功能）
+浏览器报错说csp阻止了，说明此处可能存在xss，于是报告漏洞
+
+思考：学会和审核沟通
+
+# 7.登陆错误的xss
+正常情况target.com/login?error=xxx
+攻击情况
+```
+target.com/login?error=<img src=1 onerror=alert()>
+```
+
+# 8.个人信息中心处xss
+某个字段可以编辑进行存储xss
+https://hackerone.com/reports/1921606
