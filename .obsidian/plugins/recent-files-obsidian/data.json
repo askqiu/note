@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
       "basename": "客户端知识",
       "path": "01.开发/前端/客户端知识.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "JavaScript",
       "path": "01.开发/前端/JavaScript.md"
-    },
-    {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
     },
     {
       "basename": "一年赏金两万五美刀",
