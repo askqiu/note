@@ -83,7 +83,7 @@ payload：
 弹窗
 ![[Pasted image 20241020112736.png]]
 
-# xss账户接管
+# 10.xss账户接管
 这里无法通过cookie窃取会话，但是发现https://www.sidefx.com/account/sessions/页面包含会话信息
 测试危害：向其他账号发送https://example.com/&quot&gtsadf&lt/a&gt&ltimg&#32src=&quotxx&quotonerror=&quotalert&#40&#39XSS&#39&#41&quot&gt，受害者打开后发现会弹窗
 
