@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "漏洞案例/知识星球xss.md",
+                "file": "02.靶场/bp/xss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识星球xss"
+              "title": "xss"
             }
           }
         ],
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "漏洞案例/知识星球xss.md"
+                "file": "02.靶场/bp/xss.md"
               },
               "icon": "lucide-list",
-              "title": "知识星球xss 的大纲"
+              "title": "xss 的大纲"
             }
           }
         ],
@@ -193,12 +193,12 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "漏洞案例/知识星球xss.md",
     "0001.附件/Pasted image 20241020133317.png",
     "01.开发/前端/客户端知识.md",
     "01.开发/前端/JavaScript代码分析案例.md",
     "01.开发/前端/js登陆加密分析.md",
     "01.开发/前端/JavaScript.md",
-    "漏洞案例/知识星球xss.md",
     "0001.附件/Pasted image 20241020112736.png",
     "0001.附件/Pasted image 20241020112514.png",
     "07.src学习/文章分享/他人/一年赏金两万五美刀.md",
@@ -209,7 +209,6 @@
     "0001.附件/Pasted image 20241019231714.png",
     "0001.附件/Pasted image 20241019231618.png",
     "0001.附件/Pasted image 20241019231345.png",
-    "0001.附件/Pasted image 20241019231017.png",
     "08..垃圾箱/temp.md",
     "02.靶场/fastfood.md",
     "02.靶场/靶场链接/src.md",
