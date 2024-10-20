@@ -275,12 +275,21 @@ payload
 
 # 实验室：使用 AngularJS 沙箱转义（不带字符串）的反射型 XSS
 
-https://YOUR-LAB-ID.web-security-academy.net/?search=1&toString().constructor.prototype.charAt%3d[].join;[1]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
+有关[[angularjs]]
+
+https://0ada00d8046237628073dfb0000500f1.web-security-academy.net/?search=xxx&toString().constructor.prototype.charAt%3d[].join;[1]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
 1. toString().constructor.prototype.charAt=[].join;：这部分代码首先调用 toString() 方法，它返回一个字符串对象。然后，通过 .constructor 属性获取这个字符串对象的构造函数，即 String 函数。接着，通过 .prototype 属性访问 String 函数的原型对象。最后，将 String.prototype.charAt 方法覆盖为 Array.prototype.join 方法。这样，任何字符串的 charAt 方法都会被替换为 join 方法，这可以导致 AngularJS 沙箱的保护机制被绕过。
 2. [1]|orderBy:：这里使用了一个数组 [1] 并将其传递给 orderBy 过滤器。orderBy 过滤器通常用于对数组进行排序，但在这里它被用于执行一个表达式。
 3. toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,41)=1：这部分代码再次使用 toString() 方法来创建一个不需要引号的字符串。然后，使用 String 构造函数的 fromCharCode 方法生成一个字符串。fromCharCode 方法接受一系列数字参数，这些数字代表字符的 Unicode 编码，然后返回对应的字符。在这个例子中，它生成了字符串 x=alert(1)。这个字符串被用作 orderBy 过滤器的参数。
-
+```
+toString().constructor.prototype.charAt%3d[].join;[1]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
+```
 
 个人理解：用join覆盖charat（关键），减少保护，然后
 toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,41)=1：这行代码使用 fromCharCode 方法生成一个字符串 x=alert(1)
-参数传递给orderby的时候会
+参数传递给orderby的时候会执行表达式，于是设置x=alert(),传递给他，就会执行
+
+总结来说，orderBy 过滤器在这个例子中的作用是：
+- 作为一个接收表达式参数的机制。
+- 触发表达式的执行，尽管这个表达式是恶意构造的。
+- 绕过 AngularJS 的沙箱保护，因为 charAt 方法已经被覆盖，破坏了沙箱的保护逻辑。

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "angularjs",
+      "path": "01.开发/前端/angularjs.md"
+    },
+    {
       "basename": "xss",
       "path": "02.靶场/bp/xss.md"
+    },
+    {
+      "basename": "js登陆加密分析",
+      "path": "01.开发/前端/js登陆加密分析.md"
+    },
+    {
+      "basename": "JavaScript代码分析案例",
+      "path": "01.开发/前端/JavaScript代码分析案例.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.开发/前端/JavaScript.md"
     },
     {
       "basename": "知识星球xss",
@@ -11,18 +27,6 @@
     {
       "basename": "客户端知识",
       "path": "01.开发/前端/客户端知识.md"
-    },
-    {
-      "basename": "JavaScript代码分析案例",
-      "path": "01.开发/前端/JavaScript代码分析案例.md"
-    },
-    {
-      "basename": "js登陆加密分析",
-      "path": "01.开发/前端/js登陆加密分析.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.开发/前端/JavaScript.md"
     },
     {
       "basename": "一年赏金两万五美刀",
@@ -195,10 +199,6 @@
     {
       "basename": "oauth",
       "path": "01.开发/架构知识/oauth.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "01.开发/架构知识/graphql.md"
     }
   ],
   "omittedPaths": []
