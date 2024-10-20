@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "java mvc",
+      "path": "01.开发/后端/java mvc.md"
+    },
+    {
+      "basename": "springboot搭建登陆",
+      "path": "01.开发/后端/springboot搭建登陆.md"
+    },
+    {
       "basename": "angularjs",
       "path": "01.开发/前端/angularjs.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "postmessage",
       "path": "07.src学习/漏洞类/xss/postmessage.md"
-    },
-    {
-      "basename": "java mvc",
-      "path": "01.开发/后端/java mvc.md"
     },
     {
       "basename": "🐏",
@@ -195,10 +199,6 @@
     {
       "basename": "websocket",
       "path": "01.开发/架构知识/websocket.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "01.开发/架构知识/oauth.md"
     }
   ],
   "omittedPaths": []
