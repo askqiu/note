@@ -5,6 +5,14 @@
       "path": "02.靶场/bp/xss.md"
     },
     {
+      "basename": "xss payload",
+      "path": "07.src学习/payload/xss payload.md"
+    },
+    {
+      "basename": "西瓜",
+      "path": "07.src学习/西瓜.md"
+    },
+    {
       "basename": "sql注入",
       "path": "04.渗透/08.原理/sql注入.md"
     },
@@ -29,16 +37,8 @@
       "path": "漏洞案例/知识星球xss.md"
     },
     {
-      "basename": "西瓜",
-      "path": "07.src学习/西瓜.md"
-    },
-    {
       "basename": "oauth赃物",
       "path": "07.src学习/oauth赃物.md"
-    },
-    {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
     },
     {
       "basename": "arjun",
