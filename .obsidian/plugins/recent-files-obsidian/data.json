@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "客户端知识",
+      "path": "01.开发/前端/客户端知识.md"
+    },
+    {
+      "basename": "JavaScript代码分析案例",
+      "path": "01.开发/前端/JavaScript代码分析案例.md"
+    },
+    {
+      "basename": "js登陆加密分析",
+      "path": "01.开发/前端/js登陆加密分析.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.开发/前端/JavaScript.md"
+    },
+    {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
     },
@@ -147,22 +163,6 @@
     {
       "basename": "手动查看js源码",
       "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
-    },
-    {
-      "basename": "客户端知识",
-      "path": "01.开发/前端/客户端知识.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.开发/前端/JavaScript.md"
-    },
-    {
-      "basename": "JavaScript代码分析案例",
-      "path": "01.开发/前端/JavaScript代码分析案例.md"
-    },
-    {
-      "basename": "js登陆加密分析",
-      "path": "01.开发/前端/js登陆加密分析.md"
     },
     {
       "basename": "漏洞url",
