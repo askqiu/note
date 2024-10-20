@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.开发/后端/java mvc.md",
+                "file": "02.靶场/bp/xss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "java mvc"
+              "title": "xss"
             }
           }
         ],
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.开发/后端/java mvc.md"
+                "file": "02.靶场/bp/xss.md"
               },
               "icon": "lucide-list",
-              "title": "java mvc 的大纲"
+              "title": "xss 的大纲"
             }
           }
         ],
@@ -193,13 +193,24 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "04.渗透/08.原理/sql注入.md",
+    "04.渗透/08.原理/XXE.md",
+    "04.渗透/08.原理/graphql.md",
+    "04.渗透/08.原理/csrf.md",
+    "04.渗透/08.原理/缓存中毒.md",
+    "漏洞案例/知识星球xss.md",
+    "07.src学习/西瓜.md",
+    "07.src学习/oauth赃物.md",
+    "07.src学习/payload/xss payload.md",
+    "06.工具/bugbounty/arjun.md",
+    "05.云安全/云渗透.md",
+    "01.开发/后端/java mvc.md",
     "01.开发/后端/springboot搭建登陆.md",
     "01.开发/前端/angularjs.md",
     "02.靶场/bp/xss.md",
     "01.开发/前端/js登陆加密分析.md",
     "01.开发/前端/JavaScript代码分析案例.md",
     "01.开发/前端/JavaScript.md",
-    "漏洞案例/知识星球xss.md",
     "0001.附件/Pasted image 20241020133317.png",
     "01.开发/前端/客户端知识.md",
     "0001.附件/Pasted image 20241020112736.png",
@@ -218,17 +229,6 @@
     "02.靶场/靶场链接/graphql.md",
     "08..垃圾箱/pentest.md",
     "08..垃圾箱/dellnote.md",
-    "08..垃圾箱/important.md",
-    "07.src学习/漏洞类/xss/postmessage.md",
-    "01.开发/后端/java mvc.md",
-    "07.src学习/文章分享/他人/🐏.md",
-    "07.src学习/漏洞类/xss/xss自动化补充.md",
-    "07.src学习/通用技术/信息收集.md",
-    "07.src学习/杂记.md",
-    "07.src学习/西瓜.md",
-    "07.src学习/oauth赃物.md",
-    "07.src学习/文章分享/通用技术.md",
-    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "漏洞案例",
     "02.靶场/bp/csrf.md.baiduyun.uploading.cfg",
     "02.靶场/bp",
