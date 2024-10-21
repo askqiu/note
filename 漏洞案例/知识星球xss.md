@@ -97,3 +97,8 @@ https://example.com/&quot&gtsadf&lt/a&gt&ltimg&#32src=&quotxxx&quotonerror=&quot
 由于网站存在论坛，可以在论坛发送payload进行危害发散
 
 思考：账号接管怎么做，如何造成危害（这里通过论坛去扩散危害），cookie被限制时候找找页面有没有存在会话信息的地方
+
+# 11.服务器错误处理cookie导致xss
+https://wx.zsxq.com/columns/48884815425228
+本来cookie中的字段以分号相隔为不同的cookie字段，但是这里服务器把空格也当成了分隔符，当攻击者用空格进行构造cookie的时候，服务器没有进行安全处理直接将cookie字段反射到页面造成xss
+思考：新的漏洞点，关注cookie等可能的header头也会有xss反射点
