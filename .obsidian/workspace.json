@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/xss.md",
+                "file": "07.src学习/文章分享/他人/一年赏金两万五美刀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xss"
+              "title": "一年赏金两万五美刀"
             }
           }
         ],
@@ -98,8 +98,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/xss.md"
+                "file": "07.src学习/文章分享/他人/一年赏金两万五美刀.md"
               },
               "icon": "lucide-list",
-              "title": "xss 的大纲"
+              "title": "一年赏金两万五美刀 的大纲"
             }
           }
         ],
@@ -176,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +193,13 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
+    "01.开发/后端/java案例.md",
+    "01.开发/后端/java mvc.md",
+    "01.开发/后端/springboot搭建登陆.md",
+    "02.靶场/bp/xss.md",
     "07.src学习/payload/xss payload.md",
     "07.src学习/西瓜.md",
-    "02.靶场/bp/xss.md",
     "04.渗透/08.原理/sql注入.md",
     "04.渗透/08.原理/XXE.md",
     "04.渗透/08.原理/graphql.md",
@@ -206,8 +209,6 @@
     "07.src学习/oauth赃物.md",
     "06.工具/bugbounty/arjun.md",
     "05.云安全/云渗透.md",
-    "01.开发/后端/java mvc.md",
-    "01.开发/后端/springboot搭建登陆.md",
     "01.开发/前端/angularjs.md",
     "01.开发/前端/js登陆加密分析.md",
     "01.开发/前端/JavaScript代码分析案例.md",
@@ -228,8 +229,6 @@
     "02.靶场/fastfood.md",
     "02.靶场/靶场链接/src.md",
     "02.靶场/靶场链接/graphql.md",
-    "08..垃圾箱/pentest.md",
-    "08..垃圾箱/dellnote.md",
     "漏洞案例",
     "02.靶场/bp/csrf.md.baiduyun.uploading.cfg",
     "02.靶场/bp",
