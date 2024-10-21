@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
+      "basename": "业务逻辑",
+      "path": "02.靶场/bp/业务逻辑.md"
+    },
+    {
       "basename": "一年赏金两万五美刀",
       "path": "07.src学习/文章分享/他人/一年赏金两万五美刀.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "缓存中毒",
       "path": "04.渗透/08.原理/缓存中毒.md"
-    },
-    {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
     },
     {
       "basename": "oauth赃物",
@@ -195,10 +199,6 @@
     {
       "basename": "找接口",
       "path": "07.src学习/通用技术/找接口/找接口.md"
-    },
-    {
-      "basename": "手动查看js源码",
-      "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
     }
   ],
   "omittedPaths": []
