@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "java案例",
+      "path": "01.开发/后端/java案例.md"
+    },
+    {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "漏洞赏金猎人训练营",
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
-    },
-    {
-      "basename": "java案例",
-      "path": "01.开发/后端/java案例.md"
     },
     {
       "basename": "java mvc",
