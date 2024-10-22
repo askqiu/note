@@ -15,3 +15,26 @@
 # 视图层
 作用
 是展现数据，
+
+userservice
+1、在service包中创建UserService接口
+2、添加登录注册需要用到的业务逻辑方法
+
+实现UserServiceImpl
+1、在serviceImpl包中创建UserServiceImpl类
+2、添加需要实现的方法
+3、实现登录业务逻辑
+
+因为要用到UserDao中的方法，所以先通过@Resource注解帮助我们实例化UserDao对象
+4、实现注册业务逻辑
+5、添加@Service注解
+
+实现UserController
+1、在controller包中创建UserController类
+2、添加@RestController与@RequestMapping(“/user”)注解，注入UserService
+注解
+3、实现登录的控制
+4、实现注册的控制
+@RequestMapping中的"/user"是这个控制器类的基路由
+@PostMapping(“/login”)表示处理post请求，路由为/user/login
+@PostMapping(“/register”)表示处理post请求，路由为/user/register
