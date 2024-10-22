@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "逻辑漏洞",
+      "path": "07.src学习/漏洞类/逻辑漏洞.md"
+    },
+    {
       "basename": "temp",
       "path": "08..垃圾箱/temp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "js源码分析",
       "path": "07.src学习/通用技术/找接口/js源码分析.md"
-    },
-    {
-      "basename": "找接口",
-      "path": "07.src学习/通用技术/找接口/找接口.md"
     }
   ],
   "omittedPaths": []
