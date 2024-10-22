@@ -1,43 +1,38 @@
+logincookie
+<?php
+header('Content-type: text/html; charset=utf-8');
+if(($_POST['username']!=null) && ($_POST['password']!=null)){
+    $userName=$_POST['username'];
+    $password=$_POST['password'];
+$conn=mysqli_connect('localhost','admin','admin123');
+    if ($conn === false) {
+     die("ERROR: Could not connect. " . mysqli_connect_error());
+}
+
+mysqli_select_db($conn,'login');
+$sql="select * from user where username = '$userName'";
+$res=mysqli_query($conn,$sql);
+$row=mysqli_fetch_array($res);
+
+if($row['username']!=$userName){
+    echo '登陆不能';
+    header('Location:fail.php');
+}
+else if($row['username']!=$userName||$row['password']!=$password) {
+    echo '不能登陆';
+    header('Location:fail.php');
+}
+elseif($row['username']==$userName&&$row['password'] ==$password) {    
+    //如果密码验证通过，设置一个cookies，把用户名保存在客户端
+    setcookie('username',$userName,time()+3600);//设置一个小时
+    //最后跳转到登录后的欢迎页面
+    echo '登陆成功';
+    header('Location:welcome.php');//跳转到最后的欢迎页面
+}
 
 
-![[Pasted image 20241018081542.png]]
-
-
-```
-#!/bin/bash
-### BEGIN INIT INFO
-# Provides:          automount-nfs
-# Required-Start:    $remote_fs $syslog
-# Required-Stop:     $remote_fs $syslog
-# Default-Start:     2 3 4 5
-# Default-Stop:      0 1 6
-# Description:       Automatically mount NFS shares at startup.
-### END INIT INFO
-
-# Change these variables to your NFS settings
-NFS_SERVER="nfs.example.com"
-NFS_PATH="/path/to/share"
-MOUNT_POINT="/mnt/nfs"
-
-# Create mount point if it doesn't exist
-if [ ! -d "$MOUNT_POINT" ]; then
-    mkdir -p "$MOUNT_POINT"
-fi
-
-# Mount the NFS share
-mount -t nfs "$NFS_SERVER:$NFS_PATH" "$MOUNT_POINT"
-
-# Check if the mount was successful
-if mount | grep "$MOUNT_POINT" > /dev/null; then
-    echo "NFS share mounted successfully."
-else
-    echo "Failed to mount NFS share."
-    exit 1
-fi
-```
-
-测试![[Pasted image 20241018081725.png]]
-
-我知道你们有人在学
-包没有的
-Qq1537276240.
+}
+else {
+	echo '登陆失败';
+	header('Location:fail.php');//跳转到失败页面
+}

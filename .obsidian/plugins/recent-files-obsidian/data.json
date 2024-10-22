@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "temp",
+      "path": "08..垃圾箱/temp.md"
+    },
+    {
       "basename": "java案例",
       "path": "01.开发/后端/java案例.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "客户端知识",
       "path": "01.开发/前端/客户端知识.md"
-    },
-    {
-      "basename": "temp",
-      "path": "08..垃圾箱/temp.md"
     },
     {
       "basename": "fastfood",
