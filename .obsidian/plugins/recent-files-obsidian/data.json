@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "postmessage",
+      "path": "07.src学习/漏洞类/xss/postmessage.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "07.src学习/漏洞类/未命名 1.md"
+    },
+    {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
     },
@@ -125,10 +133,6 @@
       "path": "08..垃圾箱/important.md"
     },
     {
-      "basename": "postmessage",
-      "path": "07.src学习/漏洞类/xss/postmessage.md"
-    },
-    {
       "basename": "🐏",
       "path": "07.src学习/文章分享/他人/🐏.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tools0",
       "path": "06.工具/tools0.md"
-    },
-    {
-      "basename": "js源码分析",
-      "path": "07.src学习/通用技术/找接口/js源码分析.md"
     }
   ],
   "omittedPaths": []
