@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "tools0",
+      "path": "06.工具/tools0.md"
+    },
+    {
       "basename": "postmessage",
       "path": "07.src学习/漏洞类/xss/postmessage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "xss获取cookie",
       "path": "06.工具/bp/xss获取cookie.md"
-    },
-    {
-      "basename": "tools0",
-      "path": "06.工具/tools0.md"
     }
   ],
   "omittedPaths": []
