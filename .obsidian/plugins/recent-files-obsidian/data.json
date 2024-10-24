@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "业务逻辑",
+      "path": "02.靶场/bp/业务逻辑.md"
+    },
+    {
       "basename": "逻辑漏洞",
       "path": "07.src学习/漏洞类/逻辑漏洞.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "java案例",
       "path": "01.开发/后端/java案例.md"
-    },
-    {
-      "basename": "业务逻辑",
-      "path": "02.靶场/bp/业务逻辑.md"
     },
     {
       "basename": "一年赏金两万五美刀",
