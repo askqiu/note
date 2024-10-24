@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools0.md",
+                "file": "07.src学习/漏洞类/逻辑漏洞.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tools0"
+              "title": "逻辑漏洞"
             }
           }
         ],
@@ -98,8 +98,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools0.md"
+                "file": "07.src学习/漏洞类/逻辑漏洞.md"
               },
               "icon": "lucide-list",
-              "title": "tools0 的大纲"
+              "title": "逻辑漏洞 的大纲"
             }
           }
         ],
@@ -194,6 +193,7 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "06.工具/tools0.md",
     "07.src学习/漏洞类/xss/postmessage.md",
     "0001.附件/Pasted image 20241023231109.png.baiduyun.uploading.cfg",
     "07.src学习/漏洞类/xss/postmessage.md.baiduyun.uploading.cfg",
