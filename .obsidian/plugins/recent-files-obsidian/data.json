@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
+    },
+    {
       "basename": "xss自动化补充",
       "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
     },
@@ -85,10 +93,6 @@
       "path": "07.src学习/oauth赃物.md"
     },
     {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
-    },
-    {
       "basename": "java mvc",
       "path": "01.开发/后端/java mvc.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "fastfood",
       "path": "02.靶场/fastfood.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
     },
     {
       "basename": "waf",
