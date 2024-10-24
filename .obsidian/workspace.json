@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/漏洞类/逻辑漏洞.md",
+                "file": "01.开发/前端/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逻辑漏洞"
+              "title": "JavaScript"
             }
           }
         ],
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/漏洞类/逻辑漏洞.md"
+                "file": "01.开发/前端/JavaScript.md"
               },
               "icon": "lucide-list",
-              "title": "逻辑漏洞 的大纲"
+              "title": "JavaScript 的大纲"
             }
           }
         ],
@@ -193,20 +193,21 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "01.开发/前端/JavaScript代码分析案例.md",
+    "01.开发/前端/JavaScript.md",
+    "01.开发/前端/angularjs.md",
+    "01.开发/前端/客户端知识.md",
+    "01.开发/后端/springboot搭建登陆.md",
+    "07.src学习/漏洞类/逻辑漏洞.md",
     "07.src学习/漏洞类/缓存类.md",
     "07.src学习/漏洞类/缓存类漏洞.md",
-    "07.src学习/漏洞类/逻辑漏洞.md",
     "07.src学习/漏洞类/xss/xss挖掘.md",
     "07.src学习/漏洞类/xss/xss自动化补充.md",
     "07.src学习/漏洞类/xss/postmessage.md",
     "01.开发/架构知识/oauth.md",
     "01.开发/架构知识/websocket.md",
-    "01.开发/前端/angularjs.md",
-    "01.开发/前端/客户端知识.md",
     "02.靶场/bp/cors.md",
     "02.靶场/bp/业务逻辑.md",
-    "01.开发/前端/JavaScript.md",
-    "01.开发/前端/JavaScript代码分析案例.md",
     "07.src学习/漏洞类/未命名 1.md",
     "07.src学习/漏洞类/越权.md",
     "07.src学习/payload/xss payload.md",
@@ -218,7 +219,6 @@
     "01.开发/后端/推荐网站.md",
     "01.开发/架构知识/apikey.md",
     "01.开发/架构知识/graphql.md",
-    "01.开发/前端/js登陆加密分析.md",
     "0001.附件/Pasted image 20241024162404.png.baiduyun.uploading.cfg",
     "漏洞案例/知识星球xss.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241024162404.png",
