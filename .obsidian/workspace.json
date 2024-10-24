@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.开发/前端/JavaScript.md",
+                "file": "07.src学习/漏洞类/xss/xss自动化补充.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "xss自动化补充"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xray",
+                "query": "xsca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.开发/前端/JavaScript.md"
+                "file": "07.src学习/漏洞类/xss/xss自动化补充.md"
               },
               "icon": "lucide-list",
-              "title": "JavaScript 的大纲"
+              "title": "xss自动化补充 的大纲"
             }
           }
         ],
@@ -193,8 +194,8 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
-    "01.开发/前端/JavaScript代码分析案例.md",
     "01.开发/前端/JavaScript.md",
+    "01.开发/前端/JavaScript代码分析案例.md",
     "01.开发/前端/angularjs.md",
     "01.开发/前端/客户端知识.md",
     "01.开发/后端/springboot搭建登陆.md",

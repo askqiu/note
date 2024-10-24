@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "xss自动化补充",
+      "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
+    },
+    {
       "basename": "JavaScript",
       "path": "01.开发/前端/JavaScript.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "xss挖掘",
       "path": "07.src学习/漏洞类/xss/xss挖掘.md"
-    },
-    {
-      "basename": "xss自动化补充",
-      "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
     },
     {
       "basename": "postmessage",
