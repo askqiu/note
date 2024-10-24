@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "漏洞url",
-      "path": "08..垃圾箱/漏洞url.md"
-    },
-    {
       "basename": "important",
       "path": "08..垃圾箱/important.md"
+    },
+    {
+      "basename": "手动查看js源码",
+      "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
+    },
+    {
+      "basename": "漏洞url",
+      "path": "08..垃圾箱/漏洞url.md"
     },
     {
       "basename": "知识星球xss",
@@ -195,10 +199,6 @@
     {
       "basename": "漏洞赏金猎人训练营",
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
-    },
-    {
-      "basename": "sql注入",
-      "path": "04.渗透/08.原理/sql注入.md"
     }
   ],
   "omittedPaths": []
