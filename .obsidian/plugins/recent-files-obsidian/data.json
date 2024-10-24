@@ -1,28 +1,176 @@
 {
   "recentFiles": [
     {
-      "basename": "业务逻辑",
-      "path": "02.靶场/bp/业务逻辑.md"
-    },
-    {
       "basename": "逻辑漏洞",
       "path": "07.src学习/漏洞类/逻辑漏洞.md"
     },
     {
-      "basename": "tools0",
-      "path": "06.工具/tools0.md"
+      "basename": "缓存类",
+      "path": "07.src学习/漏洞类/缓存类.md"
+    },
+    {
+      "basename": "缓存类漏洞",
+      "path": "07.src学习/漏洞类/缓存类漏洞.md"
+    },
+    {
+      "basename": "xss挖掘",
+      "path": "07.src学习/漏洞类/xss/xss挖掘.md"
+    },
+    {
+      "basename": "xss自动化补充",
+      "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
     },
     {
       "basename": "postmessage",
       "path": "07.src学习/漏洞类/xss/postmessage.md"
     },
     {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
+      "basename": "oauth",
+      "path": "01.开发/架构知识/oauth.md"
+    },
+    {
+      "basename": "websocket",
+      "path": "01.开发/架构知识/websocket.md"
+    },
+    {
+      "basename": "angularjs",
+      "path": "01.开发/前端/angularjs.md"
+    },
+    {
+      "basename": "客户端知识",
+      "path": "01.开发/前端/客户端知识.md"
+    },
+    {
+      "basename": "cors",
+      "path": "02.靶场/bp/cors.md"
+    },
+    {
+      "basename": "业务逻辑",
+      "path": "02.靶场/bp/业务逻辑.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.开发/前端/JavaScript.md"
+    },
+    {
+      "basename": "JavaScript代码分析案例",
+      "path": "01.开发/前端/JavaScript代码分析案例.md"
     },
     {
       "basename": "未命名 1",
       "path": "07.src学习/漏洞类/未命名 1.md"
+    },
+    {
+      "basename": "越权",
+      "path": "07.src学习/漏洞类/越权.md"
+    },
+    {
+      "basename": "xss payload",
+      "path": "07.src学习/payload/xss payload.md"
+    },
+    {
+      "basename": "西瓜",
+      "path": "07.src学习/西瓜.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "07.src学习/杂记.md"
+    },
+    {
+      "basename": "oauth赃物",
+      "path": "07.src学习/oauth赃物.md"
+    },
+    {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
+      "basename": "java mvc",
+      "path": "01.开发/后端/java mvc.md"
+    },
+    {
+      "basename": "推荐网站",
+      "path": "01.开发/后端/推荐网站.md"
+    },
+    {
+      "basename": "apikey",
+      "path": "01.开发/架构知识/apikey.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "01.开发/架构知识/graphql.md"
+    },
+    {
+      "basename": "js登陆加密分析",
+      "path": "01.开发/前端/js登陆加密分析.md"
+    },
+    {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
+      "basename": "ssrf",
+      "path": "02.靶场/bp/ssrf.md"
+    },
+    {
+      "basename": "xxe",
+      "path": "02.靶场/bp/xxe.md"
+    },
+    {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
+    },
+    {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
+    },
+    {
+      "basename": "waf",
+      "path": "04.渗透/waf.md"
+    },
+    {
+      "basename": "sql注入",
+      "path": "04.渗透/sql注入.md"
+    },
+    {
+      "basename": "权限提升",
+      "path": "04.渗透/权限提升.md"
+    },
+    {
+      "basename": "内网",
+      "path": "04.渗透/内网.md"
+    },
+    {
+      "basename": "信息收集",
+      "path": "07.src学习/通用技术/信息收集.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/通用技术/通用技术.md"
+    },
+    {
+      "basename": "js源码分析",
+      "path": "07.src学习/通用技术/找接口/js源码分析.md"
+    },
+    {
+      "basename": "找接口",
+      "path": "07.src学习/通用技术/找接口/找接口.md"
+    },
+    {
+      "basename": "xss批量",
+      "path": "07.src学习/漏洞类/xss/xss批量.md"
+    },
+    {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
+      "basename": "dellnote",
+      "path": "08..垃圾箱/dellnote.md"
+    },
+    {
+      "basename": "tools0",
+      "path": "06.工具/tools0.md"
     },
     {
       "basename": "temp",
@@ -41,24 +189,8 @@
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
     },
     {
-      "basename": "java mvc",
-      "path": "01.开发/后端/java mvc.md"
-    },
-    {
       "basename": "springboot搭建登陆",
       "path": "01.开发/后端/springboot搭建登陆.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
-    },
-    {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
-    },
-    {
-      "basename": "西瓜",
-      "path": "07.src学习/西瓜.md"
     },
     {
       "basename": "sql注入",
@@ -67,138 +199,6 @@
     {
       "basename": "XXE",
       "path": "04.渗透/08.原理/XXE.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "04.渗透/08.原理/graphql.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "04.渗透/08.原理/csrf.md"
-    },
-    {
-      "basename": "缓存中毒",
-      "path": "04.渗透/08.原理/缓存中毒.md"
-    },
-    {
-      "basename": "oauth赃物",
-      "path": "07.src学习/oauth赃物.md"
-    },
-    {
-      "basename": "arjun",
-      "path": "06.工具/bugbounty/arjun.md"
-    },
-    {
-      "basename": "云渗透",
-      "path": "05.云安全/云渗透.md"
-    },
-    {
-      "basename": "angularjs",
-      "path": "01.开发/前端/angularjs.md"
-    },
-    {
-      "basename": "js登陆加密分析",
-      "path": "01.开发/前端/js登陆加密分析.md"
-    },
-    {
-      "basename": "JavaScript代码分析案例",
-      "path": "01.开发/前端/JavaScript代码分析案例.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.开发/前端/JavaScript.md"
-    },
-    {
-      "basename": "客户端知识",
-      "path": "01.开发/前端/客户端知识.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
-    },
-    {
-      "basename": "src",
-      "path": "02.靶场/靶场链接/src.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "02.靶场/靶场链接/graphql.md"
-    },
-    {
-      "basename": "pentest",
-      "path": "08..垃圾箱/pentest.md"
-    },
-    {
-      "basename": "dellnote",
-      "path": "08..垃圾箱/dellnote.md"
-    },
-    {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
-    },
-    {
-      "basename": "🐏",
-      "path": "07.src学习/文章分享/他人/🐏.md"
-    },
-    {
-      "basename": "xss自动化补充",
-      "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
-    },
-    {
-      "basename": "信息收集",
-      "path": "07.src学习/通用技术/信息收集.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "07.src学习/杂记.md"
-    },
-    {
-      "basename": "通用技术",
-      "path": "07.src学习/文章分享/通用技术.md"
-    },
-    {
-      "basename": "xss批量",
-      "path": "07.src学习/漏洞类/xss/xss批量.md"
-    },
-    {
-      "basename": "sql注入",
-      "path": "04.渗透/sql注入.md"
-    },
-    {
-      "basename": "权限提升",
-      "path": "04.渗透/权限提升.md"
-    },
-    {
-      "basename": "内网",
-      "path": "04.渗透/内网.md"
-    },
-    {
-      "basename": "通用技术",
-      "path": "07.src学习/通用技术/通用技术.md"
-    },
-    {
-      "basename": "《js for hacker》",
-      "path": "07.src学习/文章分享/《js for hacker》.md"
-    },
-    {
-      "basename": "工具命令",
-      "path": "07.src学习/文章分享/工具命令.md"
-    },
-    {
-      "basename": "tools1",
-      "path": "06.工具/tools1.md"
-    },
-    {
-      "basename": "xia",
-      "path": "07.src学习/文章分享/他人/xia.md"
-    },
-    {
-      "basename": "xss挖掘",
-      "path": "07.src学习/漏洞类/xss/xss挖掘.md"
-    },
-    {
-      "basename": "xss获取cookie",
-      "path": "06.工具/bp/xss获取cookie.md"
     }
   ],
   "omittedPaths": []

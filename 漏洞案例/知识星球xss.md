@@ -160,3 +160,12 @@ location: //x:1/://dev.twitter.com/javascript:alert(document.cookie)
 
 # 14，通过文件上传进行xss
 ![[Pasted image 20241023223521.png]]
+
+# 15.通过”创建“来造成xss
+这里有三个案例
+通过创建邮箱模板触发xss
+上传一个文件的文件名字触发xss
+
+思考：创建服务，邮箱，反正这类能创建东西的，他的名字，内容，都有可能存在xss
+最后附上一段话
+![[Pasted image 20241024162404.png]]
