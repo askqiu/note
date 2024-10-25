@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "漏洞url",
+      "path": "08..垃圾箱/漏洞url.md"
+    },
+    {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
       "basename": "业务逻辑",
       "path": "02.靶场/bp/业务逻辑.md"
     },
@@ -13,16 +21,8 @@
       "path": "08..垃圾箱/pentest.md"
     },
     {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
-    },
-    {
       "basename": "手动查看js源码",
       "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
-    },
-    {
-      "basename": "漏洞url",
-      "path": "08..垃圾箱/漏洞url.md"
     },
     {
       "basename": "知识星球xss",
