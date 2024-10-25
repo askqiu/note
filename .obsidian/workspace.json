@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08..垃圾箱/temp.md",
+                "file": "02.靶场/bp/业务逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "业务逻辑"
             }
           }
         ],
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08..垃圾箱/temp.md"
+                "file": "02.靶场/bp/业务逻辑.md"
               },
               "icon": "lucide-list",
-              "title": "temp 的大纲"
+              "title": "业务逻辑 的大纲"
             }
           }
         ],
@@ -193,6 +193,8 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "02.靶场/bp/业务逻辑.md.baiduyun.uploading.cfg",
+    "08..垃圾箱/temp.md",
     "08..垃圾箱/temp.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241025081043.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241025081043.png",
@@ -221,11 +223,9 @@
     "07.src学习/漏洞类/未命名 1.md",
     "07.src学习/漏洞类/越权.md",
     "07.src学习/payload/xss payload.md",
-    "07.src学习/西瓜.md",
     "0001.附件/Pasted image 20241024162404.png.baiduyun.uploading.cfg",
     "漏洞案例/知识星球xss.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241024162404.png",
-    "02.靶场/bp/业务逻辑.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241024161130.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241024161130.png",
     "0001.附件/Pasted image 20241023231109.png.baiduyun.uploading.cfg",
@@ -233,7 +233,6 @@
     "0001.附件/Pasted image 20241023231109.png",
     "0001.附件/Pasted image 20241023223521.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241023223521.png",
-    "0001.附件/Pasted image 20241023222842.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241023222842.png",
     "0001.附件/Pasted image 20241023213742.png",
     "0001.附件/Pasted image 20241021230206.png",

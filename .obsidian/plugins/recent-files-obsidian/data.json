@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "业务逻辑",
+      "path": "02.靶场/bp/业务逻辑.md"
+    },
+    {
       "basename": "temp",
       "path": "08..垃圾箱/temp.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "cors",
       "path": "02.靶场/bp/cors.md"
-    },
-    {
-      "basename": "业务逻辑",
-      "path": "02.靶场/bp/业务逻辑.md"
     },
     {
       "basename": "未命名 1",
