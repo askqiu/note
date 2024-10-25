@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "temp",
+      "path": "08..垃圾箱/temp.md"
+    },
+    {
+      "basename": "pentest",
+      "path": "08..垃圾箱/pentest.md"
+    },
+    {
       "basename": "important",
       "path": "08..垃圾箱/important.md"
     },
@@ -185,20 +193,12 @@
       "path": "06.工具/tools0.md"
     },
     {
-      "basename": "temp",
-      "path": "08..垃圾箱/temp.md"
-    },
-    {
       "basename": "java案例",
       "path": "01.开发/后端/java案例.md"
     },
     {
       "basename": "一年赏金两万五美刀",
       "path": "07.src学习/文章分享/他人/一年赏金两万五美刀.md"
-    },
-    {
-      "basename": "漏洞赏金猎人训练营",
-      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
     }
   ],
   "omittedPaths": []
