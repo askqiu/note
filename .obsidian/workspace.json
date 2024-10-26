@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/业务逻辑.md",
+                "file": "08..垃圾箱/dellnote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "业务逻辑"
+              "title": "dellnote"
             }
           }
         ],
@@ -98,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/业务逻辑.md"
+                "file": "08..垃圾箱/dellnote.md"
               },
               "icon": "lucide-list",
-              "title": "业务逻辑 的大纲"
+              "title": "dellnote 的大纲"
             }
           }
         ],
@@ -191,22 +192,28 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "5d994cb3411f0b5c",
+  "active": "24922f586ad3e01f",
   "lastOpenFiles": [
+    "08..垃圾箱/漏洞url.md",
+    "08..垃圾箱/dellnote.md",
+    "08..垃圾箱/temp.md",
+    "漏洞案例/知识星球xss.md",
+    "0001.附件/Pasted image 20241026114512.png.baiduyun.uploading.cfg",
+    "漏洞案例/知识星球xss.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241026114512.png",
+    "0001.附件/Pasted image 20241026114429.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241026114429.png",
+    "02.靶场/bp/业务逻辑.md",
     "0001.附件/Pasted image 20241026113037.png.baiduyun.uploading.cfg",
     "02.靶场/bp/业务逻辑.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241026113037.png",
-    "08..垃圾箱/漏洞url.md",
     "08..垃圾箱/important.md",
-    "02.靶场/bp/业务逻辑.md",
-    "08..垃圾箱/temp.md",
     "08..垃圾箱/temp.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241025081043.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241025081043.png",
     "08..垃圾箱/pentest.md",
     "07.src学习/通用技术/找接口/手动查看js源码.md",
     "08..垃圾箱/漏洞url.md.baiduyun.uploading.cfg",
-    "漏洞案例/知识星球xss.md",
     "02.靶场/bp/xss.md",
     "07.src学习/漏洞类/xss/xss自动化补充.md",
     "01.开发/前端/JavaScript.md",
@@ -226,19 +233,13 @@
     "07.src学习/漏洞类/越权.md",
     "07.src学习/payload/xss payload.md",
     "0001.附件/Pasted image 20241024162404.png.baiduyun.uploading.cfg",
-    "漏洞案例/知识星球xss.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241024162404.png",
     "0001.附件/Pasted image 20241024161130.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241024161130.png",
-    "0001.附件/Pasted image 20241023231109.png.baiduyun.uploading.cfg",
-    "07.src学习/漏洞类/xss/postmessage.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241023231109.png",
-    "0001.附件/Pasted image 20241023223521.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241023223521.png",
     "0001.附件/Pasted image 20241023222842.png",
     "0001.附件/Pasted image 20241023213742.png",
-    "0001.附件/Pasted image 20241021230206.png",
-    "0001.附件/Pasted image 20241021230142.png",
     "未命名.canvas"
   ]
 }

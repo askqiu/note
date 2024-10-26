@@ -169,3 +169,7 @@ location: //x:1/://dev.twitter.com/javascript:alert(document.cookie)
 思考：创建服务，邮箱，反正这类能创建东西的，他的名字，内容，都有可能存在xss
 最后附上一段话
 ![[Pasted image 20241024162404.png]]
+
+# 16.一分钟缓存的请求头xss
+![[Pasted image 20241026114429.png]]思考
+![[Pasted image 20241026114512.png]]
