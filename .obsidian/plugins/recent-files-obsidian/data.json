@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "缓存类",
+      "path": "07.src学习/漏洞类/缓存类.md"
+    },
+    {
+      "basename": "缓存类漏洞",
+      "path": "07.src学习/漏洞类/缓存类漏洞.md"
+    },
+    {
       "basename": "Pasted image 20241020112514",
       "path": "0001.附件/Pasted image 20241020112514.png"
     },
@@ -171,14 +179,6 @@
     {
       "basename": "逻辑漏洞",
       "path": "07.src学习/漏洞类/逻辑漏洞.md"
-    },
-    {
-      "basename": "缓存类",
-      "path": "07.src学习/漏洞类/缓存类.md"
-    },
-    {
-      "basename": "缓存类漏洞",
-      "path": "07.src学习/漏洞类/缓存类漏洞.md"
     },
     {
       "basename": "xss挖掘",

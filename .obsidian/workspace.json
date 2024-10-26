@@ -25,12 +25,14 @@
             "id": "5d994cb3411f0b5c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0001.附件/Pasted image 20241020112514.png"
+                "file": "07.src学习/漏洞类/缓存类.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241020112514"
+              "icon": "lucide-file",
+              "title": "缓存类"
             }
           }
         ],
@@ -162,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0001.附件/Pasted image 20241020112514.png"
+                "file": "07.src学习/漏洞类/缓存类.md"
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20241020112514 的大纲"
+              "title": "缓存类 的大纲"
             }
           }
         ],
@@ -189,8 +191,10 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/漏洞类/缓存类漏洞.md",
+    "0001.附件/Pasted image 20241020112514.png",
     "0001.附件/Pasted image 20241019232031.png",
     "0001.附件/Pasted image 20241019231714.png",
     "0001.附件/Pasted image 20241019231750.png",
@@ -203,8 +207,6 @@
     "07.src学习/文章分享/他人/一年赏金两万五美刀.md.baiduyun.uploading.cfg",
     "07.src学习/文章分享/他人/xia.md",
     "0001.附件/Pasted image 20240918135034.png",
-    "0001.附件/Pasted image 20241015202414.png",
-    "0001.附件/Pasted image 20241019225726.png",
     "07.src学习/文章分享/他人/陈广方法论.md",
     "07.src学习/文章分享/他人/陈广方法论.md.baiduyun.uploading.cfg",
     "08..垃圾箱/dellnote.md",
@@ -232,7 +234,6 @@
     "01.开发/后端/springboot搭建登陆.md",
     "07.src学习/漏洞类/逻辑漏洞.md",
     "07.src学习/漏洞类/缓存类.md",
-    "07.src学习/漏洞类/缓存类漏洞.md",
     "07.src学习/漏洞类/xss/xss挖掘.md",
     "07.src学习/漏洞类/xss/postmessage.md",
     "01.开发/架构知识/oauth.md",
