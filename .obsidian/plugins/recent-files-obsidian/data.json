@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20241020112514",
+      "path": "0001.附件/Pasted image 20241020112514.png"
+    },
+    {
+      "basename": "Pasted image 20241019232031",
+      "path": "0001.附件/Pasted image 20241019232031.png"
+    },
+    {
+      "basename": "Pasted image 20241019231714",
+      "path": "0001.附件/Pasted image 20241019231714.png"
+    },
+    {
+      "basename": "Pasted image 20241019231750",
+      "path": "0001.附件/Pasted image 20241019231750.png"
+    },
+    {
+      "basename": "Pasted image 20241019231345",
+      "path": "0001.附件/Pasted image 20241019231345.png"
+    },
+    {
+      "basename": "Pasted image 20241019225934",
+      "path": "0001.附件/Pasted image 20241019225934.png"
+    },
+    {
+      "basename": "Pasted image 20241019230258",
+      "path": "0001.附件/Pasted image 20241019230258.png"
+    },
+    {
+      "basename": "Pasted image 20241019230413",
+      "path": "0001.附件/Pasted image 20241019230413.png"
+    },
+    {
+      "basename": "Pasted image 20241019230059",
+      "path": "0001.附件/Pasted image 20241019230059.png"
+    },
+    {
+      "basename": "一年赏金两万五美刀",
+      "path": "07.src学习/文章分享/他人/一年赏金两万五美刀.md"
+    },
+    {
+      "basename": "xia",
+      "path": "07.src学习/文章分享/他人/xia.md"
+    },
+    {
+      "basename": "Pasted image 20240918135034",
+      "path": "0001.附件/Pasted image 20240918135034.png"
+    },
+    {
+      "basename": "Pasted image 20241015202414",
+      "path": "0001.附件/Pasted image 20241015202414.png"
+    },
+    {
+      "basename": "Pasted image 20241019225726",
+      "path": "0001.附件/Pasted image 20241019225726.png"
+    },
+    {
+      "basename": "Pasted image 20241019225542",
+      "path": "0001.附件/Pasted image 20241019225542.png"
+    },
+    {
+      "basename": "Pasted image 20241019225450",
+      "path": "0001.附件/Pasted image 20241019225450.png"
+    },
+    {
+      "basename": "Pasted image 20241019224406",
+      "path": "0001.附件/Pasted image 20241019224406.png"
+    },
+    {
+      "basename": "Pasted image 20241019223246",
+      "path": "0001.附件/Pasted image 20241019223246.png"
+    },
+    {
+      "basename": "Pasted image 20241014211401",
+      "path": "0001.附件/Pasted image 20241014211401.png"
+    },
+    {
+      "basename": "Pasted image 20240929085120",
+      "path": "0001.附件/Pasted image 20240929085120.png"
+    },
+    {
+      "basename": "223aa46ef9f319011cc8b88d8849d9d",
+      "path": "0001.附件/223aa46ef9f319011cc8b88d8849d9d.jpg"
+    },
+    {
+      "basename": "640 1",
+      "path": "0001.附件/640 1.webp"
+    },
+    {
+      "basename": "缓存中毒1",
+      "path": "0001.附件/缓存中毒1.webp"
+    },
+    {
+      "basename": "Pasted image 20240805183159",
+      "path": "0001.附件/Pasted image 20240805183159.png"
+    },
+    {
+      "basename": "Pasted image 20240906103119",
+      "path": "0001.附件/Pasted image 20240906103119.png"
+    },
+    {
+      "basename": "Pasted image 20240906103137",
+      "path": "0001.附件/Pasted image 20240906103137.png"
+    },
+    {
       "basename": "陈广方法论",
       "path": "07.src学习/文章分享/他人/陈广方法论.md"
     },
@@ -95,110 +199,6 @@
     {
       "basename": "cors",
       "path": "02.靶场/bp/cors.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "07.src学习/漏洞类/未命名 1.md"
-    },
-    {
-      "basename": "越权",
-      "path": "07.src学习/漏洞类/越权.md"
-    },
-    {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
-    },
-    {
-      "basename": "西瓜",
-      "path": "07.src学习/西瓜.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "07.src学习/杂记.md"
-    },
-    {
-      "basename": "oauth赃物",
-      "path": "07.src学习/oauth赃物.md"
-    },
-    {
-      "basename": "java mvc",
-      "path": "01.开发/后端/java mvc.md"
-    },
-    {
-      "basename": "推荐网站",
-      "path": "01.开发/后端/推荐网站.md"
-    },
-    {
-      "basename": "apikey",
-      "path": "01.开发/架构知识/apikey.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "01.开发/架构知识/graphql.md"
-    },
-    {
-      "basename": "js登陆加密分析",
-      "path": "01.开发/前端/js登陆加密分析.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
-    },
-    {
-      "basename": "ssrf",
-      "path": "02.靶场/bp/ssrf.md"
-    },
-    {
-      "basename": "xxe",
-      "path": "02.靶场/bp/xxe.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
-    },
-    {
-      "basename": "waf",
-      "path": "04.渗透/waf.md"
-    },
-    {
-      "basename": "sql注入",
-      "path": "04.渗透/sql注入.md"
-    },
-    {
-      "basename": "权限提升",
-      "path": "04.渗透/权限提升.md"
-    },
-    {
-      "basename": "内网",
-      "path": "04.渗透/内网.md"
-    },
-    {
-      "basename": "信息收集",
-      "path": "07.src学习/通用技术/信息收集.md"
-    },
-    {
-      "basename": "通用技术",
-      "path": "07.src学习/通用技术/通用技术.md"
-    },
-    {
-      "basename": "js源码分析",
-      "path": "07.src学习/通用技术/找接口/js源码分析.md"
-    },
-    {
-      "basename": "找接口",
-      "path": "07.src学习/通用技术/找接口/找接口.md"
-    },
-    {
-      "basename": "xss批量",
-      "path": "07.src学习/漏洞类/xss/xss批量.md"
-    },
-    {
-      "basename": "tools0",
-      "path": "06.工具/tools0.md"
-    },
-    {
-      "basename": "java案例",
-      "path": "01.开发/后端/java案例.md"
     }
   ],
   "omittedPaths": []

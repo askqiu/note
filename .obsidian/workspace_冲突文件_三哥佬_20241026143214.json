@@ -25,12 +25,14 @@
             "id": "5d994cb3411f0b5c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0001.附件/Pasted image 20241020112514.png"
+                "file": "07.src学习/文章分享/他人/一年赏金两万五美刀.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241020112514"
+              "icon": "lucide-file",
+              "title": "一年赏金两万五美刀"
             }
           }
         ],
@@ -65,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"![[Pasted image 20241019225542.png|1150]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0001.附件/Pasted image 20241020112514.png"
+                "file": "07.src学习/文章分享/他人/一年赏金两万五美刀.md"
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20241020112514 的大纲"
+              "title": "一年赏金两万五美刀 的大纲"
             }
           }
         ],
@@ -189,22 +192,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "d5ac82794c7f9939",
   "lastOpenFiles": [
-    "0001.附件/Pasted image 20241019232031.png",
-    "0001.附件/Pasted image 20241019231714.png",
-    "0001.附件/Pasted image 20241019231750.png",
-    "0001.附件/Pasted image 20241019231345.png",
-    "0001.附件/Pasted image 20241019225934.png",
-    "0001.附件/Pasted image 20241019230258.png",
-    "0001.附件/Pasted image 20241019230413.png",
-    "0001.附件/Pasted image 20241019230059.png",
-    "07.src学习/文章分享/他人/一年赏金两万五美刀.md",
     "07.src学习/文章分享/他人/一年赏金两万五美刀.md.baiduyun.uploading.cfg",
-    "07.src学习/文章分享/他人/xia.md",
-    "0001.附件/Pasted image 20240918135034.png",
-    "0001.附件/Pasted image 20241015202414.png",
-    "0001.附件/Pasted image 20241019225726.png",
     "07.src学习/文章分享/他人/陈广方法论.md",
     "07.src学习/文章分享/他人/陈广方法论.md.baiduyun.uploading.cfg",
     "08..垃圾箱/dellnote.md",
@@ -213,13 +203,17 @@
     "漏洞案例/知识星球xss.md",
     "0001.附件/Pasted image 20241026114512.png.baiduyun.uploading.cfg",
     "漏洞案例/知识星球xss.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241026114512.png",
     "0001.附件/Pasted image 20241026114429.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241026114429.png",
     "02.靶场/bp/业务逻辑.md",
     "0001.附件/Pasted image 20241026113037.png.baiduyun.uploading.cfg",
     "02.靶场/bp/业务逻辑.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241026113037.png",
     "08..垃圾箱/important.md",
     "08..垃圾箱/temp.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241025081043.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241025081043.png",
     "08..垃圾箱/pentest.md",
     "07.src学习/通用技术/找接口/手动查看js源码.md",
     "08..垃圾箱/漏洞url.md.baiduyun.uploading.cfg",
@@ -237,6 +231,15 @@
     "07.src学习/漏洞类/xss/postmessage.md",
     "01.开发/架构知识/oauth.md",
     "01.开发/架构知识/websocket.md",
+    "02.靶场/bp/cors.md",
+    "07.src学习/漏洞类/未命名 1.md",
+    "0001.附件/Pasted image 20241024162404.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241024162404.png",
+    "0001.附件/Pasted image 20241024161130.png",
+    "0001.附件/Pasted image 20241023231109.png",
+    "0001.附件/Pasted image 20241023223521.png",
+    "0001.附件/Pasted image 20241023222842.png",
+    "0001.附件/Pasted image 20241023213742.png",
     "未命名.canvas"
   ]
 }
