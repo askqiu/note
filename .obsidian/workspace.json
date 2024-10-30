@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/业务逻辑.md",
+                "file": "02.靶场/bp/xss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "业务逻辑"
+              "title": "xss"
             }
           }
         ],
@@ -98,8 +98,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/业务逻辑.md"
+                "file": "02.靶场/bp/xss.md"
               },
               "icon": "lucide-list",
-              "title": "业务逻辑 的大纲"
+              "title": "xss 的大纲"
             }
           }
         ],
@@ -194,13 +193,19 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
-    "0001.附件/Pasted image 20241030233640.png.baiduyun.uploading.cfg",
+    "02.靶场/bp/xxe.md",
+    "02.靶场/bp/ssrf.md",
+    "02.靶场/bp/csrf.md",
+    "02.靶场/bp/cors.md",
+    "02.靶场/bp/业务逻辑.md",
     "02.靶场/bp/业务逻辑.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241030233722.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241030233722.png",
+    "0001.附件/Pasted image 20241030233640.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241030233640.png",
     "03.面试/研判.md",
     "03.面试/溯源.md",
     "05.云安全/云渗透.md",
-    "02.靶场/bp/业务逻辑.md",
     "02.靶场/靶场链接/src.md",
     "02.靶场/靶场链接/graphql.md",
     "08..垃圾箱/temp.md",
@@ -218,7 +223,6 @@
     "0001.附件/Pasted image 20241019225934.png",
     "0001.附件/Pasted image 20241019230258.png",
     "0001.附件/Pasted image 20241019230413.png",
-    "0001.附件/Pasted image 20241019230059.png",
     "07.src学习/文章分享/他人/一年赏金两万五美刀.md",
     "07.src学习/文章分享/他人/一年赏金两万五美刀.md.baiduyun.uploading.cfg",
     "07.src学习/文章分享/他人/xia.md",
@@ -229,17 +233,12 @@
     "0001.附件/Pasted image 20241026114512.png.baiduyun.uploading.cfg",
     "漏洞案例/知识星球xss.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241026114429.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20241026113037.png.baiduyun.uploading.cfg",
     "08..垃圾箱/important.md",
-    "0001.附件/Pasted image 20241025081043.png.baiduyun.uploading.cfg",
     "07.src学习/通用技术/找接口/手动查看js源码.md",
     "02.靶场/bp/xss.md",
     "07.src学习/漏洞类/xss/xss自动化补充.md",
     "01.开发/前端/JavaScript.md",
     "01.开发/前端/JavaScript代码分析案例.md",
-    "01.开发/前端/angularjs.md",
-    "01.开发/前端/客户端知识.md",
-    "01.开发/后端/springboot搭建登陆.md",
     "未命名.canvas"
   ]
 }

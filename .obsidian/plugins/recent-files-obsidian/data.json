@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
+    },
+    {
+      "basename": "xxe",
+      "path": "02.靶场/bp/xxe.md"
+    },
+    {
+      "basename": "ssrf",
+      "path": "02.靶场/bp/ssrf.md"
+    },
+    {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
+      "basename": "cors",
+      "path": "02.靶场/bp/cors.md"
+    },
+    {
       "basename": "业务逻辑",
       "path": "02.靶场/bp/业务逻辑.md"
     },
@@ -169,10 +189,6 @@
       "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
     },
     {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
-    },
-    {
       "basename": "xss自动化补充",
       "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "JavaScript代码分析案例",
       "path": "01.开发/前端/JavaScript代码分析案例.md"
-    },
-    {
-      "basename": "angularjs",
-      "path": "01.开发/前端/angularjs.md"
-    },
-    {
-      "basename": "客户端知识",
-      "path": "01.开发/前端/客户端知识.md"
-    },
-    {
-      "basename": "springboot搭建登陆",
-      "path": "01.开发/后端/springboot搭建登陆.md"
-    },
-    {
-      "basename": "逻辑漏洞",
-      "path": "07.src学习/漏洞类/逻辑漏洞.md"
     }
   ],
   "omittedPaths": []
