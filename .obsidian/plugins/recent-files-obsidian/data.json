@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "业务逻辑",
+      "path": "02.靶场/bp/业务逻辑.md"
+    },
+    {
+      "basename": "研判",
+      "path": "03.面试/研判.md"
+    },
+    {
+      "basename": "溯源",
+      "path": "03.面试/溯源.md"
+    },
+    {
+      "basename": "云渗透",
+      "path": "05.云安全/云渗透.md"
+    },
+    {
+      "basename": "src",
+      "path": "02.靶场/靶场链接/src.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "02.靶场/靶场链接/graphql.md"
+    },
+    {
+      "basename": "temp",
+      "path": "08..垃圾箱/temp.md"
+    },
+    {
+      "basename": "pentest",
+      "path": "08..垃圾箱/pentest.md"
+    },
+    {
       "basename": "漏洞url",
       "path": "08..垃圾箱/漏洞url.md"
     },
@@ -125,24 +157,12 @@
       "path": "08..垃圾箱/dellnote.md"
     },
     {
-      "basename": "temp",
-      "path": "08..垃圾箱/temp.md"
-    },
-    {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
     },
     {
-      "basename": "业务逻辑",
-      "path": "02.靶场/bp/业务逻辑.md"
-    },
-    {
       "basename": "important",
       "path": "08..垃圾箱/important.md"
-    },
-    {
-      "basename": "pentest",
-      "path": "08..垃圾箱/pentest.md"
     },
     {
       "basename": "手动查看js源码",
@@ -179,26 +199,6 @@
     {
       "basename": "逻辑漏洞",
       "path": "07.src学习/漏洞类/逻辑漏洞.md"
-    },
-    {
-      "basename": "xss挖掘",
-      "path": "07.src学习/漏洞类/xss/xss挖掘.md"
-    },
-    {
-      "basename": "postmessage",
-      "path": "07.src学习/漏洞类/xss/postmessage.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "01.开发/架构知识/oauth.md"
-    },
-    {
-      "basename": "websocket",
-      "path": "01.开发/架构知识/websocket.md"
-    },
-    {
-      "basename": "cors",
-      "path": "02.靶场/bp/cors.md"
     }
   ],
   "omittedPaths": []
