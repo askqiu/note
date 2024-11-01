@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
+      "basename": "必备知识",
+      "path": "07.src学习/通用技术/必备知识.md"
+    },
+    {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
     },
     {
       "basename": "xxe",
       "path": "02.靶场/bp/xxe.md"
+    },
+    {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
     },
     {
       "basename": "ssrf",
@@ -191,14 +199,6 @@
     {
       "basename": "xss自动化补充",
       "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.开发/前端/JavaScript.md"
-    },
-    {
-      "basename": "JavaScript代码分析案例",
-      "path": "01.开发/前端/JavaScript代码分析案例.md"
     }
   ],
   "omittedPaths": []
