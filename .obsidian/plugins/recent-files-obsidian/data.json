@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "dellnote",
+      "path": "08..垃圾箱/dellnote.md"
+    },
+    {
+      "basename": "pentest",
+      "path": "08..垃圾箱/pentest.md"
+    },
+    {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
+      "basename": "漏洞url",
+      "path": "08..垃圾箱/漏洞url.md"
+    },
+    {
       "basename": "必备知识",
       "path": "07.src学习/通用技术/必备知识.md"
     },
@@ -55,14 +71,6 @@
     {
       "basename": "temp",
       "path": "08..垃圾箱/temp.md"
-    },
-    {
-      "basename": "pentest",
-      "path": "08..垃圾箱/pentest.md"
-    },
-    {
-      "basename": "漏洞url",
-      "path": "08..垃圾箱/漏洞url.md"
     },
     {
       "basename": "缓存类",
@@ -181,16 +189,8 @@
       "path": "07.src学习/文章分享/他人/陈广方法论.md"
     },
     {
-      "basename": "dellnote",
-      "path": "08..垃圾箱/dellnote.md"
-    },
-    {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
-    },
-    {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
     },
     {
       "basename": "手动查看js源码",
