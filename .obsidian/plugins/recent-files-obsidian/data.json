@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "信息泄露",
+      "path": "02.靶场/bp/信息泄露.md"
+    },
+    {
       "basename": "dellnote",
       "path": "08..垃圾箱/dellnote.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "手动查看js源码",
       "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
-    },
-    {
-      "basename": "xss自动化补充",
-      "path": "07.src学习/漏洞类/xss/xss自动化补充.md"
     }
   ],
   "omittedPaths": []

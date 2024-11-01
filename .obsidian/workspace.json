@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08..垃圾箱/dellnote.md",
+                "file": "02.靶场/bp/信息泄露.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dellnote"
+              "title": "信息泄露"
             }
           }
         ],
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08..垃圾箱/dellnote.md"
+                "file": "02.靶场/bp/信息泄露.md"
               },
               "icon": "lucide-list",
-              "title": "dellnote 的大纲"
+              "title": "信息泄露 的大纲"
             }
           }
         ],
@@ -193,9 +193,11 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "02.靶场/bp/信息泄露.md.baiduyun.uploading.cfg",
+    "08..垃圾箱/dellnote.md",
+    "02.靶场/bp/信息泄露.md",
     "08..垃圾箱/pentest.md",
     "08..垃圾箱/important.md",
-    "08..垃圾箱/dellnote.md",
     "08..垃圾箱/漏洞url.md",
     "07.src学习/通用技术/必备知识.md",
     "07.src学习/通用技术/必备知识.md.baiduyun.uploading.cfg",
@@ -237,7 +239,6 @@
     "07.src学习/文章分享/他人/陈广方法论.md.baiduyun.uploading.cfg",
     "漏洞案例/知识星球xss.md",
     "0001.附件/Pasted image 20241026114512.png.baiduyun.uploading.cfg",
-    "07.src学习/通用技术/找接口/手动查看js源码.md",
     "未命名.canvas"
   ]
 }
