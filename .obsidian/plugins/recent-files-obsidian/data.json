@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "oauth",
+      "path": "01.开发/架构知识/oauth.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01.开发/架构知识/未命名.md"
+    },
+    {
       "basename": "信息泄露",
       "path": "02.靶场/bp/信息泄露.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "陈广方法论",
       "path": "07.src学习/文章分享/他人/陈广方法论.md"
-    },
-    {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
-    },
-    {
-      "basename": "手动查看js源码",
-      "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
     }
   ],
   "omittedPaths": []
