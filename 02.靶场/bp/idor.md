@@ -31,3 +31,7 @@ findsomething直接拼接路径
 # Lab: User ID controlled by request parameter
 要求进入到carlos的用户界面，url上改用户wiener为carlos就行
 
+# Lab: User ID controlled by request parameter, with unpredictable user IDs
+这里用户的标识不能直接改wiener为carlos了，因为这里guid都是无法预测的字符串
+去博客里面找到carlos，点击博客功能点找guid，会在url里
+![[Pasted image 20241103212156.png]]
