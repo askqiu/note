@@ -5,6 +5,10 @@
       "path": "02.靶场/bp/idor.md"
     },
     {
+      "basename": "Pasted image 20241103170726",
+      "path": "0001.附件/Pasted image 20241103170726.png"
+    },
+    {
       "basename": "oauth",
       "path": "02.靶场/bp/oauth.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240805183159",
       "path": "0001.附件/Pasted image 20240805183159.png"
-    },
-    {
-      "basename": "Pasted image 20240906103119",
-      "path": "0001.附件/Pasted image 20240906103119.png"
     }
   ],
   "omittedPaths": []

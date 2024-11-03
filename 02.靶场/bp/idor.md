@@ -21,3 +21,7 @@ findsomething直接拼接路径
 ![[Pasted image 20241103115721.png]]
 进行删除的时候也要改
 ![[Pasted image 20241103115854.png]]
+
+# User role can be modified in user profile
+找到对应功能点，加入我们插入roleid会怎么样
+![[Pasted image 20241103170726.png]]
