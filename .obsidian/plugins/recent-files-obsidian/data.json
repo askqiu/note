@@ -2,6 +2,10 @@
   "recentFiles": [
     {
       "basename": "oauth",
+      "path": "02.靶场/bp/oauth.md"
+    },
+    {
+      "basename": "oauth",
       "path": "01.开发/架构知识/oauth.md"
     },
     {
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240906103137",
       "path": "0001.附件/Pasted image 20240906103137.png"
-    },
-    {
-      "basename": "陈广方法论",
-      "path": "07.src学习/文章分享/他人/陈广方法论.md"
     }
   ],
   "omittedPaths": []

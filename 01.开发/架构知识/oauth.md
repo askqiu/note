@@ -18,6 +18,12 @@ oauth2.0有四种授权方式
 3. （C）授权后，Authorization Server将页面重定向会Client的页面（在A步骤中指定的RedirectURI）。同时会在URI中携带授权码Code。授权码Code会经UserAgent最终传递给Client的后端。
 4. （D）Client（后端）利用授权码向Authorization Server请求访问令牌（Access Token），这里需要指定请求访问的访问Scope等信息。
 5. （E）Authorization Server 校验授权码通过后，返回访问令牌Access Token和刷新令牌Refresh Token。
+```
+
+GET /callback?code=a1b2c3d4e5f6g7h8&state=ae13d489bd00e3c24 HTTP/1.1
+Host: client-app.com
+```
+
 
 隐式授权
 主要用于纯前端应用，如JavaScript spa
@@ -25,3 +31,8 @@ oauth2.0有四种授权方式
 1. （A）用户代理（通常是浏览器）向认证服务器发送授权请求。这通常通过将用户重定向到认证服务器的授权端点来完成，请求中包含了客户端ID、请求的权限范围、重定向URI和状态。
 2. （B） 认证服务器对用户进行身份验证，通常是通过要求用户输入用户名和密码。认证服务器向用户显示一个授权页面，让用户决定是否授予客户端请求的权限。
 3. （C）如果用户同意授予权限，认证服务器将用户代理重定向回客户端的重定向URI，并在重定向URI的片段部分（fragment）中包含访问令牌和状态。注意，由于这是在用户代理中完成的，所以访问令牌从未通过服务器端的应用代码。
+
+```
+GET /authorization?client_id=12345&redirect_uri=https://client-app.com/callback&response_type=token&scope=openid%20profile&state=ae13d489bd00e3c24 HTTP/1.1
+Host: oauth-authorization-server.com
+```

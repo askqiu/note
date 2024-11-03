@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.开发/架构知识/oauth.md",
+                "file": "02.靶场/bp/oauth.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.开发/架构知识/oauth.md"
+                "file": "02.靶场/bp/oauth.md"
               },
               "icon": "lucide-list",
               "title": "oauth 的大纲"
@@ -193,6 +193,9 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "02.靶场/bp/oauth.md.baiduyun.uploading.cfg",
+    "01.开发/架构知识/oauth.md",
+    "02.靶场/bp/oauth.md",
     "01.开发/架构知识/oauth.md.baiduyun.uploading.cfg",
     "01.开发/架构知识/未命名.md.baiduyun.uploading.cfg",
     "01.开发/架构知识/未命名.md",
@@ -236,9 +239,6 @@
     "0001.附件/Pasted image 20241019230258.png",
     "0001.附件/Pasted image 20241019230413.png",
     "07.src学习/文章分享/他人/一年赏金两万五美刀.md",
-    "07.src学习/文章分享/他人/一年赏金两万五美刀.md.baiduyun.uploading.cfg",
-    "07.src学习/文章分享/他人/xia.md",
-    "07.src学习/文章分享/他人/陈广方法论.md",
     "未命名.canvas"
   ]
 }
