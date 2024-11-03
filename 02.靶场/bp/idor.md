@@ -25,3 +25,5 @@ findsomething直接拼接路径
 # User role can be modified in user profile
 找到对应功能点，加入我们插入roleid会怎么样
 ![[Pasted image 20241103170726.png]]
+这样就改成roleid为2，也就是管理员身份
+![[Pasted image 20241103171151.png]]
