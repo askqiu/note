@@ -27,3 +27,7 @@ findsomething直接拼接路径
 ![[Pasted image 20241103170726.png]]
 这样就改成roleid为2，也就是管理员身份
 ![[Pasted image 20241103171151.png]]
+
+# Lab: User ID controlled by request parameter
+要求进入到carlos的用户界面，url上改用户wiener为carlos就行
+
