@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "idor",
+      "path": "02.靶场/bp/idor.md"
+    },
+    {
       "basename": "oauth",
       "path": "02.靶场/bp/oauth.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240906103119",
       "path": "0001.附件/Pasted image 20240906103119.png"
-    },
-    {
-      "basename": "Pasted image 20240906103137",
-      "path": "0001.附件/Pasted image 20240906103137.png"
     }
   ],
   "omittedPaths": []

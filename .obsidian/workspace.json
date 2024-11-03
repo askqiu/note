@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/oauth.md",
+                "file": "02.靶场/bp/idor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "oauth"
+              "title": "idor"
             }
           }
         ],
@@ -164,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/oauth.md"
+                "file": "02.靶场/bp/idor.md"
               },
               "icon": "lucide-list",
-              "title": "oauth 的大纲"
+              "title": "idor 的大纲"
             }
           }
         ],
@@ -193,9 +193,21 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20241103115854.png.baiduyun.uploading.cfg",
+    "02.靶场/bp/idor.md.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241103115854.png",
+    "0001.附件/Pasted image 20241103115721.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241103115721.png",
+    "0001.附件/Pasted image 20241103115718.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241103115718.png",
+    "0001.附件/Pasted image 20241103115559.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241103115559.png",
+    "0001.附件/Pasted image 20241103115034.png.baiduyun.uploading.cfg",
+    "0001.附件/Pasted image 20241103115034.png",
+    "02.靶场/bp/oauth.md",
+    "02.靶场/bp/idor.md",
     "02.靶场/bp/oauth.md.baiduyun.uploading.cfg",
     "01.开发/架构知识/oauth.md",
-    "02.靶场/bp/oauth.md",
     "01.开发/架构知识/oauth.md.baiduyun.uploading.cfg",
     "01.开发/架构知识/未命名.md.baiduyun.uploading.cfg",
     "01.开发/架构知识/未命名.md",
@@ -207,7 +219,6 @@
     "08..垃圾箱/漏洞url.md",
     "07.src学习/通用技术/必备知识.md",
     "07.src学习/通用技术/必备知识.md.baiduyun.uploading.cfg",
-    "07.src学习/通用技术/未命名.md.baiduyun.uploading.cfg",
     "02.靶场/fastfood.md",
     "02.靶场/bp/xxe.md",
     "02.靶场/bp/xss.md",
@@ -215,10 +226,7 @@
     "02.靶场/bp/csrf.md",
     "02.靶场/bp/cors.md",
     "02.靶场/bp/业务逻辑.md",
-    "02.靶场/bp/业务逻辑.md.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20241030233722.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241030233722.png",
-    "0001.附件/Pasted image 20241030233640.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241030233640.png",
     "03.面试/研判.md",
     "03.面试/溯源.md",
@@ -226,19 +234,11 @@
     "02.靶场/靶场链接/src.md",
     "02.靶场/靶场链接/graphql.md",
     "08..垃圾箱/temp.md",
-    "08..垃圾箱/temp.md.baiduyun.uploading.cfg",
-    "07.src学习/未命名",
     "07.src学习/漏洞类/缓存类.md",
     "07.src学习/漏洞类/缓存类漏洞.md",
     "0001.附件/Pasted image 20241020112514.png",
     "0001.附件/Pasted image 20241019232031.png",
     "0001.附件/Pasted image 20241019231714.png",
-    "0001.附件/Pasted image 20241019231750.png",
-    "0001.附件/Pasted image 20241019231345.png",
-    "0001.附件/Pasted image 20241019225934.png",
-    "0001.附件/Pasted image 20241019230258.png",
-    "0001.附件/Pasted image 20241019230413.png",
-    "07.src学习/文章分享/他人/一年赏金两万五美刀.md",
     "未命名.canvas"
   ]
 }
