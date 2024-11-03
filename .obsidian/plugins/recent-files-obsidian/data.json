@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "xss payload",
+      "path": "07.src学习/payload/xss payload.md"
+    },
+    {
+      "basename": "逻辑漏洞",
+      "path": "07.src学习/漏洞类/逻辑漏洞.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "07.src学习/漏洞类/未命名.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "07.src学习/漏洞类/未命名 1.md"
+    },
+    {
+      "basename": "越权",
+      "path": "07.src学习/漏洞类/越权.md"
+    },
+    {
+      "basename": "缓存类",
+      "path": "07.src学习/漏洞类/缓存类.md"
+    },
+    {
+      "basename": "缓存类漏洞",
+      "path": "07.src学习/漏洞类/缓存类漏洞.md"
+    },
+    {
+      "basename": "西瓜",
+      "path": "07.src学习/西瓜.md"
+    },
+    {
+      "basename": "oauth赃物",
+      "path": "07.src学习/oauth赃物.md"
+    },
+    {
       "basename": "idor",
       "path": "02.靶场/bp/idor.md"
     },
     {
-      "basename": "Pasted image 20241103170726",
-      "path": "0001.附件/Pasted image 20241103170726.png"
-    },
-    {
       "basename": "oauth",
       "path": "02.靶场/bp/oauth.md"
+    },
+    {
+      "basename": "cors",
+      "path": "02.靶场/bp/cors.md"
+    },
+    {
+      "basename": "信息泄露",
+      "path": "02.靶场/bp/信息泄露.md"
+    },
+    {
+      "basename": "业务逻辑",
+      "path": "02.靶场/bp/业务逻辑.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "01.开发/架构知识/graphql.md"
+    },
+    {
+      "basename": "Pasted image 20241103170726",
+      "path": "0001.附件/Pasted image 20241103170726.png"
     },
     {
       "basename": "oauth",
@@ -19,10 +71,6 @@
     {
       "basename": "未命名",
       "path": "01.开发/架构知识/未命名.md"
-    },
-    {
-      "basename": "信息泄露",
-      "path": "02.靶场/bp/信息泄露.md"
     },
     {
       "basename": "dellnote",
@@ -65,14 +113,6 @@
       "path": "02.靶场/bp/csrf.md"
     },
     {
-      "basename": "cors",
-      "path": "02.靶场/bp/cors.md"
-    },
-    {
-      "basename": "业务逻辑",
-      "path": "02.靶场/bp/业务逻辑.md"
-    },
-    {
       "basename": "研判",
       "path": "03.面试/研判.md"
     },
@@ -95,14 +135,6 @@
     {
       "basename": "temp",
       "path": "08..垃圾箱/temp.md"
-    },
-    {
-      "basename": "缓存类",
-      "path": "07.src学习/漏洞类/缓存类.md"
-    },
-    {
-      "basename": "缓存类漏洞",
-      "path": "07.src学习/漏洞类/缓存类漏洞.md"
     },
     {
       "basename": "Pasted image 20241020112514",
@@ -167,38 +199,6 @@
     {
       "basename": "Pasted image 20241019225450",
       "path": "0001.附件/Pasted image 20241019225450.png"
-    },
-    {
-      "basename": "Pasted image 20241019224406",
-      "path": "0001.附件/Pasted image 20241019224406.png"
-    },
-    {
-      "basename": "Pasted image 20241019223246",
-      "path": "0001.附件/Pasted image 20241019223246.png"
-    },
-    {
-      "basename": "Pasted image 20241014211401",
-      "path": "0001.附件/Pasted image 20241014211401.png"
-    },
-    {
-      "basename": "Pasted image 20240929085120",
-      "path": "0001.附件/Pasted image 20240929085120.png"
-    },
-    {
-      "basename": "223aa46ef9f319011cc8b88d8849d9d",
-      "path": "0001.附件/223aa46ef9f319011cc8b88d8849d9d.jpg"
-    },
-    {
-      "basename": "640 1",
-      "path": "0001.附件/640 1.webp"
-    },
-    {
-      "basename": "缓存中毒1",
-      "path": "0001.附件/缓存中毒1.webp"
-    },
-    {
-      "basename": "Pasted image 20240805183159",
-      "path": "0001.附件/Pasted image 20240805183159.png"
     }
   ],
   "omittedPaths": []

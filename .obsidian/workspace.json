@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/idor.md",
+                "file": "07.src学习/payload/xss payload.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "idor"
+              "title": "xss payload"
             }
           },
           {
@@ -176,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/idor.md"
+                "file": "07.src学习/payload/xss payload.md"
               },
               "icon": "lucide-list",
-              "title": "idor 的大纲"
+              "title": "xss payload 的大纲"
             }
           }
         ],
@@ -205,13 +205,27 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/漏洞类/逻辑漏洞.md",
+    "07.src学习/漏洞类/未命名.md",
+    "07.src学习/漏洞类/未命名 1.md",
+    "07.src学习/漏洞类/越权.md",
+    "07.src学习/漏洞类/缓存类.md",
+    "07.src学习/漏洞类/缓存类漏洞.md",
+    "07.src学习/payload/xss payload.md",
+    "07.src学习/西瓜.md",
+    "07.src学习/oauth赃物.md",
+    "02.靶场/bp/idor.md",
+    "02.靶场/bp/oauth.md",
+    "02.靶场/bp/cors.md",
+    "02.靶场/bp/信息泄露.md",
+    "02.靶场/bp/业务逻辑.md",
+    "01.开发/架构知识/graphql.md",
     "0001.附件/Pasted image 20241103212156.png.baiduyun.uploading.cfg",
     "02.靶场/bp/idor.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103212156.png",
     "0001.附件/Pasted image 20241103171151.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103171151.png",
     "0001.附件/Pasted image 20241103170726.png",
-    "02.靶场/bp/idor.md",
     "0001.附件/Pasted image 20241103170726.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103115854.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103115854.png",
@@ -223,12 +237,9 @@
     "0001.附件/Pasted image 20241103115559.png",
     "0001.附件/Pasted image 20241103115034.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103115034.png",
-    "02.靶场/bp/oauth.md",
     "02.靶场/bp/oauth.md.baiduyun.uploading.cfg",
     "01.开发/架构知识/oauth.md",
-    "01.开发/架构知识/oauth.md.baiduyun.uploading.cfg",
     "01.开发/架构知识/未命名.md",
-    "02.靶场/bp/信息泄露.md",
     "08..垃圾箱/dellnote.md",
     "08..垃圾箱/pentest.md",
     "08..垃圾箱/important.md",
@@ -238,19 +249,8 @@
     "02.靶场/bp/xxe.md",
     "02.靶场/bp/xss.md",
     "02.靶场/bp/ssrf.md",
-    "02.靶场/bp/csrf.md",
-    "02.靶场/bp/cors.md",
-    "02.靶场/bp/业务逻辑.md",
     "0001.附件/Pasted image 20241030233722.png",
     "0001.附件/Pasted image 20241030233640.png",
-    "03.面试/研判.md",
-    "03.面试/溯源.md",
-    "05.云安全/云渗透.md",
-    "02.靶场/靶场链接/src.md",
-    "02.靶场/靶场链接/graphql.md",
-    "08..垃圾箱/temp.md",
-    "07.src学习/漏洞类/缓存类.md",
-    "07.src学习/漏洞类/缓存类漏洞.md",
     "未命名.canvas"
   ]
 }
