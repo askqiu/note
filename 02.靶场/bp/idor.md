@@ -43,4 +43,6 @@ https://0aa500ac04ed717b83adb55200a40088.web-security-academy.net/my-account?id=
 登陆wiener后访问这个，bp历史中返回了302跳转但是实际上可以看见页面内容是carlos的账号
 
 # Lab: User ID controlled by request parameter with password disclosure
-url参数id
+url参数?id=administrator但是我们发现没有删除用户的功能，说明可能需要正确登陆才行，查看页面源代码可以看见密码，用这密码进行登陆
+
+查看页面源代码，url参数越权
