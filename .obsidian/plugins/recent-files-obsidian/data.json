@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "idor",
+      "path": "02.靶场/bp/idor.md"
+    },
+    {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
+      "basename": "oauth",
+      "path": "02.靶场/bp/oauth.md"
+    },
+    {
+      "basename": "业务逻辑",
+      "path": "02.靶场/bp/业务逻辑.md"
+    },
+    {
       "basename": "xss payload",
       "path": "07.src学习/payload/xss payload.md"
     },
@@ -37,24 +53,12 @@
       "path": "07.src学习/oauth赃物.md"
     },
     {
-      "basename": "idor",
-      "path": "02.靶场/bp/idor.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "02.靶场/bp/oauth.md"
-    },
-    {
       "basename": "cors",
       "path": "02.靶场/bp/cors.md"
     },
     {
       "basename": "信息泄露",
       "path": "02.靶场/bp/信息泄露.md"
-    },
-    {
-      "basename": "业务逻辑",
-      "path": "02.靶场/bp/业务逻辑.md"
     },
     {
       "basename": "graphql",
@@ -107,10 +111,6 @@
     {
       "basename": "ssrf",
       "path": "02.靶场/bp/ssrf.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
     },
     {
       "basename": "研判",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/payload/xss payload.md",
+                "file": "02.靶场/bp/idor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xss payload"
+              "title": "idor"
             }
           },
           {
@@ -110,8 +110,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/payload/xss payload.md"
+                "file": "02.靶场/bp/idor.md"
               },
               "icon": "lucide-list",
-              "title": "xss payload 的大纲"
+              "title": "idor 的大纲"
             }
           }
         ],
@@ -204,22 +203,23 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "24922f586ad3e01f",
+  "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "02.靶场/bp/csrf.md",
+    "02.靶场/bp/oauth.md",
+    "02.靶场/bp/业务逻辑.md",
+    "07.src学习/payload/xss payload.md",
     "07.src学习/漏洞类/逻辑漏洞.md",
     "07.src学习/漏洞类/未命名.md",
     "07.src学习/漏洞类/未命名 1.md",
     "07.src学习/漏洞类/越权.md",
     "07.src学习/漏洞类/缓存类.md",
     "07.src学习/漏洞类/缓存类漏洞.md",
-    "07.src学习/payload/xss payload.md",
     "07.src学习/西瓜.md",
     "07.src学习/oauth赃物.md",
     "02.靶场/bp/idor.md",
-    "02.靶场/bp/oauth.md",
     "02.靶场/bp/cors.md",
     "02.靶场/bp/信息泄露.md",
-    "02.靶场/bp/业务逻辑.md",
     "01.开发/架构知识/graphql.md",
     "0001.附件/Pasted image 20241103212156.png.baiduyun.uploading.cfg",
     "02.靶场/bp/idor.md.baiduyun.uploading.cfg",
@@ -249,7 +249,6 @@
     "02.靶场/fastfood.md",
     "02.靶场/bp/xxe.md",
     "02.靶场/bp/xss.md",
-    "02.靶场/bp/ssrf.md",
     "0001.附件/Pasted image 20241030233722.png",
     "0001.附件/Pasted image 20241030233640.png",
     "未命名.canvas"

@@ -35,3 +35,12 @@ findsomething直接拼接路径
 这里用户的标识不能直接改wiener为carlos了，因为这里guid都是无法预测的字符串
 去博客里面找到carlos，点击博客功能点找guid，会在url里
 ![[Pasted image 20241103212156.png]]
+
+# Lab: User ID controlled by request parameter with data leakage in redirect
+为了解决实验室问题，请获取用户 carlos 的 API 密钥，并将其作为解决方案提交。
+
+https://0aa500ac04ed717b83adb55200a40088.web-security-academy.net/my-account?id=carlos
+登陆wiener后访问这个，bp历史中返回了302跳转但是实际上可以看见页面内容是carlos的账号
+
+# Lab: User ID controlled by request parameter with password disclosure
+url参数id
