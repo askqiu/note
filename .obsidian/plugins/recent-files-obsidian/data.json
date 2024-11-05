@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "temp",
+      "path": "07.src学习/beishan/temp.md"
+    },
+    {
       "basename": "idor",
       "path": "02.靶场/bp/idor.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20241019225542",
       "path": "0001.附件/Pasted image 20241019225542.png"
-    },
-    {
-      "basename": "Pasted image 20241019225450",
-      "path": "0001.附件/Pasted image 20241019225450.png"
     }
   ],
   "omittedPaths": []
