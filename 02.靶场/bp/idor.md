@@ -46,3 +46,6 @@ https://0aa500ac04ed717b83adb55200a40088.web-security-academy.net/my-account?id=
 url参数?id=administrator但是我们发现没有删除用户的功能，说明可能需要正确登陆才行，查看页面源代码可以看见密码，用这密码进行登陆
 
 查看页面源代码，url参数越权
+
+# Insecure direct object references
+不会做
