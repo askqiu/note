@@ -12,3 +12,9 @@ var name = '1' -alert(1)
 ```
 <a href=javascript:alert%28%29>test</a>
 ```
+
+```
+alert?.(1)
+可以绕waf
+```
+
