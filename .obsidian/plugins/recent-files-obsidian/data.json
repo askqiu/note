@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "api测试",
+      "path": "07.src学习/漏洞类/api测试.md"
+    },
+    {
       "basename": "idor",
       "path": "02.靶场/bp/idor.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20241015202414",
       "path": "0001.附件/Pasted image 20241015202414.png"
-    },
-    {
-      "basename": "Pasted image 20241019225726",
-      "path": "0001.附件/Pasted image 20241019225726.png"
     }
   ],
   "omittedPaths": []
