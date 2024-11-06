@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/后端漏洞.md",
+                "file": "07.src学习/beishan/temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "后端漏洞"
+              "title": "temp"
             }
           },
           {
@@ -176,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/后端漏洞.md"
+                "file": "07.src学习/beishan/temp.md"
               },
               "icon": "lucide-list",
-              "title": "后端漏洞 的大纲"
+              "title": "temp 的大纲"
             }
           }
         ],
@@ -205,6 +205,7 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/beishan/后端漏洞.md",
     "0001.附件/34c41c1c3528126f62abab30e18aa79.jpg",
     "07.src学习/beishan/temp.md",
     "07.src学习/漏洞类/api测试.md",
@@ -215,7 +216,6 @@
     "02.靶场/bp/csrf.md",
     "02.靶场/bp/cors.md",
     "02.靶场/bp/业务逻辑.md",
-    "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan",
     "07.src学习/payload/xss payload.md",
     "07.src学习/漏洞类/逻辑漏洞.md",
@@ -250,7 +250,6 @@
     "08..垃圾箱/dellnote.md",
     "08..垃圾箱/pentest.md",
     "0001.附件/Pasted image 20241030233722.png",
-    "0001.附件/Pasted image 20241030233640.png",
     "未命名.canvas"
   ]
 }
