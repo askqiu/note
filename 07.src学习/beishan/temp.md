@@ -26,7 +26,8 @@ CSRF的客户端路径穿越
 ```
 /api/user/del/info?id=../../fever
 ```
-造成
+造成受害者发送这样的请求，会带上自己的csrftoken
 ```
 /api/user/del/fever
 ```
+这是发生在客户端的
