@@ -18,4 +18,15 @@ alert?.(1)
 可以绕waf
 ```
 
-客户端
+CSRF的客户端路径穿越
+/api/user/del/info?id=fever
+可能造成的后端请求是
+/api/user/del/info/id/fever
+那么我们可以
+```
+/api/user/del/info?id=../../fever
+```
+造成
+```
+/api/user/del/fever
+```
