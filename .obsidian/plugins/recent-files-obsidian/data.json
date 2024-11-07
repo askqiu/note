@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "客户端路径穿越",
-      "path": "07.src学习/文章分享/新技术/客户端路径穿越.md"
-    },
-    {
       "basename": "前端漏洞",
       "path": "07.src学习/beishan/前端漏洞.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/文章分享/通用技术.md"
+    },
+    {
+      "basename": "漏洞赏金猎人训练营",
+      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
+    },
+    {
+      "basename": "工具命令",
+      "path": "07.src学习/文章分享/工具命令.md"
+    },
+    {
+      "basename": "《js for hacker》",
+      "path": "07.src学习/文章分享/《js for hacker》.md"
+    },
+    {
+      "basename": "客户端路径穿越",
+      "path": "07.src学习/文章分享/新技术/客户端路径穿越.md"
     },
     {
       "basename": "temp",
@@ -183,22 +199,6 @@
     {
       "basename": "Pasted image 20241019231345",
       "path": "0001.附件/Pasted image 20241019231345.png"
-    },
-    {
-      "basename": "Pasted image 20241019225934",
-      "path": "0001.附件/Pasted image 20241019225934.png"
-    },
-    {
-      "basename": "Pasted image 20241019230258",
-      "path": "0001.附件/Pasted image 20241019230258.png"
-    },
-    {
-      "basename": "Pasted image 20241019230413",
-      "path": "0001.附件/Pasted image 20241019230413.png"
-    },
-    {
-      "basename": "Pasted image 20241019230059",
-      "path": "0001.附件/Pasted image 20241019230059.png"
     }
   ],
   "omittedPaths": []
