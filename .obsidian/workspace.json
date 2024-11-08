@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/前端漏洞.md",
+                "file": "07.src学习/beishan/rce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前端漏洞"
+              "title": "rce"
             }
           },
           {
@@ -176,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/前端漏洞.md"
+                "file": "07.src学习/beishan/rce.md"
               },
               "icon": "lucide-list",
-              "title": "前端漏洞 的大纲"
+              "title": "rce 的大纲"
             }
           }
         ],
@@ -205,12 +205,14 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/beishan/后端漏洞.md",
+    "07.src学习/beishan/rce.md",
+    "07.src学习/beishan/前端漏洞.md",
     "07.src学习/文章分享/通用技术.md",
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/文章分享/工具命令.md",
     "07.src学习/文章分享/《js for hacker》.md",
     "07.src学习/文章分享/新技术/客户端路径穿越.md",
-    "07.src学习/beishan/前端漏洞.md",
     "07.src学习/文章分享/新技术",
     "0001.附件/55a16b78ccb00ada29377a7aafd1037.jpg",
     "0001.附件/c4a6ec97f16ba311b8fce47d55bfd34.jpg",
@@ -218,7 +220,6 @@
     "07.src学习/漏洞类/api测试.md",
     "02.靶场/bp/api测试.md",
     "漏洞案例/知识星球xss.md",
-    "07.src学习/beishan/后端漏洞.md",
     "0001.附件/34c41c1c3528126f62abab30e18aa79.jpg",
     "02.靶场/bp/idor.md",
     "02.靶场/bp/xxe.md",
@@ -235,7 +236,6 @@
     "07.src学习/漏洞类/越权.md",
     "07.src学习/漏洞类/缓存类.md",
     "07.src学习/漏洞类/缓存类漏洞.md",
-    "07.src学习/西瓜.md",
     "0001.附件/Pasted image 20241103212156.png.baiduyun.uploading.cfg",
     "02.靶场/bp/idor.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103212156.png",
