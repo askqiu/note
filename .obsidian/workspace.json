@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/必备知识.md",
+                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "必备知识"
+              "title": "漏洞赏金猎人训练营"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "section:(jwt)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/必备知识.md"
+                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
               },
               "icon": "lucide-list",
-              "title": "必备知识 的大纲"
+              "title": "漏洞赏金猎人训练营 的大纲"
             }
           }
         ],
@@ -207,11 +208,11 @@
   },
   "active": "91a6e4ffe51023c6",
   "lastOpenFiles": [
+    "07.src学习/beishan/必备知识.md",
     "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan/前端漏洞.md",
     "07.src学习/beishan/rce.md",
     "07.src学习/文章分享/通用技术.md",
-    "07.src学习/beishan/必备知识.md",
     "07.src学习/payload/xss payload.md",
     "07.src学习/漏洞类/逻辑漏洞.md",
     "07.src学习/漏洞类/未命名 1.md",
