@@ -27,28 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/rce.md",
+                "file": "07.src学习/beishan/后端漏洞.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rce"
+              "title": "后端漏洞"
             }
           },
           {
             "id": "91a6e4ffe51023c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0001.附件/Pasted image 20241103170726.png"
+                "file": "07.src学习/文章分享/《js for hacker》.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241103170726"
+              "icon": "lucide-file",
+              "title": "《js for hacker》"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/rce.md"
+                "file": "07.src学习/文章分享/《js for hacker》.md"
               },
               "icon": "lucide-list",
-              "title": "rce 的大纲"
+              "title": "《js for hacker》 的大纲"
             }
           }
         ],
@@ -203,8 +205,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "5d994cb3411f0b5c",
+  "active": "91a6e4ffe51023c6",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20241103170726.png",
     "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan/rce.md",
     "07.src学习/beishan/前端漏洞.md",
@@ -235,13 +238,11 @@
     "07.src学习/漏洞类/未命名 1.md",
     "07.src学习/漏洞类/越权.md",
     "07.src学习/漏洞类/缓存类.md",
-    "07.src学习/漏洞类/缓存类漏洞.md",
     "0001.附件/Pasted image 20241103212156.png.baiduyun.uploading.cfg",
     "02.靶场/bp/idor.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103212156.png",
     "0001.附件/Pasted image 20241103171151.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103171151.png",
-    "0001.附件/Pasted image 20241103170726.png",
     "0001.附件/Pasted image 20241103170726.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103115854.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103115854.png",
