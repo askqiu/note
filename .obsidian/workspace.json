@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/文章分享/《js for hacker》.md",
+                "file": "07.src学习/beishan/rce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《js for hacker》"
+              "title": "rce"
             }
           }
         ],
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/文章分享/《js for hacker》.md"
+                "file": "07.src学习/beishan/rce.md"
               },
               "icon": "lucide-list",
-              "title": "《js for hacker》 的大纲"
+              "title": "rce 的大纲"
             }
           }
         ],
@@ -207,6 +207,7 @@
   },
   "active": "91a6e4ffe51023c6",
   "lastOpenFiles": [
+    "07.src学习/文章分享/《js for hacker》.md",
     "0001.附件/Pasted image 20241103170726.png",
     "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan/rce.md",
@@ -214,7 +215,6 @@
     "07.src学习/文章分享/通用技术.md",
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/文章分享/工具命令.md",
-    "07.src学习/文章分享/《js for hacker》.md",
     "07.src学习/文章分享/新技术/客户端路径穿越.md",
     "07.src学习/文章分享/新技术",
     "0001.附件/55a16b78ccb00ada29377a7aafd1037.jpg",

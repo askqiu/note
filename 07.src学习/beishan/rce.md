@@ -15,3 +15,10 @@ js，小程序反编译，app的java代码
 - 怎么找到这个漏洞
 - 怎么利用漏洞rce
 所以要提前复现
+
+ssti
+https://mp.weixin.qq.com/s/-wSFSweL1my-kUDB3gq0ng
+不常见，一般需要用到html渲染的业务功能就很可能存在，比如有邮件相关的可能有，并且伴随xss
+一些简单输出的地方（开发可能为了html渲染，懒得写html文件，简单写了几句直接渲染字符串）
+
+ssrf
