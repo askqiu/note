@@ -22,3 +22,11 @@ https://mp.weixin.qq.com/s/-wSFSweL1my-kUDB3gq0ng
 一些简单输出的地方（开发可能为了html渲染，懒得写html文件，简单写了几句直接渲染字符串）
 
 ssrf
+https://cloud.tencent.com/developer/article/1968655?areaSource=105001.3&traceld=FyZTpLc2ixMvGwJf2-pDn
+国内服务器很难碰到aksk能访问，因为有未知变量
+aws可以
+
+ssrf无回显打redis，mysql，全回显
+
+命令注入
+文件名等，经过后端代码处理可能会使用命令执行的代码
