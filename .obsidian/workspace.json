@@ -53,12 +53,14 @@
             "id": "14c3ccea9523653b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "07.src学习/通用技术/找接口/js源码分析.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "js源码分析"
             }
           }
         ],
@@ -124,8 +126,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/逻辑漏洞.md"
+                "file": "07.src学习/通用技术/找接口/js源码分析.md"
               },
               "icon": "lucide-list",
-              "title": "逻辑漏洞 的大纲"
+              "title": "js源码分析 的大纲"
             }
           }
         ],
@@ -218,16 +219,26 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "24922f586ad3e01f",
+  "active": "14c3ccea9523653b",
   "lastOpenFiles": [
-    "07.src学习/beishan/必备知识.md",
+    "07.src学习/payload/xss payload.md",
+    "07.src学习/beishan/temp.md",
+    "08..垃圾箱/dellnote.md",
+    "08..垃圾箱/important.md",
+    "08..垃圾箱/temp.md",
+    "08..垃圾箱/pentest.md",
+    "08..垃圾箱/漏洞url.md",
+    "07.src学习/oauth赃物.md",
+    "07.src学习/杂记.md",
+    "07.src学习/西瓜.md",
+    "07.src学习/beishan/rce.md",
+    "07.src学习/beishan/前端漏洞.md",
     "07.src学习/beishan/逻辑漏洞.md",
+    "07.src学习/beishan/逻辑漏洞.md.baiduyun.uploading.cfg",
+    "07.src学习/beishan/必备知识.md",
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/beishan/后端漏洞.md",
-    "07.src学习/beishan/前端漏洞.md",
-    "07.src学习/beishan/rce.md",
     "07.src学习/文章分享/通用技术.md",
-    "07.src学习/payload/xss payload.md",
     "07.src学习/漏洞类/逻辑漏洞.md",
     "07.src学习/漏洞类/未命名 1.md",
     "07.src学习/漏洞类/越权.md",
@@ -239,19 +250,10 @@
     "07.src学习/文章分享/新技术",
     "0001.附件/55a16b78ccb00ada29377a7aafd1037.jpg",
     "0001.附件/c4a6ec97f16ba311b8fce47d55bfd34.jpg",
-    "07.src学习/beishan/temp.md",
     "02.靶场/bp/api测试.md",
     "漏洞案例/知识星球xss.md",
     "0001.附件/34c41c1c3528126f62abab30e18aa79.jpg",
-    "02.靶场/bp/idor.md",
-    "02.靶场/bp/xxe.md",
-    "02.靶场/bp/oauth.md",
-    "02.靶场/bp/ssrf.md",
-    "02.靶场/bp/csrf.md",
-    "02.靶场/bp/cors.md",
-    "02.靶场/bp/业务逻辑.md",
     "07.src学习/beishan",
-    "07.src学习/漏洞类/未命名.md",
     "0001.附件/Pasted image 20241103212156.png.baiduyun.uploading.cfg",
     "02.靶场/bp/idor.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103212156.png",
@@ -264,7 +266,6 @@
     "0001.附件/Pasted image 20241103115721.png",
     "0001.附件/Pasted image 20241103115718.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103115718.png",
-    "0001.附件/Pasted image 20241103115559.png.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103115559.png",
     "未命名.canvas"
   ]
