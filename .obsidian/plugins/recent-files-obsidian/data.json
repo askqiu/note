@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "前后端分离",
+      "path": "01.开发/架构知识/前后端分离.md"
+    },
+    {
+      "basename": "必备知识",
+      "path": "07.src学习/beishan/必备知识.md"
+    },
+    {
+      "basename": "找接口",
+      "path": "07.src学习/通用技术/找接口/找接口.md"
+    },
+    {
+      "basename": "挖掘技巧",
+      "path": "07.src学习/beishan/挖掘技巧.md"
+    },
+    {
       "basename": "js源码分析",
       "path": "07.src学习/通用技术/找接口/js源码分析.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "逻辑漏洞",
       "path": "07.src学习/beishan/逻辑漏洞.md"
-    },
-    {
-      "basename": "必备知识",
-      "path": "07.src学习/beishan/必备知识.md"
     },
     {
       "basename": "漏洞赏金猎人训练营",
@@ -187,18 +199,6 @@
     {
       "basename": "溯源",
       "path": "03.面试/溯源.md"
-    },
-    {
-      "basename": "云渗透",
-      "path": "05.云安全/云渗透.md"
-    },
-    {
-      "basename": "src",
-      "path": "02.靶场/靶场链接/src.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "02.靶场/靶场链接/graphql.md"
     }
   ],
   "omittedPaths": []
