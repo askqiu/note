@@ -5,6 +5,10 @@
       "path": "01.开发/架构知识/前后端分离.md"
     },
     {
+      "basename": "未命名",
+      "path": "01.开发/架构知识/未命名.md"
+    },
+    {
       "basename": "必备知识",
       "path": "07.src学习/beishan/必备知识.md"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "oauth",
       "path": "01.开发/架构知识/oauth.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01.开发/架构知识/未命名.md"
     },
     {
       "basename": "必备知识",
