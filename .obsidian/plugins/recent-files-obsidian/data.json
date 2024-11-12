@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "temp",
+      "path": "08..垃圾箱/temp.md"
+    },
+    {
       "basename": "前后端分离",
       "path": "01.开发/架构知识/前后端分离.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "important",
       "path": "08..垃圾箱/important.md"
-    },
-    {
-      "basename": "temp",
-      "path": "08..垃圾箱/temp.md"
     },
     {
       "basename": "pentest",
