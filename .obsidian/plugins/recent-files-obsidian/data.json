@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20241103115854",
+      "path": "0001.附件/Pasted image 20241103115854.png"
+    },
+    {
+      "basename": "Pasted image 20241103170726",
+      "path": "0001.附件/Pasted image 20241103170726.png"
+    },
+    {
+      "basename": "Pasted image 20241103171151",
+      "path": "0001.附件/Pasted image 20241103171151.png"
+    },
+    {
+      "basename": "Pasted image 20241103212156",
+      "path": "0001.附件/Pasted image 20241103212156.png"
+    },
+    {
+      "basename": "34c41c1c3528126f62abab30e18aa79",
+      "path": "0001.附件/34c41c1c3528126f62abab30e18aa79.jpg"
+    },
+    {
+      "basename": "4ef4d4d903afdc6774c77306e3b40f7",
+      "path": "0001.附件/4ef4d4d903afdc6774c77306e3b40f7.png"
+    },
+    {
+      "basename": "1E7FE5C7",
+      "path": "0001.附件/1E7FE5C7.png"
+    },
+    {
+      "basename": "Pasted image 20240909214158",
+      "path": "0001.附件/Pasted image 20240909214158.png"
+    },
+    {
+      "basename": "Pasted image 20240909214237",
+      "path": "0001.附件/Pasted image 20240909214237.png"
+    },
+    {
       "basename": "temp",
       "path": "08..垃圾箱/temp.md"
     },
@@ -117,10 +153,6 @@
       "path": "07.src学习/文章分享/新技术/客户端路径穿越.md"
     },
     {
-      "basename": "Pasted image 20241103170726",
-      "path": "0001.附件/Pasted image 20241103170726.png"
-    },
-    {
       "basename": "api测试",
       "path": "02.靶场/bp/api测试.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "缓存类漏洞",
       "path": "07.src学习/漏洞类/缓存类漏洞.md"
-    },
-    {
-      "basename": "信息泄露",
-      "path": "02.靶场/bp/信息泄露.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "01.开发/架构知识/graphql.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "01.开发/架构知识/oauth.md"
-    },
-    {
-      "basename": "必备知识",
-      "path": "07.src学习/通用技术/必备知识.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
-    },
-    {
-      "basename": "研判",
-      "path": "03.面试/研判.md"
-    },
-    {
-      "basename": "溯源",
-      "path": "03.面试/溯源.md"
     }
   ],
   "omittedPaths": []
