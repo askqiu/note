@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "jwt",
+      "path": "02.靶场/bp/jwt.md"
+    },
+    {
       "basename": "Pasted image 20241103115854",
       "path": "0001.附件/Pasted image 20241103115854.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "缓存类",
       "path": "07.src学习/漏洞类/缓存类.md"
-    },
-    {
-      "basename": "缓存类漏洞",
-      "path": "07.src学习/漏洞类/缓存类漏洞.md"
     }
   ],
   "omittedPaths": []

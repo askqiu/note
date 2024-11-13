@@ -53,12 +53,14 @@
             "id": "14c3ccea9523653b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0001.附件/Pasted image 20241103115854.png"
+                "file": "02.靶场/bp/jwt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241103115854"
+              "icon": "lucide-file",
+              "title": "jwt"
             }
           }
         ],
@@ -190,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0001.附件/Pasted image 20241103115854.png"
+                "file": "02.靶场/bp/jwt.md"
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20241103115854 的大纲"
+              "title": "jwt 的大纲"
             }
           }
         ],
@@ -219,6 +221,8 @@
   },
   "active": "14c3ccea9523653b",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20241103115854.png",
+    "02.靶场/bp/jwt.md",
     "0001.附件/Pasted image 20241103170726.png",
     "0001.附件/Pasted image 20241103171151.png",
     "0001.附件/Pasted image 20241103212156.png",
@@ -229,7 +233,6 @@
     "0001.附件/4ef4d4d903afdc6774c77306e3b40f7.png",
     "0001.附件/1E7FE5C7.png",
     "0001.附件/Pasted image 20240909214158.png",
-    "0001.附件/Pasted image 20240909214237.png",
     "08..垃圾箱/temp.md",
     "01.开发/架构知识/前后端分离.md",
     "01.开发/架构知识/未命名.md",
@@ -257,7 +260,6 @@
     "07.src学习/文章分享/通用技术.md",
     "07.src学习/漏洞类/逻辑漏洞.md",
     "07.src学习/漏洞类/未命名 1.md",
-    "07.src学习/漏洞类/越权.md",
     "07.src学习/文章分享/新技术",
     "07.src学习/beishan",
     "0001.附件/Pasted image 20241103212156.png.baiduyun.uploading.cfg",
