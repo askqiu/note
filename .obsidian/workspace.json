@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "jwt"
             }
+          },
+          {
+            "id": "919f5507154fbba9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,7 +232,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "14c3ccea9523653b",
+  "active": "24922f586ad3e01f",
   "lastOpenFiles": [
     "0001.附件/Pasted image 20241113190428.png",
     "0001.附件/Pasted image 20241113190358.png",
