@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "idor",
+      "path": "02.靶场/bp/idor.md"
+    },
+    {
       "basename": "jwt",
       "path": "02.靶场/bp/jwt.md"
     },
@@ -171,10 +175,6 @@
     {
       "basename": "知识星球xss",
       "path": "漏洞案例/知识星球xss.md"
-    },
-    {
-      "basename": "idor",
-      "path": "02.靶场/bp/idor.md"
     },
     {
       "basename": "xxe",
