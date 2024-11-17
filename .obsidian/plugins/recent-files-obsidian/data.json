@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "问题记录1",
+      "path": "100.问题记录/问题记录1.md"
+    },
+    {
       "basename": "前置",
       "path": "07.src学习/beishan/xiaohuojv/前置.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "业务逻辑",
       "path": "02.靶场/bp/业务逻辑.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "07.src学习/漏洞类/未命名.md"
     }
   ],
   "omittedPaths": []

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/xiaohuojv/前置.md",
+                "file": "100.问题记录/问题记录1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前置"
+              "title": "问题记录1"
             }
           }
         ],
@@ -206,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/xiaohuojv/前置.md"
+                "file": "100.问题记录/问题记录1.md"
               },
               "icon": "lucide-list",
-              "title": "前置 的大纲"
+              "title": "问题记录1 的大纲"
             }
           }
         ],
@@ -235,8 +235,10 @@
   },
   "active": "919f5507154fbba9",
   "lastOpenFiles": [
-    "07.src学习/beishan/必备知识.md",
     "07.src学习/beishan/xiaohuojv/前置.md",
+    "100.问题记录/问题记录1.md",
+    "100.问题记录",
+    "07.src学习/beishan/必备知识.md",
     "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan/rce.md",
     "07.src学习/beishan/temp.md",
@@ -274,13 +276,11 @@
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/文章分享/通用技术.md",
     "07.src学习/漏洞类/逻辑漏洞.md",
-    "07.src学习/漏洞类/未命名 1.md",
     "07.src学习/文章分享/新技术",
     "07.src学习/beishan",
     "0001.附件/Pasted image 20241103212156.png.baiduyun.uploading.cfg",
     "02.靶场/bp/idor.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241103171151.png.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20241103170726.png.baiduyun.uploading.cfg",
     "未命名.canvas"
   ]
 }
