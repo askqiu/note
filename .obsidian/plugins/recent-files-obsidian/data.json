@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "必备知识",
+      "path": "07.src学习/beishan/必备知识.md"
+    },
+    {
+      "basename": "前置",
+      "path": "07.src学习/beishan/xiaohuojv/前置.md"
+    },
+    {
       "basename": "jwt",
       "path": "02.靶场/bp/jwt.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "未命名",
       "path": "01.开发/架构知识/未命名.md"
-    },
-    {
-      "basename": "必备知识",
-      "path": "07.src学习/beishan/必备知识.md"
     },
     {
       "basename": "找接口",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "07.src学习/漏洞类/未命名.md"
-    },
-    {
-      "basename": "缓存类",
-      "path": "07.src学习/漏洞类/缓存类.md"
     }
   ],
   "omittedPaths": []
