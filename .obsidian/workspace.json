@@ -204,11 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02.靶场/bp/jwt.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "jwt 的大纲"
+              "title": "大纲"
             }
           }
         ],
