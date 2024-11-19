@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
+      "basename": "问题记录1",
+      "path": "100.问题记录/问题记录1.md"
+    },
+    {
       "basename": "real",
       "path": "07.src学习/beishan/real.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "api测试",
       "path": "02.靶场/bp/api测试.md"
-    },
-    {
-      "basename": "问题记录1",
-      "path": "100.问题记录/问题记录1.md"
     },
     {
       "basename": "rce",
@@ -123,10 +127,6 @@
     {
       "basename": "dellnote",
       "path": "08..垃圾箱/dellnote.md"
-    },
-    {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
     },
     {
       "basename": "pentest",
