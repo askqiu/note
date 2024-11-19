@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "real",
+      "path": "07.src学习/beishan/real.md"
+    },
+    {
       "basename": "必备知识",
       "path": "07.src学习/beishan/必备知识.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "csrf",
       "path": "02.靶场/bp/csrf.md"
-    },
-    {
-      "basename": "cors",
-      "path": "02.靶场/bp/cors.md"
     }
   ],
   "omittedPaths": []
