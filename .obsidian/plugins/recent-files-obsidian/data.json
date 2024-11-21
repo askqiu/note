@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "信息泄露",
+      "path": "02.靶场/bp/信息泄露.md"
+    },
+    {
+      "basename": "漏洞url",
+      "path": "08..垃圾箱/漏洞url.md"
+    },
+    {
       "basename": "后端漏洞",
       "path": "07.src学习/beishan/后端漏洞.md"
     },
     {
       "basename": "必备知识",
       "path": "07.src学习/beishan/必备知识.md"
-    },
-    {
-      "basename": "漏洞url",
-      "path": "08..垃圾箱/漏洞url.md"
     },
     {
       "basename": "important",
@@ -195,10 +199,6 @@
     {
       "basename": "ssrf",
       "path": "02.靶场/bp/ssrf.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
     }
   ],
   "omittedPaths": []
