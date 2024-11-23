@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "云渗透",
+      "path": "05.云安全/云渗透.md"
+    },
+    {
+      "basename": "知识星球xss",
+      "path": "漏洞案例/知识星球xss.md"
+    },
+    {
+      "basename": "逻辑漏洞",
+      "path": "07.src学习/beishan/逻辑漏洞.md"
+    },
+    {
+      "basename": "jwt",
+      "path": "02.靶场/bp/jwt.md"
+    },
+    {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
       "basename": "必备知识",
       "path": "07.src学习/beishan/必备知识.md"
+    },
+    {
+      "basename": "cors",
+      "path": "02.靶场/bp/cors.md"
+    },
+    {
+      "basename": "api测试",
+      "path": "02.靶场/bp/api测试.md"
     },
     {
       "basename": "信息泄露",
@@ -15,10 +43,6 @@
     {
       "basename": "后端漏洞",
       "path": "07.src学习/beishan/后端漏洞.md"
-    },
-    {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
     },
     {
       "basename": "dellnote",
@@ -37,28 +61,12 @@
       "path": "07.src学习/beishan/idor.md"
     },
     {
-      "basename": "逻辑漏洞",
-      "path": "07.src学习/beishan/逻辑漏洞.md"
-    },
-    {
       "basename": "前置",
       "path": "07.src学习/beishan/xiaohuojv/前置.md"
     },
     {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
-    },
-    {
       "basename": "idor",
       "path": "02.靶场/bp/idor.md"
-    },
-    {
-      "basename": "jwt",
-      "path": "02.靶场/bp/jwt.md"
-    },
-    {
-      "basename": "api测试",
-      "path": "02.靶场/bp/api测试.md"
     },
     {
       "basename": "rce",
@@ -191,14 +199,6 @@
     {
       "basename": "xxe",
       "path": "02.靶场/bp/xxe.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "02.靶场/bp/oauth.md"
-    },
-    {
-      "basename": "ssrf",
-      "path": "02.靶场/bp/ssrf.md"
     }
   ],
   "omittedPaths": []
