@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "100.问题记录/问题记录1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "云渗透"
+              "title": "问题记录1"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.云安全/云渗透.md"
+                "file": "100.问题记录/问题记录1.md"
               },
               "icon": "lucide-list",
-              "title": "云渗透 的大纲"
+              "title": "问题记录1 的大纲"
             }
           }
         ],
@@ -177,21 +176,22 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "24922f586ad3e01f",
+  "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "08..垃圾箱/漏洞url.md",
+    "100.问题记录/问题记录1.md",
+    "02.靶场/bp/jwt.md",
+    "0001.附件/Pasted image 20241124145550.png",
+    "05.云安全/云渗透.md",
     "漏洞案例/知识星球xss.md",
     "07.src学习/beishan/逻辑漏洞.md",
-    "02.靶场/bp/jwt.md",
     "08..垃圾箱/important.md",
     "07.src学习/beishan/必备知识.md",
-    "05.云安全/云渗透.md",
     "02.靶场/bp/cors.md",
     "02.靶场/bp/api测试.md",
     "02.靶场/bp/信息泄露.md",
-    "08..垃圾箱/漏洞url.md",
     "07.src学习/beishan/后端漏洞.md",
     "08..垃圾箱/dellnote.md",
-    "100.问题记录/问题记录1.md",
     "07.src学习/beishan/real.md",
     "07.src学习/beishan/idor.md",
     "07.src学习/beishan/xiaohuojv/前置.md",
@@ -211,14 +211,12 @@
     "0001.附件/Pasted image 20241103212156.png",
     "0001.附件/34c41c1c3528126f62abab30e18aa79.jpg",
     "0001.附件/Pasted image 20241112193553.png",
-    "0001.附件/Pasted image 20241112193651.png",
     "08..垃圾箱/temp.md",
     "01.开发/架构知识/前后端分离.md",
     "01.开发/架构知识/未命名.md",
     "01.开发/架构知识/前后端分离.md.baiduyun.uploading.cfg",
     "07.src学习/通用技术/找接口/找接口.md",
     "07.src学习/beishan/挖掘技巧.md.baiduyun.uploading.cfg",
-    "07.src学习/通用技术/找接口/js源码分析.md",
     "07.src学习/beishan/逻辑漏洞.md.baiduyun.uploading.cfg",
     "07.src学习/文章分享/新技术",
     "07.src学习/beishan",
