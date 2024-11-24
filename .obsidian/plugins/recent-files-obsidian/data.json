@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "api",
+      "path": "01.开发/架构知识/api.md"
+    },
+    {
       "basename": "问题记录1",
       "path": "100.问题记录/问题记录1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "客户端路径穿越",
       "path": "07.src学习/文章分享/新技术/客户端路径穿越.md"
-    },
-    {
-      "basename": "xxe",
-      "path": "02.靶场/bp/xxe.md"
     }
   ],
   "omittedPaths": []
