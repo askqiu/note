@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
-    },
-    {
-      "basename": "temp",
-      "path": "07.src学习/beishan/temp.md"
-    },
-    {
       "basename": "api测试",
       "path": "02.靶场/bp/api测试.md"
     },
     {
       "basename": "cors",
       "path": "02.靶场/bp/cors.md"
+    },
+    {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
+    },
+    {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
+    },
+    {
+      "basename": "oauth",
+      "path": "02.靶场/bp/oauth.md"
+    },
+    {
+      "basename": "idor",
+      "path": "02.靶场/bp/idor.md"
+    },
+    {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
+      "basename": "temp",
+      "path": "07.src学习/beishan/temp.md"
     },
     {
       "basename": "未命名",
@@ -87,10 +103,6 @@
     {
       "basename": "前置",
       "path": "07.src学习/beishan/xiaohuojv/前置.md"
-    },
-    {
-      "basename": "idor",
-      "path": "02.靶场/bp/idor.md"
     },
     {
       "basename": "rce",
@@ -187,18 +199,6 @@
     {
       "basename": "未命名 1",
       "path": "07.src学习/漏洞类/未命名 1.md"
-    },
-    {
-      "basename": "越权",
-      "path": "07.src学习/漏洞类/越权.md"
-    },
-    {
-      "basename": "api测试",
-      "path": "07.src学习/漏洞类/api测试.md"
-    },
-    {
-      "basename": "工具命令",
-      "path": "07.src学习/文章分享/工具命令.md"
     }
   ],
   "omittedPaths": []
