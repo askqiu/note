@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "api测试",
+      "path": "02.靶场/bp/api测试.md"
+    },
+    {
+      "basename": "cors",
+      "path": "02.靶场/bp/cors.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "07.src学习/payload/未命名.md"
+    },
+    {
+      "basename": "xss payload",
+      "path": "07.src学习/payload/xss payload.md"
+    },
+    {
+      "basename": "西瓜",
+      "path": "07.src学习/西瓜.md"
+    },
+    {
       "basename": "逻辑漏洞",
       "path": "07.src学习/beishan/逻辑漏洞.md"
     },
@@ -43,14 +63,6 @@
     {
       "basename": "important",
       "path": "08..垃圾箱/important.md"
-    },
-    {
-      "basename": "cors",
-      "path": "02.靶场/bp/cors.md"
-    },
-    {
-      "basename": "api测试",
-      "path": "02.靶场/bp/api测试.md"
     },
     {
       "basename": "信息泄露",
@@ -145,10 +157,6 @@
       "path": "07.src学习/通用技术/找接口/js源码分析.md"
     },
     {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
-    },
-    {
       "basename": "pentest",
       "path": "08..垃圾箱/pentest.md"
     },
@@ -159,10 +167,6 @@
     {
       "basename": "杂记",
       "path": "07.src学习/杂记.md"
-    },
-    {
-      "basename": "西瓜",
-      "path": "07.src学习/西瓜.md"
     },
     {
       "basename": "漏洞赏金猎人训练营",
@@ -195,10 +199,6 @@
     {
       "basename": "《js for hacker》",
       "path": "07.src学习/文章分享/《js for hacker》.md"
-    },
-    {
-      "basename": "客户端路径穿越",
-      "path": "07.src学习/文章分享/新技术/客户端路径穿越.md"
     }
   ],
   "omittedPaths": []
