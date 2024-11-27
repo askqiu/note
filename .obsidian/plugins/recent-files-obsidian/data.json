@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
       "basename": "temp",
       "path": "07.src学习/beishan/temp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "工具命令",
       "path": "07.src学习/文章分享/工具命令.md"
-    },
-    {
-      "basename": "《js for hacker》",
-      "path": "07.src学习/文章分享/《js for hacker》.md"
     }
   ],
   "omittedPaths": []
