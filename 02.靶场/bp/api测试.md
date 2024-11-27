@@ -20,3 +20,11 @@ csrf=VcOTyYojxc25BBOOiu5Tx2MM9khcuFD1&username=administrator
 username=administrator%26field=reset_token%23
 ```
 再去访问/forgot-password?reset_token=123456789，这里的功能点是带着这个token就能该密码
+
+# 查找并利用未使用的 API 端点
+Lab: Finding and exploiting an unused API endpoint
++++
+要求：购买夹克，0元购
+先options请求，发现patch请求方法可以用，patch可以更新服务器的资源
+用patch请求方法更新商品信息
+要根据返回包构造json，参数
