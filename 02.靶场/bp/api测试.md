@@ -28,3 +28,12 @@ Lab: Finding and exploiting an unused API endpoint
 先options请求，发现patch请求方法可以用，patch可以更新服务器的资源
 用patch请求方法更新商品信息
 要根据返回包构造json，参数
+
+# 利用大量赋值漏洞
+Lab: Exploiting a mass assignment vulnerability
+++++
+要求也是购买夹克
+get请求api发现响应有chosen_discount参数
+而post请求请求体没有这个参数，猜测这个参数控制折扣百分比
+我们给他加上，赋值100，直接拿下
+这里post请求是结账用的
