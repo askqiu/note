@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "ssrf",
+      "path": "02.靶场/bp/ssrf.md"
+    },
+    {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
+    },
+    {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
+      "basename": "oauth",
+      "path": "02.靶场/bp/oauth.md"
+    },
+    {
       "basename": "api测试",
       "path": "02.靶场/bp/api测试.md"
     },
@@ -13,20 +29,8 @@
       "path": "02.靶场/fastfood.md"
     },
     {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "02.靶场/bp/oauth.md"
-    },
-    {
       "basename": "idor",
       "path": "02.靶场/bp/idor.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
     },
     {
       "basename": "temp",
@@ -195,10 +199,6 @@
     {
       "basename": "逻辑漏洞",
       "path": "07.src学习/漏洞类/逻辑漏洞.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "07.src学习/漏洞类/未命名 1.md"
     }
   ],
   "omittedPaths": []

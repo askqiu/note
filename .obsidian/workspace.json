@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/api测试.md",
+                "file": "02.靶场/bp/ssrf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "api测试"
+              "title": "ssrf"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/api测试.md"
+                "file": "02.靶场/bp/ssrf.md"
               },
               "icon": "lucide-list",
-              "title": "api测试 的大纲"
+              "title": "ssrf 的大纲"
             }
           }
         ],
@@ -178,14 +178,15 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "02.靶场/bp/xss.md",
+    "02.靶场/bp/ssrf.md",
+    "02.靶场/bp/csrf.md",
+    "02.靶场/bp/oauth.md",
+    "02.靶场/bp/api测试.md",
     "02.靶场/bp/cors.md",
     "02.靶场/fastfood.md",
-    "02.靶场/bp/xss.md",
-    "02.靶场/bp/oauth.md",
     "02.靶场/bp/idor.md",
-    "02.靶场/bp/csrf.md",
     "07.src学习/beishan/temp.md",
-    "02.靶场/bp/api测试.md",
     "0001.附件/Pasted image 20241127141813.png",
     "0001.附件/Pasted image 20241127141810.png",
     "0001.附件/Pasted image 20241127141510.png",
@@ -213,7 +214,6 @@
     "08..垃圾箱/dellnote.md",
     "07.src学习/beishan/real.md",
     "07.src学习/beishan/idor.md",
-    "07.src学习/beishan/xiaohuojv/前置.md",
     "0001.附件/Pasted image 20241117223128.png",
     "100.问题记录",
     "07.src学习/beishan/xiaohuojv",
