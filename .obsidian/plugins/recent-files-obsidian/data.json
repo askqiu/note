@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "逻辑漏洞",
+      "path": "07.src学习/beishan/逻辑漏洞.md"
+    },
+    {
+      "basename": "漏洞赏金猎人训练营",
+      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
+    },
+    {
+      "basename": "信息收集",
+      "path": "07.src学习/通用技术/信息收集.md"
+    },
+    {
+      "basename": "必备知识",
+      "path": "07.src学习/通用技术/必备知识.md"
+    },
+    {
       "basename": "real",
       "path": "07.src学习/beishan/real.md"
     },
@@ -51,10 +67,6 @@
     {
       "basename": "西瓜",
       "path": "07.src学习/西瓜.md"
-    },
-    {
-      "basename": "逻辑漏洞",
-      "path": "07.src学习/beishan/逻辑漏洞.md"
     },
     {
       "basename": "后端漏洞",
@@ -187,18 +199,6 @@
     {
       "basename": "杂记",
       "path": "07.src学习/杂记.md"
-    },
-    {
-      "basename": "漏洞赏金猎人训练营",
-      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
-    },
-    {
-      "basename": "通用技术",
-      "path": "07.src学习/文章分享/通用技术.md"
-    },
-    {
-      "basename": "逻辑漏洞",
-      "path": "07.src学习/漏洞类/逻辑漏洞.md"
     }
   ],
   "omittedPaths": []
