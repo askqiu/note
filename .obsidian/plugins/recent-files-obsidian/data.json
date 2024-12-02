@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "必备知识",
+      "path": "07.src学习/beishan/必备知识.md"
+    },
+    {
       "basename": "逻辑漏洞",
       "path": "07.src学习/beishan/逻辑漏洞.md"
+    },
+    {
+      "basename": "前端漏洞",
+      "path": "07.src学习/beishan/前端漏洞.md"
+    },
+    {
+      "basename": "idor",
+      "path": "07.src学习/beishan/idor.md"
+    },
+    {
+      "basename": "temp",
+      "path": "07.src学习/beishan/temp.md"
+    },
+    {
+      "basename": "rce",
+      "path": "07.src学习/beishan/rce.md"
+    },
+    {
+      "basename": "挖掘技巧",
+      "path": "07.src学习/beishan/挖掘技巧.md"
+    },
+    {
+      "basename": "real",
+      "path": "07.src学习/beishan/real.md"
+    },
+    {
+      "basename": "西瓜",
+      "path": "07.src学习/西瓜.md"
     },
     {
       "basename": "漏洞赏金猎人训练营",
@@ -15,10 +47,6 @@
     {
       "basename": "必备知识",
       "path": "07.src学习/通用技术/必备知识.md"
-    },
-    {
-      "basename": "real",
-      "path": "07.src学习/beishan/real.md"
     },
     {
       "basename": "ssrf",
@@ -53,10 +81,6 @@
       "path": "02.靶场/bp/idor.md"
     },
     {
-      "basename": "temp",
-      "path": "07.src学习/beishan/temp.md"
-    },
-    {
       "basename": "未命名",
       "path": "07.src学习/payload/未命名.md"
     },
@@ -65,16 +89,8 @@
       "path": "07.src学习/payload/xss payload.md"
     },
     {
-      "basename": "西瓜",
-      "path": "07.src学习/西瓜.md"
-    },
-    {
       "basename": "后端漏洞",
       "path": "07.src学习/beishan/后端漏洞.md"
-    },
-    {
-      "basename": "必备知识",
-      "path": "07.src学习/beishan/必备知识.md"
     },
     {
       "basename": "api",
@@ -113,24 +129,8 @@
       "path": "08..垃圾箱/dellnote.md"
     },
     {
-      "basename": "idor",
-      "path": "07.src学习/beishan/idor.md"
-    },
-    {
       "basename": "前置",
       "path": "07.src学习/beishan/xiaohuojv/前置.md"
-    },
-    {
-      "basename": "rce",
-      "path": "07.src学习/beishan/rce.md"
-    },
-    {
-      "basename": "前端漏洞",
-      "path": "07.src学习/beishan/前端漏洞.md"
-    },
-    {
-      "basename": "挖掘技巧",
-      "path": "07.src学习/beishan/挖掘技巧.md"
     },
     {
       "basename": "Pasted image 20241103115854",

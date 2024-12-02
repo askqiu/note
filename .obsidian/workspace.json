@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/逻辑漏洞.md",
+                "file": "07.src学习/beishan/必备知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逻辑漏洞"
+              "title": "必备知识"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/逻辑漏洞.md"
+                "file": "07.src学习/beishan/必备知识.md"
               },
               "icon": "lucide-list",
-              "title": "逻辑漏洞 的大纲"
+              "title": "必备知识 的大纲"
             }
           }
         ],
@@ -176,12 +176,19 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/beishan/逻辑漏洞.md",
+    "07.src学习/beishan/前端漏洞.md",
+    "07.src学习/beishan/idor.md",
+    "07.src学习/beishan/temp.md",
+    "07.src学习/beishan/rce.md",
+    "07.src学习/beishan/挖掘技巧.md",
+    "07.src学习/beishan/real.md",
+    "07.src学习/西瓜.md",
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/通用技术/信息收集.md",
     "07.src学习/通用技术/必备知识.md",
-    "07.src学习/beishan/real.md",
     "02.靶场/bp/ssrf.md",
     "02.靶场/bp/xss.md",
     "02.靶场/bp/csrf.md",
@@ -190,14 +197,11 @@
     "02.靶场/bp/cors.md",
     "02.靶场/fastfood.md",
     "02.靶场/bp/idor.md",
-    "07.src学习/beishan/temp.md",
     "0001.附件/Pasted image 20241127141813.png",
     "0001.附件/Pasted image 20241127141810.png",
     "0001.附件/Pasted image 20241127141510.png",
     "07.src学习/payload/未命名.md",
     "07.src学习/payload/xss payload.md",
-    "07.src学习/西瓜.md",
-    "07.src学习/beishan/逻辑漏洞.md",
     "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan/必备知识.md",
     "01.开发/架构知识/api.md.baiduyun.uploading.cfg",
@@ -209,11 +213,7 @@
     "01.开发/架构知识/api.md",
     "100.问题记录/问题记录1.md",
     "08..垃圾箱/漏洞url.md",
-    "02.靶场/bp/jwt.md",
     "0001.附件/Pasted image 20241124145550.png",
-    "05.云安全/云渗透.md",
-    "漏洞案例/知识星球xss.md",
-    "08..垃圾箱/important.md",
     "0001.附件/Pasted image 20241117223128.png",
     "100.问题记录",
     "07.src学习/beishan/xiaohuojv",
