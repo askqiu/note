@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "oauth赃物",
+      "path": "07.src学习/漏洞类/oauth赃物.md"
+    },
+    {
+      "basename": "api测试",
+      "path": "07.src学习/漏洞类/api测试.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "07.src学习/文章分享/杂记.md"
+    },
+    {
+      "basename": "西瓜",
+      "path": "07.src学习/通用技术/西瓜.md"
+    },
+    {
       "basename": "temp",
       "path": "08..垃圾箱/temp.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "real",
       "path": "07.src学习/beishan/real.md"
-    },
-    {
-      "basename": "西瓜",
-      "path": "07.src学习/西瓜.md"
     },
     {
       "basename": "漏洞赏金猎人训练营",
@@ -183,22 +195,6 @@
     {
       "basename": "找接口",
       "path": "07.src学习/通用技术/找接口/找接口.md"
-    },
-    {
-      "basename": "js源码分析",
-      "path": "07.src学习/通用技术/找接口/js源码分析.md"
-    },
-    {
-      "basename": "pentest",
-      "path": "08..垃圾箱/pentest.md"
-    },
-    {
-      "basename": "oauth赃物",
-      "path": "07.src学习/oauth赃物.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "07.src学习/杂记.md"
     }
   ],
   "omittedPaths": []

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08..垃圾箱/temp.md",
+                "file": "漏洞案例/乌云漏洞库记录/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "未命名"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08..垃圾箱/temp.md"
+                "file": "漏洞案例/乌云漏洞库记录/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "temp 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -178,6 +178,13 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/漏洞类/oauth赃物.md",
+    "漏洞案例/乌云漏洞库记录/未命名.md",
+    "漏洞案例/乌云漏洞库记录",
+    "07.src学习/漏洞类/api测试.md",
+    "07.src学习/文章分享/杂记.md",
+    "07.src学习/通用技术/西瓜.md",
+    "08..垃圾箱/temp.md",
     "0001.附件/Pasted image 20241203191211.png",
     "0001.附件/Pasted image 20241203190545.png",
     "07.src学习/beishan/必备知识.md",
@@ -188,7 +195,6 @@
     "07.src学习/beishan/rce.md",
     "07.src学习/beishan/挖掘技巧.md",
     "07.src学习/beishan/real.md",
-    "07.src学习/西瓜.md",
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/通用技术/信息收集.md",
     "07.src学习/通用技术/必备知识.md",
@@ -204,16 +210,12 @@
     "0001.附件/Pasted image 20241127141810.png",
     "0001.附件/Pasted image 20241127141510.png",
     "07.src学习/payload/未命名.md",
-    "07.src学习/payload/xss payload.md",
-    "07.src学习/beishan/后端漏洞.md",
     "01.开发/架构知识/api.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241124145550.png.baiduyun.uploading.cfg",
     "100.问题记录/问题记录1.md.baiduyun.uploading.cfg",
     "07.src学习/beishan/temp.md.baiduyun.uploading.cfg",
     "02.靶场/bp/信息泄露.md.baiduyun.uploading.cfg",
     "02.靶场/bp/jwt.md.baiduyun.uploading.cfg",
-    "01.开发/架构知识/api.md",
-    "100.问题记录/问题记录1.md",
     "0001.附件/Pasted image 20241124145550.png",
     "0001.附件/Pasted image 20241117223128.png",
     "100.问题记录",
@@ -221,9 +223,7 @@
     "0001.附件/Pasted image 20241113190428.png",
     "0001.附件/Pasted image 20241113190358.png",
     "0001.附件/Pasted image 20241103115854.png",
-    "0001.附件/Pasted image 20241103170726.png",
     "01.开发/架构知识/前后端分离.md.baiduyun.uploading.cfg",
-    "07.src学习/beishan/挖掘技巧.md.baiduyun.uploading.cfg",
     "未命名.canvas"
   ]
 }
