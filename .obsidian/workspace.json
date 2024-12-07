@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/authentication.md",
+                "file": "漏洞案例/乌云.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "authentication"
+              "title": "乌云"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/authentication.md"
+                "file": "漏洞案例/乌云.md"
               },
               "icon": "lucide-list",
-              "title": "authentication 的大纲"
+              "title": "乌云 的大纲"
             }
           }
         ],
@@ -178,8 +178,8 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
-    "02.靶场/bp/ssrf.md",
     "02.靶场/bp/authentication.md",
+    "02.靶场/bp/ssrf.md",
     "07.src学习/beishan/逻辑漏洞.md",
     "漏洞案例/乌云.md",
     "07.src学习/漏洞类/oauth赃物.md",
