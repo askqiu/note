@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "authentication",
+      "path": "02.靶场/bp/authentication.md"
+    },
+    {
+      "basename": "ssrf",
+      "path": "02.靶场/bp/ssrf.md"
+    },
+    {
       "basename": "逻辑漏洞",
       "path": "07.src学习/beishan/逻辑漏洞.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "必备知识",
       "path": "07.src学习/通用技术/必备知识.md"
-    },
-    {
-      "basename": "ssrf",
-      "path": "02.靶场/bp/ssrf.md"
     },
     {
       "basename": "xss",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "01.开发/架构知识/未命名.md"
-    },
-    {
-      "basename": "找接口",
-      "path": "07.src学习/通用技术/找接口/找接口.md"
     }
   ],
   "omittedPaths": []
