@@ -5,12 +5,40 @@
       "path": "02.靶场/bp/authentication.md"
     },
     {
-      "basename": "乌云",
-      "path": "漏洞案例/乌云.md"
+      "basename": "cors",
+      "path": "02.靶场/bp/cors.md"
     },
     {
       "basename": "ssrf",
       "path": "02.靶场/bp/ssrf.md"
+    },
+    {
+      "basename": "oauth",
+      "path": "02.靶场/bp/oauth.md"
+    },
+    {
+      "basename": "idor",
+      "path": "02.靶场/bp/idor.md"
+    },
+    {
+      "basename": "csrf",
+      "path": "02.靶场/bp/csrf.md"
+    },
+    {
+      "basename": "csrf",
+      "path": "04.渗透/08.原理/csrf.md"
+    },
+    {
+      "basename": "xxe",
+      "path": "02.靶场/bp/xxe.md"
+    },
+    {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
+    },
+    {
+      "basename": "乌云",
+      "path": "漏洞案例/乌云.md"
     },
     {
       "basename": "逻辑漏洞",
@@ -77,32 +105,12 @@
       "path": "07.src学习/通用技术/必备知识.md"
     },
     {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "02.靶场/bp/oauth.md"
-    },
-    {
       "basename": "api测试",
       "path": "02.靶场/bp/api测试.md"
     },
     {
-      "basename": "cors",
-      "path": "02.靶场/bp/cors.md"
-    },
-    {
       "basename": "fastfood",
       "path": "02.靶场/fastfood.md"
-    },
-    {
-      "basename": "idor",
-      "path": "02.靶场/bp/idor.md"
     },
     {
       "basename": "未命名",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20240909214237",
       "path": "0001.附件/Pasted image 20240909214237.png"
-    },
-    {
-      "basename": "前后端分离",
-      "path": "01.开发/架构知识/前后端分离.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01.开发/架构知识/未命名.md"
     }
   ],
   "omittedPaths": []

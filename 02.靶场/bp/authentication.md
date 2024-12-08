@@ -15,3 +15,7 @@ Username enumeration via subtly different responses
 # 破坏暴力破解保护、IP 封锁
 Lab: Broken brute-force protection, IP block
 行 Burp 后，调查登录页面。注意，如果您连续提交 3 次错误的登录信息，您的 IP 将被临时阻止。然而，请注意，在达到此限制之前，您可以通过登录自己的账户来重置失败登录尝试的计数器。
+这里可以用ai分别生成用户名和密码
+
+# 通过账户锁定进行用户名枚举
+集束炸弹，payload1处
