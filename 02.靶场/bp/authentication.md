@@ -18,4 +18,8 @@ Lab: Broken brute-force protection, IP block
 这里可以用ai分别生成用户名和密码
 
 # 通过账户锁定进行用户名枚举
-集束炸弹，payload1处
+集束炸弹，payload1处是用户名，payload2处随便写个密码，然后后面加上，payload2那里生成5个空的，让同一个用户名尝试登录五次，发现有个用户名的某两次响应长度较长，说明存在该用户名
+对密码爆破，再通过grep，incorrect login attempts，提取不存在的，发现有 个奇怪，就是他
+![[Pasted image 20241208165607.png]]
+
+# 双因素认证逻辑错误
