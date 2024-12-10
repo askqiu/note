@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "oauth",
+      "path": "02.靶场/bp/oauth.md"
+    },
+    {
+      "basename": "后端漏洞",
+      "path": "07.src学习/beishan/后端漏洞.md"
+    },
+    {
+      "basename": "逻辑漏洞",
+      "path": "07.src学习/beishan/逻辑漏洞.md"
+    },
+    {
+      "basename": "前端漏洞",
+      "path": "07.src学习/beishan/前端漏洞.md"
+    },
+    {
+      "basename": "挖掘技巧",
+      "path": "07.src学习/beishan/挖掘技巧.md"
+    },
+    {
+      "basename": "必备知识",
+      "path": "07.src学习/beishan/必备知识.md"
+    },
+    {
+      "basename": "内网",
+      "path": "04.渗透/内网.md"
+    },
+    {
+      "basename": "sql注入",
+      "path": "04.渗透/08.原理/sql注入.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "04.渗透/08.原理/graphql.md"
+    },
+    {
+      "basename": "fastfood",
+      "path": "02.靶场/fastfood.md"
+    },
+    {
+      "basename": "xss",
+      "path": "02.靶场/bp/xss.md"
+    },
+    {
+      "basename": "业务逻辑",
+      "path": "02.靶场/bp/业务逻辑.md"
+    },
+    {
+      "basename": "ssrf",
+      "path": "02.靶场/bp/ssrf.md"
+    },
+    {
+      "basename": "api测试",
+      "path": "02.靶场/bp/api测试.md"
+    },
+    {
       "basename": "乌云",
       "path": "漏洞案例/乌云.md"
     },
@@ -11,14 +67,6 @@
     {
       "basename": "cors",
       "path": "02.靶场/bp/cors.md"
-    },
-    {
-      "basename": "ssrf",
-      "path": "02.靶场/bp/ssrf.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "02.靶场/bp/oauth.md"
     },
     {
       "basename": "idor",
@@ -35,14 +83,6 @@
     {
       "basename": "xxe",
       "path": "02.靶场/bp/xxe.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
-    },
-    {
-      "basename": "逻辑漏洞",
-      "path": "07.src学习/beishan/逻辑漏洞.md"
     },
     {
       "basename": "oauth赃物",
@@ -65,14 +105,6 @@
       "path": "08..垃圾箱/temp.md"
     },
     {
-      "basename": "必备知识",
-      "path": "07.src学习/beishan/必备知识.md"
-    },
-    {
-      "basename": "前端漏洞",
-      "path": "07.src学习/beishan/前端漏洞.md"
-    },
-    {
       "basename": "idor",
       "path": "07.src学习/beishan/idor.md"
     },
@@ -83,10 +115,6 @@
     {
       "basename": "rce",
       "path": "07.src学习/beishan/rce.md"
-    },
-    {
-      "basename": "挖掘技巧",
-      "path": "07.src学习/beishan/挖掘技巧.md"
     },
     {
       "basename": "real",
@@ -105,24 +133,12 @@
       "path": "07.src学习/通用技术/必备知识.md"
     },
     {
-      "basename": "api测试",
-      "path": "02.靶场/bp/api测试.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
-    },
-    {
       "basename": "未命名",
       "path": "07.src学习/payload/未命名.md"
     },
     {
       "basename": "xss payload",
       "path": "07.src学习/payload/xss payload.md"
-    },
-    {
-      "basename": "后端漏洞",
-      "path": "07.src学习/beishan/后端漏洞.md"
     },
     {
       "basename": "api",
@@ -183,22 +199,6 @@
     {
       "basename": "34c41c1c3528126f62abab30e18aa79",
       "path": "0001.附件/34c41c1c3528126f62abab30e18aa79.jpg"
-    },
-    {
-      "basename": "4ef4d4d903afdc6774c77306e3b40f7",
-      "path": "0001.附件/4ef4d4d903afdc6774c77306e3b40f7.png"
-    },
-    {
-      "basename": "1E7FE5C7",
-      "path": "0001.附件/1E7FE5C7.png"
-    },
-    {
-      "basename": "Pasted image 20240909214158",
-      "path": "0001.附件/Pasted image 20240909214158.png"
-    },
-    {
-      "basename": "Pasted image 20240909214237",
-      "path": "0001.附件/Pasted image 20240909214237.png"
     }
   ],
   "omittedPaths": []

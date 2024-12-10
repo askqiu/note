@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "漏洞案例/乌云.md",
+                "file": "02.靶场/bp/oauth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "乌云"
+              "title": "oauth"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "漏洞案例/乌云.md"
+                "file": "02.靶场/bp/oauth.md"
               },
               "icon": "lucide-list",
-              "title": "乌云 的大纲"
+              "title": "oauth 的大纲"
             }
           }
         ],
@@ -178,35 +178,36 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/beishan/后端漏洞.md",
+    "07.src学习/beishan/逻辑漏洞.md",
+    "07.src学习/beishan/前端漏洞.md",
+    "07.src学习/beishan/挖掘技巧.md",
+    "07.src学习/beishan/必备知识.md",
+    "04.渗透/内网.md",
+    "04.渗透/08.原理/sql注入.md",
+    "04.渗透/08.原理/graphql.md",
+    "02.靶场/fastfood.md",
+    "02.靶场/bp/xss.md",
+    "02.靶场/bp/业务逻辑.md",
+    "02.靶场/bp/ssrf.md",
+    "02.靶场/bp/oauth.md",
+    "02.靶场/bp/api测试.md",
+    "漏洞案例/乌云.md",
     "02.靶场/bp/authentication.md",
     "0001.附件/Pasted image 20241208165607.png",
     "02.靶场/bp/cors.md",
-    "02.靶场/bp/ssrf.md",
-    "02.靶场/bp/oauth.md",
     "02.靶场/bp/idor.md",
     "02.靶场/bp/csrf.md",
     "04.渗透/08.原理/csrf.md",
     "02.靶场/bp/xxe.md",
-    "02.靶场/bp/xss.md",
-    "漏洞案例/乌云.md",
-    "07.src学习/beishan/逻辑漏洞.md",
     "07.src学习/漏洞类/oauth赃物.md",
     "漏洞案例/乌云漏洞库记录/未命名.md",
     "漏洞案例/乌云漏洞库记录",
     "07.src学习/漏洞类/api测试.md",
     "07.src学习/文章分享/杂记.md",
     "07.src学习/通用技术/西瓜.md",
-    "08..垃圾箱/temp.md",
     "0001.附件/Pasted image 20241203191211.png",
     "0001.附件/Pasted image 20241203190545.png",
-    "07.src学习/beishan/必备知识.md",
-    "07.src学习/beishan/前端漏洞.md",
-    "07.src学习/beishan/idor.md",
-    "07.src学习/beishan/temp.md",
-    "07.src学习/beishan/rce.md",
-    "07.src学习/beishan/挖掘技巧.md",
-    "07.src学习/beishan/real.md",
-    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "0001.附件/Pasted image 20241127141813.png",
     "0001.附件/Pasted image 20241127141810.png",
     "0001.附件/Pasted image 20241127141510.png",
