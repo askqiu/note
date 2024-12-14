@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/后端漏洞.md",
+                "file": "05.云安全/云渗透.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "后端漏洞"
+              "title": "云渗透"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/后端漏洞.md"
+                "file": "05.云安全/云渗透.md"
               },
               "icon": "lucide-list",
-              "title": "后端漏洞 的大纲"
+              "title": "云渗透 的大纲"
             }
           }
         ],
@@ -179,14 +178,15 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "04.渗透/权限提升.md",
+    "04.渗透/内网.md",
+    "07.src学习/beishan/后端漏洞.md",
     "02.靶场/bp/oauth.md",
     "100.问题记录/问题记录1.md",
     "07.src学习/beishan/必备知识.md",
-    "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan/逻辑漏洞.md",
     "07.src学习/beishan/前端漏洞.md",
     "07.src学习/beishan/挖掘技巧.md",
-    "04.渗透/内网.md",
     "04.渗透/08.原理/sql注入.md",
     "04.渗透/08.原理/graphql.md",
     "02.靶场/fastfood.md",
@@ -206,7 +206,6 @@
     "漏洞案例/乌云漏洞库记录/未命名.md",
     "漏洞案例/乌云漏洞库记录",
     "07.src学习/漏洞类/api测试.md",
-    "07.src学习/文章分享/杂记.md",
     "0001.附件/Pasted image 20241203191211.png",
     "0001.附件/Pasted image 20241203190545.png",
     "0001.附件/Pasted image 20241127141813.png",
