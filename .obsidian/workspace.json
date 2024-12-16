@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.靶场/bp/业务逻辑.md",
+                "file": "03.面试/面经/2024深圳粤盾.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "业务逻辑"
+              "title": "2024深圳粤盾"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.靶场/bp/业务逻辑.md"
+                "file": "03.面试/面经/2024深圳粤盾.md"
               },
               "icon": "lucide-list",
-              "title": "业务逻辑 的大纲"
+              "title": "2024深圳粤盾 的大纲"
             }
           }
         ],
@@ -176,8 +176,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "02.靶场/bp/业务逻辑.md",
     "0001.附件/Pasted image 20241216101807.png",
     "07.src学习/beishan/后端漏洞.md",
     "05.云安全/云渗透.md",
@@ -193,7 +194,6 @@
     "04.渗透/08.原理/graphql.md",
     "02.靶场/fastfood.md",
     "02.靶场/bp/xss.md",
-    "02.靶场/bp/业务逻辑.md",
     "02.靶场/bp/ssrf.md",
     "02.靶场/bp/api测试.md",
     "漏洞案例/乌云.md",
@@ -222,7 +222,6 @@
     "100.问题记录",
     "07.src学习/beishan/xiaohuojv",
     "0001.附件/Pasted image 20241113190428.png",
-    "0001.附件/Pasted image 20241113190358.png",
     "01.开发/架构知识/前后端分离.md.baiduyun.uploading.cfg",
     "未命名.canvas"
   ]
