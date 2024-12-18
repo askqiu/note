@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "tools1",
+      "path": "06.工具/tools1.md"
+    },
+    {
+      "basename": "tools0",
+      "path": "06.工具/tools0.md"
+    },
+    {
+      "basename": "msf",
+      "path": "06.工具/msf.md"
+    },
+    {
+      "basename": "postmessage",
+      "path": "07.src学习/漏洞类/xss/postmessage.md"
+    },
+    {
+      "basename": "atest",
+      "path": "07.src学习/漏洞类/xss/atest.md"
+    },
+    {
+      "basename": "必备知识",
+      "path": "07.src学习/beishan/必备知识.md"
+    },
+    {
+      "basename": "前置",
+      "path": "07.src学习/beishan/xiaohuojv/前置.md"
+    },
+    {
       "basename": "未命名",
       "path": "07.src学习/payload/未命名.md"
     },
@@ -101,10 +129,6 @@
       "path": "100.问题记录/问题记录1.md"
     },
     {
-      "basename": "必备知识",
-      "path": "07.src学习/beishan/必备知识.md"
-    },
-    {
       "basename": "前端漏洞",
       "path": "07.src学习/beishan/前端漏洞.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "杂记",
       "path": "07.src学习/文章分享/杂记.md"
-    },
-    {
-      "basename": "西瓜",
-      "path": "07.src学习/通用技术/西瓜.md"
-    },
-    {
-      "basename": "temp",
-      "path": "08..垃圾箱/temp.md"
-    },
-    {
-      "basename": "idor",
-      "path": "07.src学习/beishan/idor.md"
-    },
-    {
-      "basename": "rce",
-      "path": "07.src学习/beishan/rce.md"
-    },
-    {
-      "basename": "漏洞赏金猎人训练营",
-      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
-    },
-    {
-      "basename": "信息收集",
-      "path": "07.src学习/通用技术/信息收集.md"
     }
   ],
   "omittedPaths": []
