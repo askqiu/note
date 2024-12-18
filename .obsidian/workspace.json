@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.开发/架构知识/路由.md",
+                "file": "07.src学习/beishan/temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "路由"
+              "title": "temp"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.开发/架构知识/路由.md"
+                "file": "07.src学习/beishan/temp.md"
               },
               "icon": "lucide-list",
-              "title": "路由 的大纲"
+              "title": "temp 的大纲"
             }
           }
         ],
@@ -178,8 +178,11 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
-    "01.开发/前端/ajax.md",
+    "07.src学习/beishan/real.md",
+    "07.src学习/beishan/逻辑漏洞.md",
+    "07.src学习/beishan/后端漏洞.md",
     "01.开发/架构知识/路由.md",
+    "01.开发/前端/ajax.md",
     "01.开发/前端/JavaScript.md",
     "01.开发/前端/angularjs.md",
     "01.开发/架构知识/websocket.md",
@@ -194,17 +197,14 @@
     "03.面试/面经/2024深圳粤盾.md",
     "02.靶场/bp/业务逻辑.md",
     "0001.附件/Pasted image 20241216101807.png",
-    "07.src学习/beishan/后端漏洞.md",
     "05.云安全/云渗透.md",
     "04.渗透/权限提升.md",
     "04.渗透/内网.md",
     "02.靶场/bp/oauth.md",
     "100.问题记录/问题记录1.md",
     "07.src学习/beishan/必备知识.md",
-    "07.src学习/beishan/逻辑漏洞.md",
     "07.src学习/beishan/前端漏洞.md",
     "07.src学习/beishan/挖掘技巧.md",
-    "04.渗透/08.原理/sql注入.md",
     "0001.附件/Pasted image 20241208165607.png",
     "漏洞案例/乌云漏洞库记录",
     "0001.附件/Pasted image 20241203191211.png",
