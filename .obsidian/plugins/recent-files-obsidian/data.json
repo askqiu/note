@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "路由",
+      "path": "01.开发/架构知识/路由.md"
+    },
+    {
+      "basename": "ajax",
+      "path": "01.开发/前端/ajax.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01.开发/前端/JavaScript.md"
+    },
+    {
+      "basename": "angularjs",
+      "path": "01.开发/前端/angularjs.md"
+    },
+    {
+      "basename": "websocket",
+      "path": "01.开发/架构知识/websocket.md"
+    },
+    {
+      "basename": "oauth",
+      "path": "01.开发/架构知识/oauth.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "01.开发/架构知识/graphql.md"
+    },
+    {
+      "basename": "api",
+      "path": "01.开发/架构知识/api.md"
+    },
+    {
+      "basename": "apikey",
+      "path": "01.开发/架构知识/apikey.md"
+    },
+    {
+      "basename": "客户端知识",
+      "path": "01.开发/前端/客户端知识.md"
+    },
+    {
+      "basename": "js登陆加密分析",
+      "path": "01.开发/前端/js登陆加密分析.md"
+    },
+    {
+      "basename": "JavaScript代码分析案例",
+      "path": "01.开发/前端/JavaScript代码分析案例.md"
+    },
+    {
+      "basename": "前后端分离",
+      "path": "01.开发/架构知识/前后端分离.md"
+    },
+    {
       "basename": "2024深圳粤盾",
       "path": "03.面试/面经/2024深圳粤盾.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "必备知识",
       "path": "07.src学习/通用技术/必备知识.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "07.src学习/payload/未命名.md"
-    },
-    {
-      "basename": "xss payload",
-      "path": "07.src学习/payload/xss payload.md"
-    },
-    {
-      "basename": "api",
-      "path": "01.开发/架构知识/api.md"
-    },
-    {
-      "basename": "漏洞url",
-      "path": "08..垃圾箱/漏洞url.md"
-    },
-    {
-      "basename": "jwt",
-      "path": "02.靶场/bp/jwt.md"
-    },
-    {
-      "basename": "知识星球xss",
-      "path": "漏洞案例/知识星球xss.md"
-    },
-    {
-      "basename": "important",
-      "path": "08..垃圾箱/important.md"
-    },
-    {
-      "basename": "信息泄露",
-      "path": "02.靶场/bp/信息泄露.md"
-    },
-    {
-      "basename": "dellnote",
-      "path": "08..垃圾箱/dellnote.md"
-    },
-    {
-      "basename": "前置",
-      "path": "07.src学习/beishan/xiaohuojv/前置.md"
-    },
-    {
-      "basename": "Pasted image 20241103115854",
-      "path": "0001.附件/Pasted image 20241103115854.png"
-    },
-    {
-      "basename": "Pasted image 20241103170726",
-      "path": "0001.附件/Pasted image 20241103170726.png"
-    },
-    {
-      "basename": "Pasted image 20241103171151",
-      "path": "0001.附件/Pasted image 20241103171151.png"
     }
   ],
   "omittedPaths": []
