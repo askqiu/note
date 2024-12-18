@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "07.src学习/payload/未命名.md"
+    },
+    {
+      "basename": "逻辑漏洞",
+      "path": "07.src学习/beishan/逻辑漏洞.md"
+    },
+    {
       "basename": "temp",
       "path": "07.src学习/beishan/temp.md"
     },
     {
       "basename": "real",
       "path": "07.src学习/beishan/real.md"
-    },
-    {
-      "basename": "逻辑漏洞",
-      "path": "07.src学习/beishan/逻辑漏洞.md"
     },
     {
       "basename": "后端漏洞",
@@ -195,10 +199,6 @@
     {
       "basename": "信息收集",
       "path": "07.src学习/通用技术/信息收集.md"
-    },
-    {
-      "basename": "必备知识",
-      "path": "07.src学习/通用技术/必备知识.md"
     }
   ],
   "omittedPaths": []
