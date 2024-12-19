@@ -5,6 +5,10 @@
       "path": "07.src学习/beishan/前后端数据分析.md"
     },
     {
+      "basename": "idor",
+      "path": "07.src学习/beishan/idor.md"
+    },
+    {
       "basename": "tools1",
       "path": "06.工具/tools1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "oauth赃物",
       "path": "07.src学习/漏洞类/oauth赃物.md"
-    },
-    {
-      "basename": "api测试",
-      "path": "07.src学习/漏洞类/api测试.md"
     }
   ],
   "omittedPaths": []
