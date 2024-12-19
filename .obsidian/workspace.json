@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/前后端数据分析.md",
+                "file": "07.src学习/漏洞类/xss/xss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前后端数据分析"
+              "title": "xss"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/前后端数据分析.md"
+                "file": "07.src学习/漏洞类/xss/xss.md"
               },
               "icon": "lucide-list",
-              "title": "前后端数据分析 的大纲"
+              "title": "xss 的大纲"
             }
           }
         ],
@@ -178,33 +178,34 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "07.src学习/漏洞类/xss/xss批量.md",
+    "07.src学习/漏洞类/xss/xss挖掘.md",
+    "07.src学习/文章分享/他人/🐏.md",
+    "07.src学习/文章分享/他人/陈广方法论.md",
+    "07.src学习/beishan/必备知识.md",
+    "07.src学习/beishan/xiaohuojv/前置.md",
+    "07.src学习/beishan/temp.md",
+    "07.src学习/beishan/real.md",
+    "07.src学习/beishan/rce.md",
+    "07.src学习/beishan/越权.md",
+    "07.src学习/beishan/前后端数据分析.md",
+    "07.src学习/beishan/前端漏洞.md",
     "0001.附件/8e9cc5b5df3e8fe60622f3f1030425c.jpg",
     "07.src学习/payload/未命名.md",
-    "07.src学习/beishan/前端漏洞.md",
     "07.src学习/beishan/后端漏洞.md",
-    "07.src学习/beishan/必备知识.md",
-    "07.src学习/beishan/前后端数据分析.md",
-    "07.src学习/beishan/idor.md",
     "0001.附件/Pasted image 20241219172645.png",
     "06.工具/tools1.md",
     "06.工具/tools0.md",
     "06.工具/msf.md",
     "07.src学习/漏洞类/xss/postmessage.md",
     "07.src学习/漏洞类/xss/atest.md",
-    "07.src学习/beishan/xiaohuojv/前置.md",
     "07.src学习/beishan/逻辑漏洞.md",
-    "07.src学习/beishan/temp.md",
-    "07.src学习/beishan/real.md",
     "01.开发/架构知识/路由.md",
     "01.开发/前端/ajax.md",
     "01.开发/前端/JavaScript.md",
     "01.开发/前端/angularjs.md",
     "01.开发/架构知识/websocket.md",
     "01.开发/架构知识/oauth.md",
-    "01.开发/架构知识/graphql.md",
-    "01.开发/架构知识/api.md",
-    "01.开发/架构知识/apikey.md",
-    "01.开发/前端/客户端知识.md",
     "0001.附件/Pasted image 20241216101807.png",
     "0001.附件/Pasted image 20241208165607.png",
     "漏洞案例/乌云漏洞库记录",
@@ -220,7 +221,6 @@
     "02.靶场/bp/信息泄露.md.baiduyun.uploading.cfg",
     "02.靶场/bp/jwt.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241124145550.png",
-    "0001.附件/Pasted image 20241117223128.png",
     "100.问题记录",
     "07.src学习/beishan/xiaohuojv",
     "01.开发/架构知识/前后端分离.md.baiduyun.uploading.cfg",

@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "前后端数据分析",
-      "path": "07.src学习/beishan/前后端数据分析.md"
+      "basename": "xss",
+      "path": "07.src学习/漏洞类/xss/xss.md"
     },
     {
-      "basename": "未命名",
-      "path": "07.src学习/payload/未命名.md"
+      "basename": "xss批量",
+      "path": "07.src学习/漏洞类/xss/xss批量.md"
     },
     {
-      "basename": "前端漏洞",
-      "path": "07.src学习/beishan/前端漏洞.md"
+      "basename": "xss挖掘",
+      "path": "07.src学习/漏洞类/xss/xss挖掘.md"
     },
     {
-      "basename": "后端漏洞",
-      "path": "07.src学习/beishan/后端漏洞.md"
+      "basename": "🐏",
+      "path": "07.src学习/文章分享/他人/🐏.md"
+    },
+    {
+      "basename": "陈广方法论",
+      "path": "07.src学习/文章分享/他人/陈广方法论.md"
     },
     {
       "basename": "必备知识",
       "path": "07.src学习/beishan/必备知识.md"
     },
     {
-      "basename": "idor",
-      "path": "07.src学习/beishan/idor.md"
+      "basename": "前置",
+      "path": "07.src学习/beishan/xiaohuojv/前置.md"
+    },
+    {
+      "basename": "temp",
+      "path": "07.src学习/beishan/temp.md"
+    },
+    {
+      "basename": "real",
+      "path": "07.src学习/beishan/real.md"
+    },
+    {
+      "basename": "rce",
+      "path": "07.src学习/beishan/rce.md"
+    },
+    {
+      "basename": "越权",
+      "path": "07.src学习/beishan/越权.md"
+    },
+    {
+      "basename": "前后端数据分析",
+      "path": "07.src学习/beishan/前后端数据分析.md"
+    },
+    {
+      "basename": "前端漏洞",
+      "path": "07.src学习/beishan/前端漏洞.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "07.src学习/payload/未命名.md"
+    },
+    {
+      "basename": "后端漏洞",
+      "path": "07.src学习/beishan/后端漏洞.md"
     },
     {
       "basename": "tools1",
@@ -45,20 +81,8 @@
       "path": "07.src学习/漏洞类/xss/atest.md"
     },
     {
-      "basename": "前置",
-      "path": "07.src学习/beishan/xiaohuojv/前置.md"
-    },
-    {
       "basename": "逻辑漏洞",
       "path": "07.src学习/beishan/逻辑漏洞.md"
-    },
-    {
-      "basename": "temp",
-      "path": "07.src学习/beishan/temp.md"
-    },
-    {
-      "basename": "real",
-      "path": "07.src学习/beishan/real.md"
     },
     {
       "basename": "路由",
@@ -175,30 +199,6 @@
     {
       "basename": "authentication",
       "path": "02.靶场/bp/authentication.md"
-    },
-    {
-      "basename": "cors",
-      "path": "02.靶场/bp/cors.md"
-    },
-    {
-      "basename": "idor",
-      "path": "02.靶场/bp/idor.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "02.靶场/bp/csrf.md"
-    },
-    {
-      "basename": "csrf",
-      "path": "04.渗透/08.原理/csrf.md"
-    },
-    {
-      "basename": "xxe",
-      "path": "02.靶场/bp/xxe.md"
-    },
-    {
-      "basename": "oauth赃物",
-      "path": "07.src学习/漏洞类/oauth赃物.md"
     }
   ],
   "omittedPaths": []
