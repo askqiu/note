@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/tools1.md",
+                "file": "07.src学习/beishan/前后端数据分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tools1"
+              "title": "前后端数据分析"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/tools1.md"
+                "file": "07.src学习/beishan/前后端数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "tools1 的大纲"
+              "title": "前后端数据分析 的大纲"
             }
           }
         ],
@@ -178,8 +178,9 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
-    "06.工具/tools0.md",
     "06.工具/tools1.md",
+    "07.src学习/beishan/前后端数据分析.md",
+    "06.工具/tools0.md",
     "06.工具/msf.md",
     "07.src学习/漏洞类/xss/postmessage.md",
     "07.src学习/漏洞类/xss/atest.md",
@@ -203,7 +204,6 @@
     "01.开发/前端/js登陆加密分析.md",
     "01.开发/前端/JavaScript代码分析案例.md",
     "01.开发/架构知识/前后端分离.md",
-    "03.面试/面经/2024深圳粤盾.md",
     "0001.附件/Pasted image 20241216101807.png",
     "0001.附件/Pasted image 20241208165607.png",
     "漏洞案例/乌云漏洞库记录",

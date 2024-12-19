@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "前后端数据分析",
+      "path": "07.src学习/beishan/前后端数据分析.md"
+    },
+    {
       "basename": "tools1",
       "path": "06.工具/tools1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "api测试",
       "path": "07.src学习/漏洞类/api测试.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "07.src学习/文章分享/杂记.md"
     }
   ],
   "omittedPaths": []
