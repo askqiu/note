@@ -5,6 +5,22 @@
       "path": "07.src学习/beishan/前后端数据分析.md"
     },
     {
+      "basename": "未命名",
+      "path": "07.src学习/payload/未命名.md"
+    },
+    {
+      "basename": "前端漏洞",
+      "path": "07.src学习/beishan/前端漏洞.md"
+    },
+    {
+      "basename": "后端漏洞",
+      "path": "07.src学习/beishan/后端漏洞.md"
+    },
+    {
+      "basename": "必备知识",
+      "path": "07.src学习/beishan/必备知识.md"
+    },
+    {
       "basename": "idor",
       "path": "07.src学习/beishan/idor.md"
     },
@@ -29,16 +45,8 @@
       "path": "07.src学习/漏洞类/xss/atest.md"
     },
     {
-      "basename": "必备知识",
-      "path": "07.src学习/beishan/必备知识.md"
-    },
-    {
       "basename": "前置",
       "path": "07.src学习/beishan/xiaohuojv/前置.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "07.src学习/payload/未命名.md"
     },
     {
       "basename": "逻辑漏洞",
@@ -51,10 +59,6 @@
     {
       "basename": "real",
       "path": "07.src学习/beishan/real.md"
-    },
-    {
-      "basename": "后端漏洞",
-      "path": "07.src学习/beishan/后端漏洞.md"
     },
     {
       "basename": "路由",
@@ -135,10 +139,6 @@
     {
       "basename": "问题记录1",
       "path": "100.问题记录/问题记录1.md"
-    },
-    {
-      "basename": "前端漏洞",
-      "path": "07.src学习/beishan/前端漏洞.md"
     },
     {
       "basename": "挖掘技巧",
