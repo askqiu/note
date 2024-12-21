@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/文章分享/他人/阿杨.md",
+                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阿杨"
+              "title": "漏洞赏金猎人训练营"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/文章分享/他人/阿杨.md"
+                "file": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
               },
               "icon": "lucide-list",
-              "title": "阿杨 的大纲"
+              "title": "漏洞赏金猎人训练营 的大纲"
             }
           }
         ],
@@ -178,8 +178,10 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
-    "06.工具/kali/kali取消静态ip修网.md",
+    "07.src学习/文章分享/杂记.md",
+    "07.src学习/文章分享/工具命令.md",
     "07.src学习/文章分享/他人/阿杨.md",
+    "06.工具/kali/kali取消静态ip修网.md",
     "0001.附件/Pasted image 20241221145907.png",
     "0001.附件/Pasted image 20241221145821.png",
     "06.工具/kali/未命名 1.md",
@@ -207,8 +209,6 @@
     "0001.附件/8e9cc5b5df3e8fe60622f3f1030425c.jpg",
     "07.src学习/payload/未命名.md",
     "0001.附件/Pasted image 20241219172645.png",
-    "06.工具/tools1.md",
-    "06.工具/tools0.md",
     "0001.附件/Pasted image 20241216101807.png",
     "0001.附件/Pasted image 20241208165607.png",
     "漏洞案例/乌云漏洞库记录",

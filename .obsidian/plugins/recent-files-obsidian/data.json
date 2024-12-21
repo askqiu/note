@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "漏洞赏金猎人训练营",
+      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "07.src学习/文章分享/杂记.md"
+    },
+    {
+      "basename": "工具命令",
+      "path": "07.src学习/文章分享/工具命令.md"
+    },
+    {
       "basename": "阿杨",
       "path": "07.src学习/文章分享/他人/阿杨.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "oauth",
       "path": "02.靶场/bp/oauth.md"
-    },
-    {
-      "basename": "sql注入",
-      "path": "04.渗透/08.原理/sql注入.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "04.渗透/08.原理/graphql.md"
-    },
-    {
-      "basename": "fastfood",
-      "path": "02.靶场/fastfood.md"
     }
   ],
   "omittedPaths": []
