@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "kali取消静态ip修网",
+      "path": "06.工具/kali/kali取消静态ip修网.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "06.工具/kali/未命名 1.md"
+    },
+    {
+      "basename": "msf",
+      "path": "06.工具/kali/msf.md"
+    },
+    {
+      "basename": "测试专用",
+      "path": "00.Box/测试专用.md"
+    },
+    {
+      "basename": "感想",
+      "path": "00.Box/感想.md"
+    },
+    {
       "basename": "越权",
       "path": "07.src学习/beishan/越权.md"
     },
@@ -79,10 +99,6 @@
     {
       "basename": "tools0",
       "path": "06.工具/tools0.md"
-    },
-    {
-      "basename": "msf",
-      "path": "06.工具/msf.md"
     },
     {
       "basename": "postmessage",
@@ -183,22 +199,6 @@
     {
       "basename": "xss",
       "path": "02.靶场/bp/xss.md"
-    },
-    {
-      "basename": "ssrf",
-      "path": "02.靶场/bp/ssrf.md"
-    },
-    {
-      "basename": "api测试",
-      "path": "02.靶场/bp/api测试.md"
-    },
-    {
-      "basename": "乌云",
-      "path": "漏洞案例/乌云.md"
-    },
-    {
-      "basename": "authentication",
-      "path": "02.靶场/bp/authentication.md"
     }
   ],
   "omittedPaths": []

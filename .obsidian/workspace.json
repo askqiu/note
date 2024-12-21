@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/越权.md",
+                "file": "06.工具/kali/kali取消静态ip修网.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "越权"
+              "title": "kali取消静态ip修网"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/越权.md"
+                "file": "06.工具/kali/kali取消静态ip修网.md"
               },
               "icon": "lucide-list",
-              "title": "越权 的大纲"
+              "title": "kali取消静态ip修网 的大纲"
             }
           }
         ],
@@ -178,13 +178,20 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "0001.附件/Pasted image 20241221145907.png",
+    "0001.附件/Pasted image 20241221145821.png",
+    "06.工具/kali/未命名 1.md",
+    "06.工具/kali",
+    "06.工具/kali/msf.md",
+    "00.Box/测试专用.md",
+    "00.Box/感想.md",
+    "07.src学习/beishan/越权.md",
     "07.src学习/beishan/rce.md",
     "07.src学习/beishan/real.md",
     "07.src学习/beishan/temp.md",
     "100.问题记录/问题记录1.md",
     "07.src学习/beishan/前后端数据分析.md",
     "07.src学习/beishan/前端漏洞.md",
-    "07.src学习/beishan/越权.md",
     "07.src学习/beishan/技巧.md",
     "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan/逻辑漏洞.md",
@@ -200,12 +207,7 @@
     "0001.附件/Pasted image 20241219172645.png",
     "06.工具/tools1.md",
     "06.工具/tools0.md",
-    "06.工具/msf.md",
     "07.src学习/漏洞类/xss/postmessage.md",
-    "07.src学习/漏洞类/xss/atest.md",
-    "01.开发/架构知识/路由.md",
-    "01.开发/前端/ajax.md",
-    "01.开发/前端/JavaScript.md",
     "0001.附件/Pasted image 20241216101807.png",
     "0001.附件/Pasted image 20241208165607.png",
     "漏洞案例/乌云漏洞库记录",
@@ -220,10 +222,8 @@
     "07.src学习/beishan/temp.md.baiduyun.uploading.cfg",
     "02.靶场/bp/信息泄露.md.baiduyun.uploading.cfg",
     "02.靶场/bp/jwt.md.baiduyun.uploading.cfg",
-    "0001.附件/Pasted image 20241124145550.png",
     "100.问题记录",
     "07.src学习/beishan/xiaohuojv",
-    "01.开发/架构知识/前后端分离.md.baiduyun.uploading.cfg",
     "未命名.canvas"
   ]
 }
