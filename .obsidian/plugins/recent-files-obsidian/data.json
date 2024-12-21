@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "阿杨",
+      "path": "07.src学习/文章分享/他人/阿杨.md"
+    },
+    {
       "basename": "kali取消静态ip修网",
       "path": "06.工具/kali/kali取消静态ip修网.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "fastfood",
       "path": "02.靶场/fastfood.md"
-    },
-    {
-      "basename": "xss",
-      "path": "02.靶场/bp/xss.md"
     }
   ],
   "omittedPaths": []
