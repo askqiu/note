@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/js逆向.md",
+                "file": "07.src学习/beishan/前端漏洞.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "js逆向"
+              "title": "前端漏洞"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/js逆向.md"
+                "file": "07.src学习/beishan/前端漏洞.md"
               },
               "icon": "lucide-list",
-              "title": "js逆向 的大纲"
+              "title": "前端漏洞 的大纲"
             }
           }
         ],
@@ -178,8 +178,9 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
-    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/beishan/js逆向.md",
+    "07.src学习/beishan/越权.md",
+    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/文章分享/杂记.md",
     "07.src学习/文章分享/工具命令.md",
     "07.src学习/文章分享/他人/阿杨.md",
@@ -191,7 +192,6 @@
     "06.工具/kali/msf.md",
     "00.Box/测试专用.md",
     "00.Box/感想.md",
-    "07.src学习/beishan/越权.md",
     "07.src学习/beishan/rce.md",
     "07.src学习/beishan/real.md",
     "07.src学习/beishan/temp.md",
