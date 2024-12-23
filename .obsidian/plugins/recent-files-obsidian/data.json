@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "js逆向",
+      "path": "07.src学习/beishan/js逆向.md"
+    },
+    {
       "basename": "漏洞赏金猎人训练营",
       "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "内网",
       "path": "04.渗透/内网.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "02.靶场/bp/oauth.md"
     }
   ],
   "omittedPaths": []
