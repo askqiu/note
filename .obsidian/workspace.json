@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "07.src学习/beishan/逻辑漏洞.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "云渗透"
+              "title": "逻辑漏洞"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.云安全/云渗透.md"
+                "file": "07.src学习/beishan/逻辑漏洞.md"
               },
               "icon": "lucide-list",
-              "title": "云渗透 的大纲"
+              "title": "逻辑漏洞 的大纲"
             }
           }
         ],
@@ -176,10 +176,20 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
-    "07.src学习/beishan/前端漏洞.md",
+    "07.src学习/beishan/后端漏洞.md",
+    "07.src学习/beishan/必备知识.md",
+    "07.src学习/beishan/逻辑漏洞.md",
+    "07.src学习/beishan/前后端数据分析.md",
+    "07.src学习/beishan/real.md",
+    "07.src学习/beishan/temp.md",
+    "07.src学习/beishan/rce.md",
     "07.src学习/beishan/js逆向.md",
+    "07.src学习/beishan/xiaohuojv/前置.md",
+    "07.src学习/文章分享/通用技术.md",
+    "05.云安全/云渗透.md",
+    "07.src学习/beishan/前端漏洞.md",
     "07.src学习/beishan/越权.md",
     "07.src学习/文章分享/漏洞赏金猎人训练营.md",
     "07.src学习/文章分享/杂记.md",
@@ -193,20 +203,10 @@
     "06.工具/kali/msf.md",
     "00.Box/测试专用.md",
     "00.Box/感想.md",
-    "07.src学习/beishan/rce.md",
-    "07.src学习/beishan/real.md",
-    "07.src学习/beishan/temp.md",
     "100.问题记录/问题记录1.md",
-    "07.src学习/beishan/前后端数据分析.md",
     "07.src学习/beishan/技巧.md",
-    "07.src学习/beishan/后端漏洞.md",
-    "07.src学习/beishan/逻辑漏洞.md",
     "07.src学习/漏洞类/xss/xss.md",
     "07.src学习/漏洞类/xss/xss批量.md",
-    "07.src学习/漏洞类/xss/xss挖掘.md",
-    "07.src学习/文章分享/他人/🐏.md",
-    "07.src学习/文章分享/他人/陈广方法论.md",
-    "07.src学习/beishan/必备知识.md",
     "0001.附件/8e9cc5b5df3e8fe60622f3f1030425c.jpg",
     "0001.附件/Pasted image 20241219172645.png",
     "0001.附件/Pasted image 20241216101807.png",
