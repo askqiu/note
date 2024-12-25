@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "postmessage",
+      "path": "07.src学习/漏洞类/xss/postmessage.md"
+    },
+    {
+      "basename": "api测试",
+      "path": "07.src学习/漏洞类/api测试.md"
+    },
+    {
+      "basename": "《js for hacker》",
+      "path": "07.src学习/文章分享/《js for hacker》.md"
+    },
+    {
+      "basename": "工具命令",
+      "path": "07.src学习/文章分享/工具命令.md"
+    },
+    {
+      "basename": "漏洞赏金猎人训练营",
+      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
+    },
+    {
+      "basename": "rce",
+      "path": "07.src学习/beishan/rce.md"
+    },
+    {
+      "basename": "问题记录1",
+      "path": "100.问题记录/问题记录1.md"
+    },
+    {
+      "basename": "temp",
+      "path": "08..垃圾箱/temp.md"
+    },
+    {
+      "basename": "pentest",
+      "path": "08..垃圾箱/pentest.md"
+    },
+    {
+      "basename": "dellnote",
+      "path": "08..垃圾箱/dellnote.md"
+    },
+    {
+      "basename": "websocket",
+      "path": "01.开发/架构知识/websocket.md"
+    },
+    {
+      "basename": "oauth",
+      "path": "01.开发/架构知识/oauth.md"
+    },
+    {
+      "basename": "api",
+      "path": "01.开发/架构知识/api.md"
+    },
+    {
+      "basename": "apikey",
+      "path": "01.开发/架构知识/apikey.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "01.开发/架构知识/graphql.md"
+    },
+    {
+      "basename": "前后端分离",
+      "path": "01.开发/架构知识/前后端分离.md"
+    },
+    {
+      "basename": "2024深圳粤盾",
+      "path": "03.面试/面经/2024深圳粤盾.md"
+    },
+    {
+      "basename": "得物sdl实习面试",
+      "path": "03.面试/面经/得物sdl实习面试.md"
+    },
+    {
+      "basename": "云渗透",
+      "path": "05.云安全/云渗透.md"
+    },
+    {
+      "basename": "手动查看js源码",
+      "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
+    },
+    {
       "basename": "逻辑漏洞",
       "path": "07.src学习/beishan/逻辑漏洞.md"
     },
@@ -25,10 +105,6 @@
       "path": "07.src学习/beishan/temp.md"
     },
     {
-      "basename": "rce",
-      "path": "07.src学习/beishan/rce.md"
-    },
-    {
       "basename": "js逆向",
       "path": "07.src学习/beishan/js逆向.md"
     },
@@ -41,10 +117,6 @@
       "path": "07.src学习/文章分享/通用技术.md"
     },
     {
-      "basename": "云渗透",
-      "path": "05.云安全/云渗透.md"
-    },
-    {
       "basename": "前端漏洞",
       "path": "07.src学习/beishan/前端漏洞.md"
     },
@@ -53,16 +125,8 @@
       "path": "07.src学习/beishan/越权.md"
     },
     {
-      "basename": "漏洞赏金猎人训练营",
-      "path": "07.src学习/文章分享/漏洞赏金猎人训练营.md"
-    },
-    {
       "basename": "杂记",
       "path": "07.src学习/文章分享/杂记.md"
-    },
-    {
-      "basename": "工具命令",
-      "path": "07.src学习/文章分享/工具命令.md"
     },
     {
       "basename": "阿杨",
@@ -87,10 +151,6 @@
     {
       "basename": "感想",
       "path": "00.Box/感想.md"
-    },
-    {
-      "basename": "问题记录1",
-      "path": "100.问题记录/问题记录1.md"
     },
     {
       "basename": "技巧",
@@ -129,10 +189,6 @@
       "path": "06.工具/tools0.md"
     },
     {
-      "basename": "postmessage",
-      "path": "07.src学习/漏洞类/xss/postmessage.md"
-    },
-    {
       "basename": "atest",
       "path": "07.src学习/漏洞类/xss/atest.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "ajax",
       "path": "01.开发/前端/ajax.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01.开发/前端/JavaScript.md"
-    },
-    {
-      "basename": "angularjs",
-      "path": "01.开发/前端/angularjs.md"
-    },
-    {
-      "basename": "websocket",
-      "path": "01.开发/架构知识/websocket.md"
-    },
-    {
-      "basename": "oauth",
-      "path": "01.开发/架构知识/oauth.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "01.开发/架构知识/graphql.md"
-    },
-    {
-      "basename": "api",
-      "path": "01.开发/架构知识/api.md"
-    },
-    {
-      "basename": "apikey",
-      "path": "01.开发/架构知识/apikey.md"
-    },
-    {
-      "basename": "客户端知识",
-      "path": "01.开发/前端/客户端知识.md"
-    },
-    {
-      "basename": "js登陆加密分析",
-      "path": "01.开发/前端/js登陆加密分析.md"
-    },
-    {
-      "basename": "JavaScript代码分析案例",
-      "path": "01.开发/前端/JavaScript代码分析案例.md"
-    },
-    {
-      "basename": "前后端分离",
-      "path": "01.开发/架构知识/前后端分离.md"
-    },
-    {
-      "basename": "2024深圳粤盾",
-      "path": "03.面试/面经/2024深圳粤盾.md"
-    },
-    {
-      "basename": "业务逻辑",
-      "path": "02.靶场/bp/业务逻辑.md"
-    },
-    {
-      "basename": "权限提升",
-      "path": "04.渗透/权限提升.md"
     }
   ],
   "omittedPaths": []

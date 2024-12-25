@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/逻辑漏洞.md",
+                "file": "07.src学习/漏洞类/xss/postmessage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逻辑漏洞"
+              "title": "postmessage"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "js逆向",
+                "query": " 20241023231109",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/逻辑漏洞.md"
+                "file": "07.src学习/漏洞类/xss/postmessage.md"
               },
               "icon": "lucide-list",
-              "title": "逻辑漏洞 的大纲"
+              "title": "postmessage 的大纲"
             }
           }
         ],
@@ -176,37 +177,37 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "5d994cb3411f0b5c",
+  "active": "d5ac82794c7f9939",
   "lastOpenFiles": [
+    "07.src学习/漏洞类/api测试.md",
+    "07.src学习/文章分享/《js for hacker》.md",
+    "07.src学习/文章分享/工具命令.md",
+    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
+    "07.src学习/beishan/rce.md",
+    "100.问题记录/问题记录1.md",
+    "08..垃圾箱/temp.md",
+    "08..垃圾箱/pentest.md",
+    "08..垃圾箱/dellnote.md",
+    "01.开发/架构知识/websocket.md",
+    "01.开发/架构知识/oauth.md",
+    "01.开发/架构知识/api.md",
+    "01.开发/架构知识/apikey.md",
+    "01.开发/架构知识/graphql.md",
+    "01.开发/架构知识/前后端分离.md",
+    "03.面试/面经/2024深圳粤盾.md",
+    "03.面试/面经/得物sdl实习面试.md",
+    "05.云安全/云渗透.md",
+    "07.src学习/通用技术/找接口/手动查看js源码.md",
+    "07.src学习/beishan/逻辑漏洞.md",
     "07.src学习/beishan/后端漏洞.md",
     "07.src学习/beishan/必备知识.md",
-    "07.src学习/beishan/逻辑漏洞.md",
     "07.src学习/beishan/前后端数据分析.md",
     "07.src学习/beishan/real.md",
     "07.src学习/beishan/temp.md",
-    "07.src学习/beishan/rce.md",
     "07.src学习/beishan/js逆向.md",
-    "07.src学习/beishan/xiaohuojv/前置.md",
-    "07.src学习/文章分享/通用技术.md",
-    "05.云安全/云渗透.md",
-    "07.src学习/beishan/前端漏洞.md",
-    "07.src学习/beishan/越权.md",
-    "07.src学习/文章分享/漏洞赏金猎人训练营.md",
-    "07.src学习/文章分享/杂记.md",
-    "07.src学习/文章分享/工具命令.md",
-    "07.src学习/文章分享/他人/阿杨.md",
-    "06.工具/kali/kali取消静态ip修网.md",
     "0001.附件/Pasted image 20241221145907.png",
     "0001.附件/Pasted image 20241221145821.png",
-    "06.工具/kali/未命名 1.md",
     "06.工具/kali",
-    "06.工具/kali/msf.md",
-    "00.Box/测试专用.md",
-    "00.Box/感想.md",
-    "100.问题记录/问题记录1.md",
-    "07.src学习/beishan/技巧.md",
-    "07.src学习/漏洞类/xss/xss.md",
-    "07.src学习/漏洞类/xss/xss批量.md",
     "0001.附件/8e9cc5b5df3e8fe60622f3f1030425c.jpg",
     "0001.附件/Pasted image 20241219172645.png",
     "0001.附件/Pasted image 20241216101807.png",
