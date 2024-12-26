@@ -43,4 +43,9 @@ public class HelloServlet extends HttpServlet {
 ```
 
 
-4.配置tomca
+4.配置tomcat
+配置项目发布的路径，在右上角绿色三角形旁边编辑
+![[Pasted image 20241226230239.png]]
+5.访问
+http://localhost:8080/s1/hello
+这里报错500了，不知道为啥
