@@ -9,6 +9,10 @@
       "path": "01.开发/javaweb/未命名.md"
     },
     {
+      "basename": "20241226221649.km",
+      "path": "00.Box/20241226221649.km.md"
+    },
+    {
       "basename": "postmessage",
       "path": "07.src学习/漏洞类/xss/postmessage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tools0",
       "path": "06.工具/tools0.md"
-    },
-    {
-      "basename": "atest",
-      "path": "07.src学习/漏洞类/xss/atest.md"
     }
   ],
   "omittedPaths": []
