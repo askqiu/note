@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "servlet",
+      "path": "01.开发/javaweb/servlet.md"
+    },
+    {
       "basename": "未命名",
       "path": "01.开发/javaweb/未命名.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "atest",
       "path": "07.src学习/漏洞类/xss/atest.md"
-    },
-    {
-      "basename": "路由",
-      "path": "01.开发/架构知识/路由.md"
     }
   ],
   "omittedPaths": []
