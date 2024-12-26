@@ -1,2 +1,2 @@
-是sim公司开发动态web的一门技术
-把实现了servlet接口的
+是sun公司开发动态web的一门技术
+把实现了servlet接口的java程序叫做servlet
