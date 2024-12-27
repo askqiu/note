@@ -83,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "5d994cb3411f0b5c",
+  "active": "24922f586ad3e01f",
   "lastOpenFiles": [
     "0001.附件/Pasted image 20241226230239.png",
     "01.开发/javaweb/未命名.md",
