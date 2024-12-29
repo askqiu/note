@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08..垃圾箱/dellnote.md",
+                "file": "08..垃圾箱/tem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dellnote"
+              "title": "tem"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08..垃圾箱/dellnote.md"
+                "file": "08..垃圾箱/tem.md"
               },
               "icon": "lucide-list",
-              "title": "dellnote 的大纲"
+              "title": "tem 的大纲"
             }
           }
         ],
@@ -178,9 +178,14 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "0001.附件/1cdb3dd64d16cde9b98d0e73bf9bffd.jpg",
+    "0001.附件/73d6728b1ab19ca2f916deb90af6576.jpg",
+    "0001.附件/3fa37e02db2241d3fdc4be00fba7483.jpg",
+    "0001.附件/94500c2537b84f05c9eb4971064c6c3.jpg",
+    "0001.附件/6f9a05952f30d89d83673a281b07f07.jpg",
+    "08..垃圾箱/dellnote.md",
     "08..垃圾箱/important.md",
     "08..垃圾箱/漏洞url.md",
-    "08..垃圾箱/dellnote.md",
     "08..垃圾箱/pentest.md",
     "100.问题记录/问题记录1.md",
     "漏洞案例/乌云.md",
@@ -210,12 +215,7 @@
     "01.开发/架构知识/graphql.md",
     "01.开发/架构知识/前后端分离.md",
     "03.面试/面经/2024深圳粤盾.md",
-    "03.面试/面经/得物sdl实习面试.md",
-    "0001.附件/Pasted image 20241221145907.png",
-    "0001.附件/Pasted image 20241221145821.png",
     "06.工具/kali",
-    "0001.附件/8e9cc5b5df3e8fe60622f3f1030425c.jpg",
-    "0001.附件/Pasted image 20241219172645.png",
     "漏洞案例/乌云漏洞库记录",
     "01.开发/架构知识/api.md.baiduyun.uploading.cfg",
     "0001.附件/Pasted image 20241124145550.png.baiduyun.uploading.cfg",
