@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "dellnote",
+      "path": "08..垃圾箱/dellnote.md"
+    },
+    {
+      "basename": "important",
+      "path": "08..垃圾箱/important.md"
+    },
+    {
+      "basename": "漏洞url",
+      "path": "08..垃圾箱/漏洞url.md"
+    },
+    {
+      "basename": "pentest",
+      "path": "08..垃圾箱/pentest.md"
+    },
+    {
+      "basename": "问题记录1",
+      "path": "100.问题记录/问题记录1.md"
+    },
+    {
+      "basename": "乌云",
+      "path": "漏洞案例/乌云.md"
+    },
+    {
+      "basename": "20241229185305.km",
+      "path": "00.Box/20241229185305.km.md"
+    },
+    {
+      "basename": "tem",
+      "path": "08..垃圾箱/tem.md"
+    },
+    {
       "basename": "temp",
       "path": "08..垃圾箱/temp.md"
     },
@@ -39,18 +71,6 @@
     {
       "basename": "rce",
       "path": "07.src学习/beishan/rce.md"
-    },
-    {
-      "basename": "问题记录1",
-      "path": "100.问题记录/问题记录1.md"
-    },
-    {
-      "basename": "pentest",
-      "path": "08..垃圾箱/pentest.md"
-    },
-    {
-      "basename": "dellnote",
-      "path": "08..垃圾箱/dellnote.md"
     },
     {
       "basename": "websocket",
@@ -179,26 +199,6 @@
     {
       "basename": "xss挖掘",
       "path": "07.src学习/漏洞类/xss/xss挖掘.md"
-    },
-    {
-      "basename": "🐏",
-      "path": "07.src学习/文章分享/他人/🐏.md"
-    },
-    {
-      "basename": "陈广方法论",
-      "path": "07.src学习/文章分享/他人/陈广方法论.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "07.src学习/payload/未命名.md"
-    },
-    {
-      "basename": "tools1",
-      "path": "06.工具/tools1.md"
-    },
-    {
-      "basename": "tools0",
-      "path": "06.工具/tools0.md"
     }
   ],
   "omittedPaths": []
