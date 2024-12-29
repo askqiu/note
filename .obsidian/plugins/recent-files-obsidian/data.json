@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "temp",
+      "path": "08..垃圾箱/temp.md"
+    },
+    {
       "basename": "servlet",
       "path": "01.开发/javaweb/servlet.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "问题记录1",
       "path": "100.问题记录/问题记录1.md"
-    },
-    {
-      "basename": "temp",
-      "path": "08..垃圾箱/temp.md"
     },
     {
       "basename": "pentest",

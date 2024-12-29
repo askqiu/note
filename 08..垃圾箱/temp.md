@@ -1,86 +1,89 @@
 
-| 实验名称 | 连续时间信号与系统的频域分析             |
+| 实验名称 | 系统的复频域分析                   |
 | ---- | -------------------------- |
 | 班级   | 信安一班                       |
 | 组员   | 李凌秋 王兴 苏瑞                  |
 | 学号   | 23270519 23270534 23270510 |
 | 指导老师 | 杨彬                         |
 
-# 一、实验目的
-1、掌握连续时间信号与系统的频域分析方法，从频域的角度对信号与系统的特性进
-行分析。
-2、掌握连续时间信号傅里叶变换与傅里叶逆变换的实现方法。
-3、掌握连续时间傅里叶变换的特点及应用
-4、掌握连续时间傅里叶变换的数值计算方法及绘制信号频谱的方法
-# 二、预习内容
-1、连续时间信号的傅里叶变换与逆变换。
-2、连续时间信号频谱的物理含义。
-3、连续时间系统的频率特性。
-4、连续时间系统的频域分析方法。
 
-我们首先分析了线性系统的输出特性。通过Matlab代码，我们生成了输入信号，并计算了新系统的输出、线性叠加输出以及差信号。代码如下：
 
 第一个代码
 ```
-syms t; % 时间符号
-f = exp(-2*abs(t)); % 符号函数
-F = fourier(f); % 计算傅里叶变换
-subplot(1,2,1); % 分割图形窗口
-ezplot(f); % 绘制原函数图像
-subplot(1,2,2); % 分割图形窗口
-ezplot(F); % 绘制傅里叶变换后的幅频特性
+% 清除所有变量
+clear all;
+% 定义分子和分母系数
+b = [0, 1, -1]; % 分子多项式系数
+a = [1, 3, 2]; % 分母多项式系数
+% 计算零点和极点
+zr = roots(b); % 计算分子多项式的零点
+pr = roots(a); % 计算分母多项式的极点
+% 绘制零点和极点分布（第一组）
+subplot(2,1,1); % 创建第一个子图
+plot(real(zr), imag(zr), 'go', real(pr), imag(pr), 'mx', 'markersize', 12, 'linewidth', 2); 
+% 绘制零点为绿色圆圈，极点为红色叉号
+grid; % 添加网格线
+legend('零点', '极点'); % 添加图例
+% 使用 zplane 函数绘制零极点图（第一组）
+subplot(2,1,2); % 创建第二个子图
+zplane(b, a); % 绘制零极点图
+% 定义第二组分子和分母系数
+figure; % 创建新图窗口
+d = [2, 5, 9, 5, 3]; % 第二组分子多项式系数
+c = [5, 45, 2, 1, 1]; % 第二组分母多项式系数
+% 计算零点和极点（第二组）
+zs = roots(d); % 计算第二组分子多项式的零点
+ps = roots(c); % 计算第二组分母多项式的极点
+% 绘制零点和极点分布（第二组）
+subplot(2,1,1); % 创建第一个子图
+plot(real(zs), imag(zs), 'go', real(ps), imag(ps), 'mx', 'markersize', 12, 'linewidth', 2); 
+% 绘制零点为绿色圆圈，极点为红色叉号
+grid; % 添加网格线
+legend('零点', '极点'); % 添加图例
+% 使用 zplane 函数绘制零极点图（第二组）
+subplot(2,1,2); % 创建第二个子图
+zplane(d, c); % 绘制零极点图
 ```
 第二个代码
 ```
-syms t;
-f = (2/3) * exp(-3*abs(t));%修改部分
-F = fourier(f);
-subplot(1,2,1);
-ezplot(f);
-subplot(1,2,2);
-ezplot(F);
+w = -4*pi : 8*pi/511 : 4*pi;
+num = [2 5 9 5 3];
+den = [5 45 2 1 1];
+h = freqz(num, den, w);
+figure;
+% 绘制幅度谱
+subplot(4, 1, 1);
+plot(w/pi, abs(h));
+grid on;
+title('幅度谱');
+xlabel('omega / \pi');
+ylabel('振幅');
+% 绘制相位谱
+subplot(4, 1, 2);
+plot(w/pi, angle(h));
+grid on;
+title('相位谱');
+xlabel('omega / \pi');
+ylabel('相位 (弧度)');
+% 绘制实部
+subplot(4, 1, 3);
+plot(w/pi, real(h));
+grid on;
+title('实部');
+xlabel('omega / \pi');
+ylabel('实部');
+% 绘制虚部
+subplot(4, 1, 4);
+plot(w/pi, imag(h));
+grid on;
+title('虚部');
+xlabel('omega / \pi');
+ylabel('虚部');
 ```
 
-第三个代码
-```
-syms t w w0;
-w0 = 2; % 设置频移量为 2
-f = exp(-2*abs(t)); % 原始信号
-F = fourier(f, t, w); % 原始信号的傅里叶变换
-% 应用频移特性
-f_shifted = exp(i*w0*t) * f;
-F_shifted = fourier(f_shifted, t, w); % 计算频移后的傅里叶变换
-% 计算差值
-F_diff = F_shifted - subs(F, w, w - w0);
-% 绘制原始信号的幅频特性
-subplot(1,3,1);
-fplot(abs(F), [-15, 15]); % 设置x轴范围
-title('Original Fourier Transform');
-xlabel('\omega');
-ylabel('|F(\omega)|');
-grid on; % 添加网格
-xticks(-15:1:15); % 设置x轴刻度
-% 绘制频移后信号的幅频特性
-subplot(1,3,2);
-fplot(abs(F_shifted), [-15, 15]); % 设置x轴范围
-title('Fourier Transform after Frequency Shift');
-xlabel('\omega');
-ylabel('|F(\omega - \omega_0)|');
-grid on; % 添加网格
-xticks(-15:1:15); % 设置x轴刻度
-% 绘制差值的幅度
-subplot(1,3,3);
-fplot(abs(F_diff), [-15, 15]); % 设置x轴范围
-title('Difference between Frequency Shifted and Transformed');
-xlabel('\omega');
-ylabel('|F(\omega - \omega_0) - F(\omega)|');
-grid on; % 添加网格
-xticks(-15:1:15); % 设置x轴刻度
-```
-作差后结果如图
-![[Pasted image 20241203191211.png]]
 
-# 结论
-通过本次实验，对连续时间信号与系统的频域分析方法有了更为直观和深入的理解。原本在理论学习中较为抽象的傅里叶变换概念，在实际操作和分析信号频谱的过程中变得清晰起来。例如，深刻领会了连续时间信号傅里叶变换能够将时域信号分解为不同频率成分的正弦波或余弦波的叠加，而傅里叶逆变换则是将这些频率成分重新组合成时域信号的过程。
-对于连续时间信号频谱的物理含义有了切实的感悟。明白了频谱图中横坐标表示频率，纵坐标表示对应频率成分的幅度或相位，它反映了信号在频域中的能量分布情况。不同类型的信号具有不同的频谱特征，如周期性信号的频谱是离散的，而非周期性信号的频谱是连续的。这一理解有助于在实际工程应用中，根据信号的频谱特性来设计合适的信号处理系统。
-掌握了连续时间系统的频率特性以及频域分析方法。认识到系统的频率响应函数决定了系统对不同频率输入信号的处理方式，即系统对某些频率成分具有放大或衰减作用，对不同频率的信号存在相移。通过频域分析，可以方便地研究系统在不同频率下的性能，如稳定性、滤波特性等，为系统的设计和优化提供了重要依据。
+![[Pasted image 20241229104646.png]]
+
+
+![[Pasted image 20241229104700.png]]
+![[Pasted image 20241229104732.png]]
