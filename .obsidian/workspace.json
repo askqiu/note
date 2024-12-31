@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08..垃圾箱/tem.md",
+                "file": "08..垃圾箱/dellnote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tem"
+              "title": "dellnote"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08..垃圾箱/tem.md"
+                "file": "08..垃圾箱/dellnote.md"
               },
               "icon": "lucide-list",
-              "title": "tem 的大纲"
+              "title": "dellnote 的大纲"
             }
           }
         ],
@@ -178,6 +178,7 @@
   },
   "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "08..垃圾箱/tem.md",
     "0001.附件/1cdb3dd64d16cde9b98d0e73bf9bffd.jpg",
     "0001.附件/73d6728b1ab19ca2f916deb90af6576.jpg",
     "0001.附件/3fa37e02db2241d3fdc4be00fba7483.jpg",
@@ -190,7 +191,6 @@
     "100.问题记录/问题记录1.md",
     "漏洞案例/乌云.md",
     "00.Box/20241229185305.km.md",
-    "08..垃圾箱/tem.md",
     "0001.附件/Pasted image 20241229185256.png",
     "08..垃圾箱/temp.md",
     "0001.附件/Pasted image 20241229104732.png",
@@ -200,7 +200,6 @@
     "00.Box/20241226221649.km.md",
     "0001.附件/Pasted image 20241226230239.png",
     "01.开发/javaweb/未命名.md",
-    "0001.附件/bcf085dd207b4590db2f6e7dffdc6505.jpg",
     "07.src学习/漏洞类/xss/postmessage.md",
     "01.开发/javaweb",
     "07.src学习/漏洞类/api测试.md",
