@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.工具/kali/未命名 1.md",
+                "file": "02.靶场/bp/csrf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "csrf"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.工具/kali/未命名 1.md"
+                "file": "02.靶场/bp/csrf.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "csrf 的大纲"
             }
           }
         ],
@@ -176,11 +176,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "5d994cb3411f0b5c",
   "lastOpenFiles": [
+    "06.工具/kali/未命名 1.md",
     "06.工具/kali/kali取消静态ip修网.md",
     "06.工具/kali/msf.md",
-    "06.工具/kali/未命名 1.md",
     "05.云安全/云渗透.md",
     "08..垃圾箱/dellnote.md",
     "08..垃圾箱/tem.md",
