@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "JavaScript",
+      "path": "01.开发/前端/JavaScript.md"
+    },
+    {
+      "basename": "graphql",
+      "path": "01.开发/架构知识/graphql.md"
+    },
+    {
+      "basename": "api",
+      "path": "01.开发/架构知识/api.md"
+    },
+    {
+      "basename": "前后端分离",
+      "path": "01.开发/架构知识/前后端分离.md"
+    },
+    {
+      "basename": "路由",
+      "path": "01.开发/架构知识/路由.md"
+    },
+    {
       "basename": "csrf",
       "path": "02.靶场/bp/csrf.md"
     },
@@ -97,20 +117,8 @@
       "path": "01.开发/架构知识/oauth.md"
     },
     {
-      "basename": "api",
-      "path": "01.开发/架构知识/api.md"
-    },
-    {
       "basename": "apikey",
       "path": "01.开发/架构知识/apikey.md"
-    },
-    {
-      "basename": "graphql",
-      "path": "01.开发/架构知识/graphql.md"
-    },
-    {
-      "basename": "前后端分离",
-      "path": "01.开发/架构知识/前后端分离.md"
     },
     {
       "basename": "2024深圳粤盾",
@@ -191,14 +199,6 @@
     {
       "basename": "xss",
       "path": "07.src学习/漏洞类/xss/xss.md"
-    },
-    {
-      "basename": "xss批量",
-      "path": "07.src学习/漏洞类/xss/xss批量.md"
-    },
-    {
-      "basename": "xss挖掘",
-      "path": "07.src学习/漏洞类/xss/xss挖掘.md"
     }
   ],
   "omittedPaths": []
