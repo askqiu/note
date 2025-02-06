@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "越权西瓜",
+      "path": "07.src学习/漏洞类/越权西瓜.md"
+    },
+    {
       "basename": "JavaScript",
       "path": "01.开发/前端/JavaScript.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "技巧",
       "path": "07.src学习/beishan/技巧.md"
-    },
-    {
-      "basename": "xss",
-      "path": "07.src学习/漏洞类/xss/xss.md"
     }
   ],
   "omittedPaths": []
