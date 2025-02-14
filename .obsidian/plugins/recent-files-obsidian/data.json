@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "路径遍历",
-      "path": "02.靶场/bp/路径遍历.md"
+      "basename": "必备知识",
+      "path": "07.src学习/beishan/必备知识.md"
+    },
+    {
+      "basename": "api测试",
+      "path": "07.src学习/漏洞类/api测试.md"
+    },
+    {
+      "basename": "越权西瓜",
+      "path": "07.src学习/漏洞类/越权西瓜.md"
     },
     {
       "basename": "postmessage",
       "path": "07.src学习/漏洞类/xss/postmessage.md"
     },
     {
-      "basename": "越权西瓜",
-      "path": "07.src学习/漏洞类/越权西瓜.md"
+      "basename": "逻辑漏洞",
+      "path": "07.src学习/漏洞类/逻辑漏洞.md"
+    },
+    {
+      "basename": "缓存类",
+      "path": "07.src学习/漏洞类/缓存类.md"
+    },
+    {
+      "basename": "路径遍历",
+      "path": "02.靶场/bp/路径遍历.md"
     },
     {
       "basename": "JavaScript",
@@ -97,10 +113,6 @@
       "path": "01.开发/javaweb/未命名.md"
     },
     {
-      "basename": "api测试",
-      "path": "07.src学习/漏洞类/api测试.md"
-    },
-    {
       "basename": "《js for hacker》",
       "path": "07.src学习/文章分享/《js for hacker》.md"
     },
@@ -149,10 +161,6 @@
       "path": "07.src学习/beishan/后端漏洞.md"
     },
     {
-      "basename": "必备知识",
-      "path": "07.src学习/beishan/必备知识.md"
-    },
-    {
       "basename": "前后端数据分析",
       "path": "07.src学习/beishan/前后端数据分析.md"
     },
@@ -183,22 +191,6 @@
     {
       "basename": "越权",
       "path": "07.src学习/beishan/越权.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "07.src学习/文章分享/杂记.md"
-    },
-    {
-      "basename": "阿杨",
-      "path": "07.src学习/文章分享/他人/阿杨.md"
-    },
-    {
-      "basename": "测试专用",
-      "path": "00.Box/测试专用.md"
-    },
-    {
-      "basename": "感想",
-      "path": "00.Box/感想.md"
     }
   ],
   "omittedPaths": []
