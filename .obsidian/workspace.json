@@ -25,12 +25,14 @@
             "id": "d68c9e436261e12d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "02.靶场/bp/路径遍历.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "路径遍历"
             }
           }
         ],
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07.src学习/文章分享/他人/一年赏金两万五美刀.md",
+                "file": "02.靶场/bp/路径遍历.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "一年赏金两万五美刀 的反向链接列表"
+              "title": "路径遍历 的反向链接列表"
             }
           },
           {
@@ -163,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02.靶场/bp/路径遍历.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "路径遍历 的大纲"
             }
           }
         ],
@@ -192,8 +195,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "d68c9e436261e12d",
   "lastOpenFiles": [
+    "02.靶场/bp/路径遍历.md",
     "07.src学习/漏洞类/越权西瓜.md.baiduyun.uploading.cfg",
     "07.src学习/漏洞类/越权西瓜.md",
     "01.开发/前端/JavaScript.md",
@@ -211,7 +215,6 @@
     "06.工具/kali/未命名 1.md.baiduyun.uploading.cfg",
     "06.工具/kali/kali取消静态ip修网.md.baiduyun.uploading.cfg",
     "02.靶场/bp/authentication.md.baiduyun.uploading.cfg",
-    "01.开发/架构知识/路由.md.baiduyun.uploading.cfg",
     "06.工具/kali/未命名 1.md",
     "06.工具/kali/kali取消静态ip修网.md",
     "06.工具/kali/msf.md",

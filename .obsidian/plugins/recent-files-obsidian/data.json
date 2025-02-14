@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "路径遍历",
+      "path": "02.靶场/bp/路径遍历.md"
+    },
+    {
       "basename": "postmessage",
       "path": "07.src学习/漏洞类/xss/postmessage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "感想",
       "path": "00.Box/感想.md"
-    },
-    {
-      "basename": "技巧",
-      "path": "07.src学习/beishan/技巧.md"
     }
   ],
   "omittedPaths": []
