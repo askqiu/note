@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "测试专用",
+      "path": "00.Box/测试专用.md"
+    },
+    {
+      "basename": "感想",
+      "path": "00.Box/感想.md"
+    },
+    {
       "basename": "云渗透",
       "path": "05.云安全/云渗透.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "前端漏洞",
       "path": "07.src学习/beishan/前端漏洞.md"
-    },
-    {
-      "basename": "越权",
-      "path": "07.src学习/beishan/越权.md"
     }
   ],
   "omittedPaths": []
