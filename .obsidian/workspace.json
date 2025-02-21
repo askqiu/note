@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,7 +181,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "5d994cb3411f0b5c",
+  "active": "24922f586ad3e01f",
   "lastOpenFiles": [
     "07.src学习/漏洞类/api测试.md",
     "07.src学习/漏洞类/越权.md",
