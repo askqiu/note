@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "100.问题记录/问题记录1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "云渗透"
+              "title": "问题记录1"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.云安全/云渗透.md",
+                "file": "100.问题记录/问题记录1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "云渗透 的大纲"
+              "title": "问题记录1 的大纲"
             }
           }
         ],
@@ -180,11 +180,16 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "5d994cb3411f0b5c",
+  "active": "acc6d137d7deb89f",
   "lastOpenFiles": [
+    "06.工具/bugbounty/arjun.md",
+    "06.工具/bp/xss获取cookie.md",
+    "01.开发/javaweb/未命名.md",
+    "01.开发/javaweb/servlet.md",
+    "00.Box/未命名.md",
+    "05.云安全/云渗透.md",
     "00.Box/测试专用.md",
     "00.Box/感想.md",
-    "05.云安全/云渗透.md",
     "03.面试/old/研判.md",
     "03.面试/积累",
     "03.面试/old",
@@ -206,7 +211,6 @@
     "01.开发/架构知识/api.md",
     "01.开发/架构知识/前后端分离.md",
     "01.开发/架构知识/路由.md",
-    "02.靶场/bp/csrf.md",
     "漏洞案例/乌云.md.baiduyun.uploading.cfg",
     "07.src学习/文章分享/他人/阿杨.md.baiduyun.uploading.cfg",
     "07.src学习/payload/未命名.md.baiduyun.uploading.cfg",
@@ -214,10 +218,6 @@
     "07.src学习/beishan/前后端数据分析.md.baiduyun.uploading.cfg",
     "07.src学习/beishan/js逆向.md.baiduyun.uploading.cfg",
     "06.工具/kali/未命名 1.md.baiduyun.uploading.cfg",
-    "06.工具/kali/未命名 1.md",
-    "06.工具/kali/kali取消静态ip修网.md",
-    "06.工具/kali/msf.md",
-    "08..垃圾箱/dellnote.md",
     "0001.附件/1cdb3dd64d16cde9b98d0e73bf9bffd.jpg",
     "0001.附件/73d6728b1ab19ca2f916deb90af6576.jpg",
     "0001.附件/3fa37e02db2241d3fdc4be00fba7483.jpg",

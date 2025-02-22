@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "问题记录1",
+      "path": "100.问题记录/问题记录1.md"
+    },
+    {
+      "basename": "arjun",
+      "path": "06.工具/bugbounty/arjun.md"
+    },
+    {
+      "basename": "xss获取cookie",
+      "path": "06.工具/bp/xss获取cookie.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "01.开发/javaweb/未命名.md"
+    },
+    {
+      "basename": "servlet",
+      "path": "01.开发/javaweb/servlet.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "00.Box/未命名.md"
+    },
+    {
       "basename": "云渗透",
       "path": "05.云安全/云渗透.md"
     },
@@ -97,10 +121,6 @@
       "path": "08..垃圾箱/pentest.md"
     },
     {
-      "basename": "问题记录1",
-      "path": "100.问题记录/问题记录1.md"
-    },
-    {
       "basename": "乌云",
       "path": "漏洞案例/乌云.md"
     },
@@ -113,16 +133,8 @@
       "path": "08..垃圾箱/temp.md"
     },
     {
-      "basename": "servlet",
-      "path": "01.开发/javaweb/servlet.md"
-    },
-    {
       "basename": "20241226221649.km",
       "path": "00.Box/20241226221649.km.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01.开发/javaweb/未命名.md"
     },
     {
       "basename": "《js for hacker》",
@@ -187,18 +199,6 @@
     {
       "basename": "js逆向",
       "path": "07.src学习/beishan/js逆向.md"
-    },
-    {
-      "basename": "前置",
-      "path": "07.src学习/beishan/xiaohuojv/前置.md"
-    },
-    {
-      "basename": "通用技术",
-      "path": "07.src学习/文章分享/通用技术.md"
-    },
-    {
-      "basename": "前端漏洞",
-      "path": "07.src学习/beishan/前端漏洞.md"
     }
   ],
   "omittedPaths": []
