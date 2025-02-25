@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "问题记录1"
             }
+          },
+          {
+            "id": "d1f517e55776603c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +163,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100.问题记录/问题记录1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "问题记录1 的大纲"
+              "title": "大纲"
             }
           }
         ],
