@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "推荐网站",
+      "path": "01.开发/后端/推荐网站.md"
+    },
+    {
+      "basename": "java mvc",
+      "path": "01.开发/后端/java mvc.md"
+    },
+    {
       "basename": "逻辑漏洞",
       "path": "07.src学习/beishan/逻辑漏洞.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "real",
       "path": "07.src学习/beishan/real.md"
-    },
-    {
-      "basename": "temp",
-      "path": "07.src学习/beishan/temp.md"
-    },
-    {
-      "basename": "js逆向",
-      "path": "07.src学习/beishan/js逆向.md"
     }
   ],
   "omittedPaths": []

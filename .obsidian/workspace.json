@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/beishan/逻辑漏洞.md",
+                "file": "01.开发/后端/推荐网站.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逻辑漏洞"
+              "title": "推荐网站"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/beishan/逻辑漏洞.md",
+                "file": "01.开发/后端/推荐网站.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "逻辑漏洞 的大纲"
+              "title": "推荐网站 的大纲"
             }
           }
         ],
@@ -195,8 +195,10 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d1f517e55776603c",
+  "active": "acc6d137d7deb89f",
   "lastOpenFiles": [
+    "01.开发/后端/java mvc.md",
+    "07.src学习/beishan/逻辑漏洞.md",
     "02.靶场/bp/路径遍历.md.baiduyun.uploading.cfg",
     "05.云安全/云渗透.md.baiduyun.uploading.cfg",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
@@ -227,12 +229,10 @@
     "01.开发/前端/JavaScript.md",
     "01.开发/架构知识/graphql.md",
     "01.开发/架构知识/api.md",
-    "01.开发/架构知识/前后端分离.md",
     "漏洞案例/乌云.md.baiduyun.uploading.cfg",
     "07.src学习/文章分享/他人/阿杨.md.baiduyun.uploading.cfg",
     "07.src学习/payload/未命名.md.baiduyun.uploading.cfg",
     "07.src学习/beishan/技巧.md.baiduyun.uploading.cfg",
-    "07.src学习/beishan/前后端数据分析.md.baiduyun.uploading.cfg",
     "0001.附件/1cdb3dd64d16cde9b98d0e73bf9bffd.jpg",
     "0001.附件/73d6728b1ab19ca2f916deb90af6576.jpg",
     "0001.附件/3fa37e02db2241d3fdc4be00fba7483.jpg",
