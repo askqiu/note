@@ -25,12 +25,14 @@
             "id": "d1f517e55776603c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "07.src学习/beishan/逻辑漏洞.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "逻辑漏洞"
             }
           }
         ],
@@ -163,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "07.src学习/beishan/逻辑漏洞.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "逻辑漏洞 的大纲"
             }
           }
         ],
@@ -192,7 +195,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "acc6d137d7deb89f",
+  "active": "d1f517e55776603c",
   "lastOpenFiles": [
     "02.靶场/bp/路径遍历.md.baiduyun.uploading.cfg",
     "05.云安全/云渗透.md.baiduyun.uploading.cfg",
