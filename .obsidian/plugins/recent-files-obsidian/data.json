@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "找接口",
+      "path": "07.src学习/通用技术/找接口/找接口.md"
+    },
+    {
+      "basename": "手动查看js源码",
+      "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
+    },
+    {
+      "basename": "必备知识",
+      "path": "07.src学习/通用技术/必备知识.md"
+    },
+    {
+      "basename": "陈广方法论",
+      "path": "07.src学习/文章分享/他人/陈广方法论.md"
+    },
+    {
+      "basename": "通用技术",
+      "path": "07.src学习/文章分享/通用技术.md"
+    },
+    {
       "basename": "推荐网站",
       "path": "01.开发/后端/推荐网站.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "2024深圳粤盾",
       "path": "03.面试/面经/2024深圳粤盾.md"
-    },
-    {
-      "basename": "得物sdl实习面试",
-      "path": "03.面试/面经/得物sdl实习面试.md"
-    },
-    {
-      "basename": "手动查看js源码",
-      "path": "07.src学习/通用技术/找接口/手动查看js源码.md"
-    },
-    {
-      "basename": "后端漏洞",
-      "path": "07.src学习/beishan/后端漏洞.md"
-    },
-    {
-      "basename": "前后端数据分析",
-      "path": "07.src学习/beishan/前后端数据分析.md"
-    },
-    {
-      "basename": "real",
-      "path": "07.src学习/beishan/real.md"
     }
   ],
   "omittedPaths": []

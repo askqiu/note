@@ -39,12 +39,14 @@
             "id": "63e7f7acea1de600",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "07.src学习/通用技术/找接口/找接口.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "找接口"
             }
           }
         ],
@@ -111,8 +113,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,12 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "07.src学习/通用技术/找接口/找接口.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "找接口 的大纲"
             }
           }
         ],
@@ -209,6 +211,10 @@
   },
   "active": "63e7f7acea1de600",
   "lastOpenFiles": [
+    "07.src学习/通用技术/找接口/手动查看js源码.md",
+    "07.src学习/通用技术/必备知识.md",
+    "07.src学习/文章分享/他人/陈广方法论.md",
+    "07.src学习/文章分享/通用技术.md",
     "01.开发/后端/java mvc.md",
     "07.src学习/beishan/逻辑漏洞.md",
     "02.靶场/bp/路径遍历.md.baiduyun.uploading.cfg",
@@ -236,11 +242,7 @@
     "07.src学习/漏洞类/未命名.md",
     "07.src学习/漏洞类/逻辑漏洞.md",
     "07.src学习/漏洞类/缓存类.md",
-    "02.靶场/bp/路径遍历.md",
     "07.src学习/漏洞类/越权西瓜.md.baiduyun.uploading.cfg",
-    "01.开发/前端/JavaScript.md",
-    "01.开发/架构知识/graphql.md",
-    "01.开发/架构知识/api.md",
     "漏洞案例/乌云.md.baiduyun.uploading.cfg",
     "07.src学习/文章分享/他人/阿杨.md.baiduyun.uploading.cfg",
     "07.src学习/payload/未命名.md.baiduyun.uploading.cfg",
