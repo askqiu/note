@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.src学习/通用技术/找接口/找接口.md",
+                "file": "07.src学习/beishan/技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "找接口"
+              "title": "技巧"
             }
           }
         ],
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.src学习/通用技术/找接口/找接口.md",
+                "file": "07.src学习/beishan/技巧.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "找接口 的大纲"
+              "title": "技巧 的大纲"
             }
           }
         ],
@@ -211,12 +211,20 @@
   },
   "active": "63e7f7acea1de600",
   "lastOpenFiles": [
+    "07.src学习/beishan/前后端数据分析.md",
+    "07.src学习/beishan/越权.md",
+    "07.src学习/beishan/js逆向.md",
+    "07.src学习/beishan/rce.md",
+    "07.src学习/beishan/real.md",
+    "07.src学习/beishan/temp.md",
+    "07.src学习/beishan/必备知识.md",
+    "07.src学习/beishan/逻辑漏洞.md",
+    "07.src学习/通用技术/找接口/找接口.md",
     "07.src学习/通用技术/找接口/手动查看js源码.md",
     "07.src学习/通用技术/必备知识.md",
     "07.src学习/文章分享/他人/陈广方法论.md",
     "07.src学习/文章分享/通用技术.md",
     "01.开发/后端/java mvc.md",
-    "07.src学习/beishan/逻辑漏洞.md",
     "02.靶场/bp/路径遍历.md.baiduyun.uploading.cfg",
     "05.云安全/云渗透.md.baiduyun.uploading.cfg",
     "00.Box/测试专用.md.baiduyun.uploading.cfg",
@@ -233,15 +241,7 @@
     "03.面试/old",
     "03.面试/应急.md",
     "03.面试/自我介绍.md",
-    "07.src学习/beishan/必备知识.md",
     "07.src学习/漏洞类/api测试.md",
-    "07.src学习/漏洞类/越权.md",
-    "07.src学习/漏洞类/越权西瓜.md",
-    "07.src学习/漏洞类/xss/postmessage.md",
-    "07.src学习/漏洞类/未命名 1.md",
-    "07.src学习/漏洞类/未命名.md",
-    "07.src学习/漏洞类/逻辑漏洞.md",
-    "07.src学习/漏洞类/缓存类.md",
     "07.src学习/漏洞类/越权西瓜.md.baiduyun.uploading.cfg",
     "漏洞案例/乌云.md.baiduyun.uploading.cfg",
     "07.src学习/文章分享/他人/阿杨.md.baiduyun.uploading.cfg",
